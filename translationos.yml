@@ -4,6 +4,7 @@ on:
   wait_interval: 2s
 pull_requests:
   mode: pr_all_langs
+  automerge: merge
 notification:
   enabled: true
   emails:
@@ -11,6 +12,7 @@ notification:
 files:
   - translation: professional
     service_type: economy
+    content_type: application/asana-yaml
     source_pattern: src/yaml/en-US/source.yml
     source_locale: en-US
     target_pattern: src/yaml/{{country}}/{{original_file_name}}-{{language}}-{{countr_2}}.yml
