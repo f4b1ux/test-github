@@ -2,7 +2,7 @@ enable: true
 on:
   branches:
     - translate
-  wait_interval: 20s
+  wait_interval: 2s
 pull_requests:
   mode: pr_all_langs
 notification:
