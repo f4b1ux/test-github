@@ -1,0 +1,7 @@
+{
+  "src/yaml/en-US/en-reduced-1.yml": [
+    "src/yaml/Italy/en-reduced-1-Italian-IT.yml",
+    "src/yaml/Brazil/en-reduced-1-Portuguese Brazil-BR.yml",
+    "src/yaml/Germany/en-reduced-1-German-DE.yml"
+  ]
+}
