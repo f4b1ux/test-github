@@ -1,9 +1,4 @@
 {
-  "src/yaml/Italy/en-reduced-Italian-IT.yml": [
-    "\"<stringToComment>{comment}</stringToComment>\"",
-    "\"{comment}\"",
-    "\"{message}\""
-  ],
   "src/yaml/Brazil/en-reduced-Portuguese Brazil-BR.yml": [
     "\"<stringToComment>{comment}</stringToComment>\"",
     "\"{comment}\"",
