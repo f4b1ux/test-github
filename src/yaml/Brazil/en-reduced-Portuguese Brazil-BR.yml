@@ -90,11 +90,14 @@
     - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
   variants:
     _default:
-      count_one: <div>You</div> {listOfNames} … and {count} other all {variant} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {variant} this
+      count_one: <one><div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso</one>
+      count_many: <many><div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso</many>
+      count_other: <other><div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso</other>
     liked:
-      count_one: <div>You</div> {listOfNames} … and {count} other all liked this
-      count_other: <div>You</div> {listOfNames} … and {count} others all liked this
+      count_one: <one><div>Você</div> {listOfNames} … e {count} outros todos gostaram disso</one>
+      count_many: <many><div>Você</div> {listOfNames} ... e {count} outros todos gostaram disso</many>
+      count_other: <other><div>Você</div> {listOfNames} ... e {count} outros todos gostaram disso</other>
     '{heart}':
-      count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
+      count_one: <one><div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso</one>
+      count_many: <many><div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso</many>
+      count_other: <other><div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso</other>
