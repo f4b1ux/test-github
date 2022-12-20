@@ -61,7 +61,7 @@
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
     _default: '"{ruleName}" adicionado'
-    my_tasks: '"{ruleName}" adicionado às Minhas Tarefas'
+    my_tasks: '"{ruleName}" adicionado às Minhas grandes Tarefas'
     project: '"{ruleName}" adicionado a este projeto'
     project_template: '"{ruleName}" adicionado a este modelo de projeto'
 '**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]':
