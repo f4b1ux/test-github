@@ -1,8 +1,5 @@
 {
   "src/yaml/Italy/en-reduced-Italian-IT.yml": [
-    "\"<stringToComment>{comment}</stringToComment>\"",
-    "\"{comment}\"",
-    "\"{message}\"",
     "\"{projectName}\" and {count} other projects will be moved to the References [...]",
     "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]",
     "\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]",
@@ -13,9 +10,6 @@
     "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this"
   ],
   "src/yaml/Brazil/en-reduced-Portuguese Brazil-BR.yml": [
-    "\"<stringToComment>{comment}</stringToComment>\"",
-    "\"{comment}\"",
-    "\"{message}\"",
     "\"{projectName}\" and {count} other projects will be moved to the References [...]",
     "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]",
     "\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]",
