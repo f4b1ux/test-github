@@ -13,16 +13,8 @@ files:
   - translation: professional
     service_type: economy
     content_type: application/asana-yaml
-    source_pattern: src/yaml/en-US/source.yml
-    source_locale: en-US
-    target_pattern: src/yaml/{{country}}/{{original_file_name}}-{{language}}-{{countr_2}}.yml
-    target_locales: [ 'it-IT', 'pt-BR' ]
-    notes: These are the notes for dialogs.yml
-  - translation: professional
-    service_type: economy
-    content_type: application/asana-yaml
     source_pattern: src/yaml/en-US/en-reduced.yml
     source_locale: en-US
-    target_pattern: src/yaml/{{country}}/{{original_file_name}}-{{language}}-{{countr_2}}.yml
+    target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
     target_locales: [ 'it-IT', 'pt-BR' ]
     notes: These are the notes for dialogs.yml
