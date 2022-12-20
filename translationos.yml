@@ -17,5 +17,4 @@ files:
     source_locale: en-US
     target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
     target_locales: [ 'it-IT', 'pt-BR' ]
-    automerge: merge
     notes: These are the notes for dialogs.yml
