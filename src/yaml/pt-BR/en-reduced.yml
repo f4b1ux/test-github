@@ -56,7 +56,7 @@
 '"{ruleName}" added to this {variant}':
   author: alexryan
   locations:
-    - asana2/luna-ui/src/components/board/column/board_column_boundary.ts
+    - asana2/luna-ui/src/components/board/column/board_column_boundary1.ts
     - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
