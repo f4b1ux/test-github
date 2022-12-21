@@ -24,8 +24,9 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the References section once your changes are saved.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved.'
+    count_one: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
+    count_many: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
+    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
 '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
@@ -33,22 +34,25 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the References section once your changes are saved. Projects you don’t have access to will also be affected.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects you don’t have access to will also be affected.'
+    count_one: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.'
+    count_many: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.'
+    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.'
 '"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
   author: phillipyu
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the Supporting work section once your changes are saved.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved.'
+    count_one: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavori di supporto una volta salvate le modifiche.'
+    count_many: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavori di supporto una volta salvate le modifiche.'
+    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavori di supporto una volta salvate le modifiche.'
 '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
   author: phillipyu
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
+    count_one: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavori di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.'
+    count_many: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavori di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.'
+    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavori di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.'
 '"{ruleName}" added to this {variant}':
   author: alexryan
   locations:
@@ -56,17 +60,17 @@
     - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
-    _default: '"{ruleName}" added'
-    my_tasks: '"{ruleName}" added to My Tasks'
-    project: '"{ruleName}" added to this project'
-    project_template: '"{ruleName}" added to this project template'
+    _default: '"{ruleName}" aggiunto'
+    my_tasks: '"{ruleName}" aggiunto a Attività personali'
+    project: '"{ruleName}" aggiunto a questo progetto'
+    project_template: '"{ruleName}" aggiunto a questo modello di progetto'
 '**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]':
   author: ginoreyes
   comment: '[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline'
   value: |-
-    **Duplicate this task in order to track a new prospect. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
+    **Duplica questa attività per tenere traccia di un nuovo potenziale cliente. Per duplicare un'attività, vai al menu '...' e fai clic su 'Converti attività in modello.'"**
 
-    Then, follow the workback schedule in the subtasks below to move them from an opportunity to a customer!
+    Poi, segui la pianificazione del workback nelle sottoattività sottostanti per spostarle da un'opportunità a un cliente!
 '**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]':
   author: ginoreyes
   comment: '[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar'
@@ -74,15 +78,7 @@
     - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
     - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
     - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
-  value: |-
-    **Duplicate this task to create a blog task. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
-
-    Then, fill out the following information in order to start a new blog:
-    -Topic:
-    -Title:
-    -Category:
-
-    See the subtasks below for a suggested workback schedule:
+  value: '"**Duplicare questa attività per creare un''attività blog. Per duplicare un''attività, vai al menu ''...'' e fai clic su ''Converti attività in modello.''\"**\n\nPoi, compila le seguenti informazioni per avviare un nuovo blog:\ n-Argomento:\ n-Titolo:\ n-Categoria:\ n\nVedi le sottoattività qui sotto per una pianificazione suggerita del workback:"'
 <div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this:
   author: caleb
   deprecated: true
@@ -90,11 +86,14 @@
     - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
   variants:
     _default:
-      count_one: <div>You</div> {listOfNames} … and {count} other all {variant} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {variant} this
+      count_one: <div>You</div> {listOfNames} ... e tutto {variant} il {count} resto
+      count_many: <div>You</div> {listOfNames} ... e {count} altri tutto {variant} questo
+      count_other: <div>You</div> {listOfNames} ... e {count} altri tutto {variant} questo
     liked:
-      count_one: <div>You</div> {listOfNames} … and {count} other all liked this
-      count_other: <div>You</div> {listOfNames} … and {count} others all liked this
+      count_one: <div>You</div> {listOfNames} ... e {count} ad altri è piaciuto questo
+      count_many: <div>You</div> {listOfNames} ... e {count} ad altri è piaciuto tutto questo
+      count_other: <div>You</div> {listOfNames} ... e {count} ad altri è piaciuto tutto questo
     '{heart}':
-      count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
+      count_one: <div>You</div> {listOfNames} ... e tutto {heart} il {count} resto
+      count_many: <div>You</div> {listOfNames} ... e {count} altri tutto {heart} questo
+      count_other: <div>You</div> {listOfNames} ... e {count} altri tutto {heart} questo
