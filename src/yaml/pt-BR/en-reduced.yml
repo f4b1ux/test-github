@@ -62,7 +62,7 @@
   variants:
     _default: '"{ruleName}" realmente adicionou olá'
     my_tasks: '"{ruleName}" adicionado às Minhas grandes Tarefas'
-    project: '"{ruleName}" adicionado a este projeto'
+    project: '"{ruleName}" adicionado a este grande projeto'
     project_template: '"{ruleName}" adicionado a este modelo de projeto'
 '**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]':
   author: ginoreyes
