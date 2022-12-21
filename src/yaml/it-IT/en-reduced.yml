@@ -60,10 +60,10 @@
     - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
-    _default: '"{ruleName}" davvero aggiunto ciao'
-    my_tasks: '"{ruleName}" aggiunto a Le mie grandi attività'
-    project: '"{ruleName}" aggiunto a questo progetto'
-    project_template: '"{ruleName}" aggiunto a questo modello di progetto'
+    _default: '"{ruleName}" really added hello'
+    my_tasks: '"{ruleName}" added to My big Tasks'
+    project: '"{ruleName}" added to this very big project'
+    project_template: '"{ruleName}" added to this project template'
 '**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]':
   author: ginoreyes
   comment: '[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline'
