@@ -60,7 +60,7 @@
     - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
-    _default: '"{ruleName}" aggiunto'
+    _default: '"{ruleName}" davvero aggiunto ciao'
     my_tasks: '"{ruleName}" aggiunto a Le mie grandi attività'
     project: '"{ruleName}" aggiunto a questo progetto'
     project_template: '"{ruleName}" aggiunto a questo modello di progetto'
