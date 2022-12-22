@@ -1,7 +1,0 @@
-{
-  "src/yaml/pt-BR/en-reduced.yml": [
-    "\"<stringToComment>{comment}</stringToComment>\"",
-    "\"{comment}\"",
-    "\"{message}\""
-  ]
-}
