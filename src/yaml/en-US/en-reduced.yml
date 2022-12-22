@@ -25,7 +25,7 @@
   value: '"{message}"'
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
-  comment: Use same translation as 'References [noun]'
+  comment: Use same big translation as 'References [noun]'
   fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
