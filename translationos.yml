@@ -3,7 +3,7 @@ on:
     - translate
   wait_interval: 2s
 pull_requests:
-  mode: pr_all_langs
+  mode: pr_per_lang
   automerge: merge
 notification:
   enabled: true
