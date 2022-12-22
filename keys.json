@@ -1,8 +1,5 @@
 {
   "src/yaml/pt-BR/en-reduced.yml": [
-    "\"<stringToComment>{comment}</stringToComment>\"",
-    "\"{comment}\"",
-    "\"{message}\"",
     "\"{projectName}\" and {count} other projects will be moved to the References [...]",
     "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]",
     "\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]",
