@@ -1,6 +1,0 @@
-'"{comment}"':
-  author: jinchang
-  deprecated: true
-  locations:
-    - asana2/asana/email/core/components/email_comment_hearted_story.ts
-  value: '"{comment}"'
