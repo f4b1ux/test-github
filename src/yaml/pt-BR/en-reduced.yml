@@ -2,13 +2,13 @@
   author: jinchangM
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
-  value: '"<stringToComment>{comment}</stringToComment>"'
+  value: <stringToComment>{comment}</stringToComment>
 '"{comment}"':
   author: jinchang
   deprecated: true
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
-  value: '"{comment}"'
+  value: '{comment}'
 '"{message}"':
   author: adrianyen
   locations:
@@ -16,7 +16,7 @@
     - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
     - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
     - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
-  value: '"{message}"'
+  value: '{message}'
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
