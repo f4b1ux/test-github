@@ -3,7 +3,7 @@ on:
     - translate
   wait_interval: 2s
 pull_requests:
-  mode: pr_per_lang
+  mode: pr_all_langs
   automerge: merge
 notification:
   enabled: true
@@ -17,4 +17,12 @@ files:
     source_locale: en-US
     target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
     target_locales: [ 'it-IT', 'pt-BR' ]
+    notes: These are the notes for dialogs.yml
+  - translation: professional
+    service_type: economy
+    content_type: application/asana-yaml
+    source_pattern: src/yaml/en-US/en.yml
+    source_locale: en-US
+    target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
+    target_locales: [ 'it-IT' ]
     notes: These are the notes for dialogs.yml
