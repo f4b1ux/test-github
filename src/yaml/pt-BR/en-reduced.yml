@@ -6,11 +6,11 @@
     - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
     - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
   value: |-
-    **Duplicate this task to create a blog task. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
+    **Duplique esta tarefa para criar uma tarefa de blog. Para duplicar uma tarefa, vá para o menu '...' e clique em 'Converter tarefa em modelo'. "**
 
-    Then, fill out the following information in order to start a new blog:
-    -Topic:
-    -Title:
-    -Category:
+    Em seguida, preencha as seguintes informações para iniciar um novo blog:
+    -Tópico:
+    -Título:
+    -Categoria:
 
-    See the subtasks below for a suggested workback schedule:
+    Veja as subtarefas abaixo para uma programação de retorno de trabalho sugerida:
