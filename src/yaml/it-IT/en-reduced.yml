@@ -1,0 +1,16 @@
+'**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]':
+  author: ginoreyes
+  comment: '[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar'
+  locations:
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
+  value: |-
+    **Duplicare questa attività per creare un'attività blog. Per duplicare un'attività, vai al menu '...' e fai clic su 'Converti attività in modello.'"**
+
+    Quindi, compila le seguenti informazioni per avviare un nuovo blog:
+    -Topic:
+    -Title: -Category:
+
+
+    Consultare le sottoattività riportate di seguito per una pianificazione del workback consigliata:
