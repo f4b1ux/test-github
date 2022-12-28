@@ -3,4 +3,4 @@
   'deprecated': true
   'locations':
     - apps/asana/view/multi_assign_task_popup_view.js
-  'value': ... will be assigned a copy
+  'value': ... será atribuída uma cópia
