@@ -1,0 +1,6 @@
+'... will be assigned a copy':
+  'author': jchurch
+  'deprecated': true
+  'locations':
+    - apps/asana/view/multi_assign_task_popup_view.js
+  'value': ... será atribuída uma cópia
