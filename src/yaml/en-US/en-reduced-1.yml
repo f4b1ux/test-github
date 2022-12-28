@@ -73,6 +73,12 @@
 
 
     Then, follow the workback schedule in the subtasks below to move them from an opportunity to a customer!'
+'... will be assigned a copy':
+  author: jchurch
+  deprecated: true
+  locations:
+    - apps/asana/view/multi_assign_task_popup_view.js
+  value: '... will be assigned a copy'
 '**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]':
   author: ginoreyes
   comment: '[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar'
