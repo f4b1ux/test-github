@@ -96,11 +96,14 @@
     - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
   variants:
     _default:
-      count_one: <div>You</div> {listOfNames} … and {count} other all {variant} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {variant} this
+      count_one: <div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso
+      count_many: <div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso
+      count_other: <div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso
     liked:
-      count_one: <div>You</div> {listOfNames} … and {count} other all liked this
-      count_other: <div>You</div> {listOfNames} … and {count} others all liked this
+      count_one: <div>Você</div> {listOfNames} … e {count} outros todos gostaram disso
+      count_many: <div>Você</div> {listOfNames} ... e {count} outros todos gostaram disso
+      count_other: <div>Você</div> {listOfNames} ... e {count} outros todos gostaram disso
     "{heart}":
-      count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
+      count_one: <div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso
+      count_many: <div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso
+      count_other: <div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso
