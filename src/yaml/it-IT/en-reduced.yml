@@ -9,6 +9,11 @@
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
   value: Ciao mondo!
+new key:
+  author: fabio
+  locations:
+    - fabio
+  value: Ciao mondo!
 '"{message}"':
   author: adrianyen
   locations:
