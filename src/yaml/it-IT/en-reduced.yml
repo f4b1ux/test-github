@@ -13,7 +13,7 @@ new key:
   author: fabio
   locations:
     - fabio
-  value: new key
+  value: Ciao mondo!
 '"{message}"':
   author: adrianyen
   locations:
