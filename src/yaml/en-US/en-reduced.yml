@@ -15,6 +15,11 @@
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
   value: '"{comment}"'
+'new key':
+  author: fabio
+  locations:
+    - fabio
+  value: 'new key'
 '"{message}"':
   author: adrianyen
   locations:
