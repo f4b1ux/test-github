@@ -8,9 +8,9 @@
   author: jinchangM
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
-  value: '"<stringToComment>{comment}</stringToComment>"'
+  value: '"<stringToComment>Hello</stringToComment>"'
 '"{comment}"':
-  author: jinchang
+  author: jinchang a soreta
   deprecated: true
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
