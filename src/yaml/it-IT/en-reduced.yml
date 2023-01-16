@@ -1,0 +1,11 @@
+'"<stringToComment>{comment}</stringToComment>"':
+  author: jinchangM
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
+  value: '"<stringToComment>BIG {comment}</stringToComment>"'
+'"{comment}"':
+  author: jinchang a soreta
+  deprecated: true
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: '"{comment}"'
