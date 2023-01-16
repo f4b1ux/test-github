@@ -3,6 +3,12 @@
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
   value: <stringToComment>Ciao vecchio amico!</stringToComment>
+'"{comment}"':
+  author: jinchang a soretissima
+  deprecated: true
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: // This is a comment
 '"{message}"':
   author: adrianyen
   locations:
