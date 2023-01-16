@@ -16,7 +16,7 @@
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
   value: '"{comment}"'
 '"{message}"':
-  author: adrianyen
+  author: adrianyen a soreta
   locations:
     - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
     - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
@@ -26,7 +26,7 @@
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
-  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
+  fallback_key: '"{projectName}" big and {count} other projects will be moved to the Supporting work [...]'
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
