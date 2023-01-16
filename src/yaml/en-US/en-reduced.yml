@@ -8,9 +8,9 @@
   author: jinchangM
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
-  value: '"<stringToComment>{comment}</stringToComment>"'
+  value: '"<stringToComment>BIG {comment}</stringToComment>"'
 '"{comment}"':
-  author: jinchang
+  author: jinchang a soret
   deprecated: true
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
