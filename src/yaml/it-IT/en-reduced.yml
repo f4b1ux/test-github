@@ -2,7 +2,7 @@
   author: jinchangM
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
-  value: '"<stringToComment>Hello my friend!</stringToComment>"'
+  value: «<stringToComment>Ciao amico mio!</stringToComment>"
 '"{comment}"':
   author: jinchang a soreta
   deprecated: true
