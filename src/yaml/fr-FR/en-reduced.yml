@@ -1,0 +1,106 @@
+'"<stringToComment>{comment}</stringToComment>"':
+  author: jinchangM
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
+  value: <stringToComment>{comment}</stringToComment>
+'"{comment}"':
+  author: jinchangdsds
+  deprecated: false
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: "{comment}"
+'"{message}"':
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
+    - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
+  value: "{message}"
+'"{projectName}" and {count} other projects will be moved to the References [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: '"{projectName}" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées.'
+    count_other: "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées."
+'"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
+    count_other: "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
+'"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: '"{projectName}" et {count} tout autre projet sera déplacé vers la section Support de travail une fois vos modifications enregistrées.'
+    count_other: '"{projectName}" et les {count} autres projets seront déplacés vers la section Support de travail une fois vos modifications enregistrées.'
+'"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Support de travail une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
+    count_other: "\"{projectName}\" et les {count} autres projets seront déplacés vers la section Support de travail une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
+'"{ruleName}" added to this {variant}':
+  author: alexryan
+  locations:
+    - asana2/luna-ui/src/components/board/column/board_column_boundary.ts
+    - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
+    - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
+  variants:
+    _default: '"{ruleName}" ajouté'
+    my_tasks: '"{ruleName}" ajouté à Mes tâches'
+    project: '"{ruleName}" ajouté à ce projet'
+    project_template: '"{ruleName}" ajouté à ce modèle de projet'
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline"
+  value: |-
+    **Dupliquer cette tâche afin de suivre un nouveau prospect. Pour dupliquer une tâche, accédez au menu '...' et cliquez sur 'Convertir la tâche en modèle'. "**
+
+    Ensuite, suivez le calendrier de retour en arrière dans les sous-tâches ci-dessous pour les déplacer d'une opportunité à un client !
+"... will be assigned a copy":
+  author: jchurch
+  deprecated: true
+  locations:
+    - apps/asana/view/multi_assign_task_popup_view.js
+  value: ... se verra attribuer une copie
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
+  locations:
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
+  value: |-
+    **Dupliquez cette tâche pour créer une tâche de blog. Pour dupliquer une tâche, accédez au menu '...' et cliquez sur 'Convertir la tâche en modèle'. "**
+
+    Ensuite, remplissez les informations suivantes afin de démarrer un nouveau blog :
+    -Thème :
+    -Titre :
+    -Catégorie :
+
+    Voir les sous-tâches ci-dessous pour un calendrier de travail suggéré :
+"<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
+  author: caleb
+  deprecated: true
+  locations:
+    - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
+  variants:
+    _default:
+      count_one: <div>Vous</div> {listOfNames} … et {count} tout le {variant} reste
+      count_other: <div>Vous</div> {listOfNames} … et {count} d'autres tout {variant} cela
+    liked:
+      count_one: <div>Vous</div> {listOfNames} … et {count} d'autres ont tous aimé ça
+      count_other: <div>Vous</div> {listOfNames} … et {count} d'autres ont tous aimé
+    "{heart}":
+      count_one: <div>Vous</div> {listOfNames} … et {count} tout le {heart} reste
+      count_other: <div>Vous</div> {listOfNames} … et {count} d'autres tout {heart} cela

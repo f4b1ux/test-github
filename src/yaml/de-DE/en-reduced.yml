@@ -1,0 +1,106 @@
+'"<stringToComment>{comment}</stringToComment>"':
+  author: jinchangM
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
+  value: <stringToComment>{comment}</stringToComment>
+'"{comment}"':
+  author: jinchangdsds
+  deprecated: false
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: "{comment}"
+'"{message}"':
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
+    - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
+  value: "{message}"
+'"{projectName}" and {count} other projects will be moved to the References [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: '"{projectName}" und {count} andere Projekte werden in den Abschnitt Referenzen verschoben, sobald Ihre Änderungen gespeichert sind.'
+    count_other: '"{projectName}" und {count} andere Projekte werden in den Abschnitt Referenzen verschoben, sobald Ihre Änderungen gespeichert sind.'
+'"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: '"{projectName}" und {count} andere Projekte werden in den Abschnitt Referenzen verschoben, sobald Ihre Änderungen gespeichert sind. Projekte, auf die Sie keinen Zugriff haben, sind ebenfalls betroffen.'
+    count_other: '"{projectName}" und {count} andere Projekte werden in den Abschnitt Referenzen verschoben, sobald Ihre Änderungen gespeichert sind. Projekte, auf die Sie keinen Zugriff haben, sind ebenfalls betroffen.'
+'"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: '"{projectName}" und ein {count} anderes Projekt wird in den Abschnitt "Unterstützende Arbeit" verschoben, sobald Ihre Änderungen gespeichert wurden.'
+    count_other: '"{projectName}" und {count} andere Projekte werden in den Abschnitt "Unterstützende Arbeit" verschoben, sobald Ihre Änderungen gespeichert sind.'
+'"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_one: '"{projectName}" und ein {count} anderes Projekt wird in den Abschnitt "Unterstützende Arbeit" verschoben, sobald Ihre Änderungen gespeichert wurden. Projekte, auf die Sie keinen Zugriff haben, sind ebenfalls betroffen.'
+    count_other: '"{projectName}" und {count} andere Projekte werden in den Abschnitt "Unterstützende Arbeit" verschoben, sobald Ihre Änderungen gespeichert sind. Projekte, auf die Sie keinen Zugriff haben, sind ebenfalls betroffen.'
+'"{ruleName}" added to this {variant}':
+  author: alexryan
+  locations:
+    - asana2/luna-ui/src/components/board/column/board_column_boundary.ts
+    - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
+    - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
+  variants:
+    _default: '"{ruleName}" hinzugefügt'
+    my_tasks: '"{ruleName}" zu Meine Aufgaben hinzugefügt'
+    project: '"{ruleName}" zu diesem Projekt hinzugefügt'
+    project_template: '"{ruleName}" zu dieser Projektvorlage hinzugefügt'
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline"
+  value: |-
+    **Duplizieren Sie diese Aufgabe, um einen neuen Interessenten zu verfolgen. Um eine Aufgabe zu duplizieren, gehen Sie zum Menü '...' und klicken Sie auf 'Aufgabe in Vorlage konvertieren'. "**
+
+    Befolgen Sie dann den Workback-Zeitplan in den folgenden Teilaufgaben, um sie von einer Opportunity zu einem Kunden zu verschieben!
+"... will be assigned a copy":
+  author: jchurch
+  deprecated: true
+  locations:
+    - apps/asana/view/multi_assign_task_popup_view.js
+  value: ... wird eine Kopie zugewiesen
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
+  locations:
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
+  value: |-
+    **Duplizieren Sie diese Aufgabe, um eine Blog-Aufgabe zu erstellen. Um eine Aufgabe zu duplizieren, gehen Sie zum Menü '...' und klicken Sie auf 'Aufgabe in Vorlage konvertieren'. "**
+
+    Füllen Sie dann die folgenden Informationen aus, um einen neuen Blog zu starten:
+    -Thema:
+    -Titel:
+    -Kategorie:
+
+    Siehe die Unteraufgaben unten für einen vorgeschlagenen Workback-Zeitplan:
+"<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
+  author: caleb
+  deprecated: true
+  locations:
+    - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
+  variants:
+    _default:
+      count_one: <div>Du</div> {listOfNames} … und {count} andere all {variant} das
+      count_other: <div>Du</div> {listOfNames} … und {count} andere all {variant} das
+    liked:
+      count_one: <div>Du</div> {listOfNames} ... und {count} andere mochten das
+      count_other: <div>Du</div> {listOfNames} ... und {count} andere mochten das
+    "{heart}":
+      count_one: <div>Du</div> {listOfNames} … und {count} andere all {heart} das
+      count_other: <div>Du</div> {listOfNames} … und {count} andere all {heart} das
