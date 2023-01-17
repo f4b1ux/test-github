@@ -5,7 +5,7 @@
   value: <stringToComment>{comment}</stringToComment>
 '"{comment}"':
   author: jinchang
-  deprecated: true
+  deprecated: false
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
   value: "{comment}"
