@@ -16,7 +16,7 @@ files:
     source_pattern: src/yaml/en-US/en-reduced.yml
     source_locale: en-US
     target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
-    target_locales: [ 'it-IT', 'es-ES', 'fr-FR' ]
+    target_locales: [ 'it-IT' ]
     notes: These are the notes for dialogs.yml
   - translation: professional
     service_type: economy
