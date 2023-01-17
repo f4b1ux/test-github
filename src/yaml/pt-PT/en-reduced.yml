@@ -24,8 +24,8 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" e {count} altro progetto verrà spostato nella sezione Riferimenti una volta salvate le modifiche.'
-    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
+    count_one: '"{projectName}" e {count} outros projetos serão movidos para a seção Referências assim que as alterações forem salvas.'
+    count_other: '"{projectName}" e {count} outros projetos serão movidos para a seção Referências assim que as alterações forem salvas.'
 '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
@@ -33,22 +33,22 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" e {count} altro progetto verrà spostato nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno impattati.'
-    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno impattati.'
+    count_one: '"{projectName}" e {count} outros projetos serão movidos para a seção Referências assim que as alterações forem salvas. Os projectos aos quais não tem acesso também serão afectados.'
+    count_other: '"{projectName}" e {count} outros projetos serão movidos para a seção Referências assim que as alterações forem salvas. Os projectos aos quais não tem acesso também serão afectados.'
 '"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
   author: phillipyu
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" e {count} altro progetto verrà spostato nella sezione Lavoro di supporto una volta salvate le modifiche.'
-    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavoro di supporto una volta salvate le modifiche.'
+    count_one: '"{projectName}" e {count} outro projeto serão movidos para a secção Trabalho de suporte assim que as alterações forem guardadas.'
+    count_other: '"{projectName}" e {count} outros projetos serão movidos para a seção Trabalho de suporte assim que as alterações forem salvas.'
 '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
   author: phillipyu
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" e {count} altro progetto verrà spostato nella sezione Lavoro di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno impattati.'
-    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Lavoro di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno impattati.'
+    count_one: '"{projectName}" e {count} outro projeto serão movidos para a secção Trabalho de suporte assim que as alterações forem guardadas. Os projectos aos quais não tem acesso também serão afectados.'
+    count_other: '"{projectName}" e {count} outros projetos serão movidos para a seção Trabalho de suporte assim que as alterações forem salvas. Os projectos aos quais não tem acesso também serão afectados.'
 '"{ruleName}" added to this {variant}':
   author: alexryan
   locations:
@@ -56,23 +56,23 @@
     - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
-    _default: '"{ruleName}" aggiunta'
-    my_tasks: '"{ruleName}" aggiunta a Attività personali'
-    project: '"{ruleName}" aggiunta a questo progetto'
-    project_template: '"{ruleName}" aggiunto a questo modello di progetto'
+    _default: '"{ruleName}" adicionado'
+    my_tasks: '"{ruleName}" adicionado às Minhas Tarefas'
+    project: '"{ruleName}" adicionado a este projeto'
+    project_template: '"{ruleName}" adicionado a este modelo de projeto'
 "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]":
   author: ginoreyes
   comment: "[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline"
   value: |-
-    **Duplicare questa attività per tenere traccia di un nuovo potenziale cliente. Per duplicare un'attività, vai al menu '...' e fai clic su 'Converti attività in modello.'"**
+    **Duplicar esta tarefa para rastrear um novo cliente em potencial. Para duplicar uma tarefa, vá para o menu '...' e clique em 'Converter tarefa em modelo'. "**
 
-    Quindi, segui il programma di workback nelle sottoattività sottostanti per spostarle da un'opportunità a un cliente!
+    Em seguida, siga o cronograma de workback nas subtarefas abaixo para movê-las de uma oportunidade para um cliente!
 "... will be assigned a copy":
   author: jchurch
   deprecated: true
   locations:
     - apps/asana/view/multi_assign_task_popup_view.js
-  value: ... verrà assegnata una copia
+  value: ... será atribuída uma cópia
 "**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]":
   author: ginoreyes
   comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
@@ -81,14 +81,14 @@
     - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
     - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
   value: |-
-    **Duplicare questa attività per creare un'attività blog. Per duplicare un'attività, vai al menu '...' e fai clic su 'Converti attività in modello.'"**
+    **Duplicar esta tarefa para criar uma tarefa de blog. Para duplicar uma tarefa, vá para o menu '...' e clique em 'Converter tarefa em modelo'. "**
 
-    Quindi, compila le seguenti informazioni per avviare un nuovo blog:
-    -Argomento:
-    -Titolo: 
+    Em seguida, preencha as seguintes informações para iniciar um novo blog:
+    -Tópico:
+    -Título:
     -Categoria:
 
-    Consultare le sottoattività riportate di seguito per una pianificazione del workback consigliata:
+    Veja as subtarefas abaixo para um cronograma de trabalho sugerido:
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   author: caleb
   deprecated: true
@@ -96,11 +96,11 @@
     - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
   variants:
     _default:
-      count_one: <div>You</div> {listOfNames} ... e {count} altri tutti {variant} questo
-      count_other: <div>You</div> {listOfNames} ... e {count} altri tutto {variant} questo
+      count_one: <div>Você</div> {listOfNames} ... {count} e tudo {variant} isso
+      count_other: <div>Você</div> {listOfNames} … e {count} outros tudo {variant} isso
     liked:
-      count_one: <div>You</div> {listOfNames} ... e ad altri {count} è piaciuto questo
-      count_other: <div>You</div> {listOfNames} ... e ad altri {count} è piaciuto questo
+      count_one: <div>Você</div> {listOfNames} … e {count} outros todos gostaram disso
+      count_other: <div>Você</div> {listOfNames} … e todos os {count} outros gostaram disso
     "{heart}":
-      count_one: <div>You</div> {listOfNames} ... e {count} altri {heart} questo
-      count_other: <div>You</div> {listOfNames} ... e {count} altri tutti {heart} questo
+      count_one: <div>Você</div> {listOfNames} ... {count} e tudo {heart} isso
+      count_other: <div>Você</div> {listOfNames} … e {count} outros tudo {heart} isso
