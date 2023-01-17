@@ -1,0 +1,99 @@
+'"<stringToComment>{comment}</stringToComment>"':
+  author: jinchangM
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
+  value: <stringToComment>{comment}</stringToComment>
+'"{comment}"':
+  author: jinchang
+  deprecated: true
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: "{comment}"
+'"{message}"':
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
+    - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
+  value: "{message}"
+'"{projectName}" and {count} other projects will be moved to the References [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_other: “{projectName}”{count}和其他项目将在保存更改后移至“引用”部分。
+'"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_other: “{projectName}”{count}和其他项目将在保存更改后移至“引用”部分。您没有访问权限的项目也将受到影响。
+'"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_other: “{projectName}”{count}和其他项目将在保存更改后移至“支持工作”部分。
+'"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_other: “{projectName}”{count}和其他项目将在保存更改后移至“支持工作”部分。您没有访问权限的项目也将受到影响。
+'"{ruleName}" added to this {variant}':
+  author: alexryan
+  locations:
+    - asana2/luna-ui/src/components/board/column/board_column_boundary.ts
+    - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
+    - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
+  variants:
+    _default: “{ruleName}”已添加
+    my_tasks: “{ruleName}”已添加到我的任务
+    project: '"{ruleName}"已添加到此项目'
+    project_template: '"{ruleName}"已添加到此项目模板'
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline"
+  value: |-
+    * *复制此任务以跟踪新潜在客户。要复制任务，请转到“...”菜单，然后单击“将任务转换为模板”。"* *
+
+    然后，按照下面子任务中的回调时间表将他们从商机转移到客户！
+"... will be assigned a copy":
+  author: jchurch
+  deprecated: true
+  locations:
+    - apps/asana/view/multi_assign_task_popup_view.js
+  value: ...将分配一个副本
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
+  locations:
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
+  value: |-
+    * *复制此任务以创建博客任务。要复制任务，请转到“...”菜单，然后单击“将任务转换为模板”。"* *
+
+    然后，填写以下信息，以便开始一个新的博客：
+    -主题：
+    -标题： -
+    类别：
+
+    请参阅下面的子任务以获取建议的回调时间表：
+"<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
+  author: caleb
+  deprecated: true
+  locations:
+    - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
+  variants:
+    _default:
+      count_other: <div>你...</div>{listOfNames} ……以及{count}其他人{variant}这一切
+    liked:
+      count_other: <div>你...</div>{listOfNames} ……{count}其他人都喜欢这个
+    "{heart}":
+      count_other: <div>你...</div>{listOfNames} ……以及{count}其他人{heart}这一切
