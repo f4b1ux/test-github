@@ -2,13 +2,13 @@
   author: jinchangM
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
-  value: '"<stringToComment>{comment}</stringToComment>"'
+  value: <stringToComment>{comment}</stringToComment>
 '"{comment}"':
   author: jinchang
   deprecated: true
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
-  value: '"{comment}"'
+  value: "{comment}"
 '"{message}"':
   author: adrianyen
   locations:
@@ -16,7 +16,7 @@
     - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
     - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
     - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
-  value: '"{message}"'
+  value: "{message}"
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
@@ -24,8 +24,7 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the References section once your changes are saved.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved.'
+    count_zero: سيتم نقل
 '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
@@ -33,22 +32,19 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the References section once your changes are saved. Projects you don’t have access to will also be affected.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects you don’t have access to will also be affected.'
+    count_zero: سيتم نقل
 '"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
   author: phillipyu
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the Supporting work section once your changes are saved.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved.'
+    count_zero: سيتم نقل
 '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
   author: phillipyu
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
+    count_zero: سيتم نقل
 '"{ruleName}" added to this {variant}':
   author: alexryan
   locations:
@@ -56,23 +52,23 @@
     - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
     - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
   variants:
-    _default: '"{ruleName}" added'
-    my_tasks: '"{ruleName}" added to My Tasks'
-    project: '"{ruleName}" added to this project'
-    project_template: '"{ruleName}" added to this project template'
+    _default: تمت إضافة{ruleName} ""
+    my_tasks: تمت إضافة{ruleName} "" إلى مهامي
+    project: تمت إضافة{ruleName} "" إلى هذا المشروع
+    project_template: تمت إضافة{ruleName} "" إلى قالب المشروع هذا
 "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]":
   author: ginoreyes
   comment: "[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline"
   value: |-
-    **Duplicate this task in order to track a new prospect. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
+    **تكرار هذه المهمة من أجل تتبع احتمال جديد. لتكرار مهمة ، انتقل إلى القائمة '...' وانقر فوق 'تحويل المهمة إلى قالب'. "**
 
-    Then, follow the workback schedule in the subtasks below to move them from an opportunity to a customer!
+    بعد ذلك ، اتبع جدول العمل في المهام الفرعية أدناه لنقلها من فرصة إلى عميل!
 "... will be assigned a copy":
   author: jchurch
   deprecated: true
   locations:
     - apps/asana/view/multi_assign_task_popup_view.js
-  value: ... will be assigned a copy
+  value: ... سيتم تعيين نسخة
 "**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]":
   author: ginoreyes
   comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
@@ -81,14 +77,14 @@
     - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
     - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
   value: |-
-    **Duplicate this task to create a blog task. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
+    **تكرار هذه المهمة لإنشاء مهمة مدونة. لتكرار مهمة ، انتقل إلى القائمة '...' وانقر فوق 'تحويل المهمة إلى قالب'. "**
 
-    Then, fill out the following information in order to start a new blog:
-    -Topic:
-    -Title:
-    -Category:
+    بعد ذلك ، املأ المعلومات التالية لبدء مدونة جديدة:
+    -الموضوع:
+    -العنوان:
+    -الفئة:
 
-    See the subtasks below for a suggested workback schedule:
+    انظر المهام الفرعية أدناه للحصول على جدول زمني مقترح للعمل:
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   author: caleb
   deprecated: true
@@ -96,11 +92,4 @@
     - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
   variants:
     _default:
-      count_one: <div>You</div> {listOfNames} … and {count} other all {variant} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {variant} this
-    liked:
-      count_one: <div>You</div> {listOfNames} … and {count} other all liked this
-      count_other: <div>You</div> {listOfNames} … and {count} others all liked this
-    "{heart}":
-      count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
+      count_zero: ""
