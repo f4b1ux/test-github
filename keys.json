@@ -1,0 +1,8 @@
+{
+  "src/yaml/it-IT/en-reduced.yml": [
+    "\"{projectName}\" and {count} other projects will be moved to the References [...]"
+  ],
+  "src/yaml/ar-SA/en-reduced.yml": [
+    "\"{projectName}\" and {count} other projects will be moved to the References [...]"
+  ]
+}
