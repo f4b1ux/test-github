@@ -1,0 +1,134 @@
+'"<stringToComment>{comment}</stringToComment>"':
+  author: jinchangM
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
+  value: <stringToComment>{comment}</stringToComment>
+'"{comment}"':
+  author: jinchang
+  deprecated: true
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: "{comment}"
+'"{message}"':
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
+    - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
+  value: "{message}"
+'"{projectName}" and {count} other projects will be moved to the References [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_zero: <plural|zero>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك.</ plural|zero>
+    count_one: <plural|one>{projectName} "" وسيتم نقل مشروع {count} آخر إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك.</ plural|one>
+    count_two: <plural|two>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك.</ plural|two>
+    count_few: <plural|few>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك.</ plural|few>
+    count_many: <plural|many>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك.</ plural|many>
+    count_other: <plural|other>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك.</ plural|other>
+'"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_zero: <plural|zero>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|zero>
+    count_one: <plural|one>{projectName} "" ومشروع {count} آخر سيتم نقله إلى قسم المراجع بمجرد حفظ تغييراتك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|one>
+    count_two: <plural|two>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|two>
+    count_few: <plural|few>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|few>
+    count_many: <plural|many>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|many>
+    count_other: <plural|other>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|other>
+'"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_zero: <plural|zero>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك.</ plural|zero>
+    count_one: <plural|one>{projectName} "" وسيتم نقل مشروع {count} آخر إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك.</ plural|one>
+    count_two: <plural|two>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك.</ plural|two>
+    count_few: <plural|few>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك.</ plural|few>
+    count_many: <plural|many>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك.</ plural|many>
+    count_other: <plural|other>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك.</ plural|other>
+'"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]':
+  author: phillipyu
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_zero: <plural|zero>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|zero>
+    count_one: <plural|one>{projectName} "" ومشروع {count} آخر سيتم نقله إلى قسم العمل الداعم بمجرد حفظ التغييرات. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|one>
+    count_two: <plural|two>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|two>
+    count_few: <plural|few>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|few>
+    count_many: <plural|many>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|many>
+    count_other: <plural|other>{projectName} "" وسيتم نقل المشاريع {count} الأخرى إلى قسم دعم العمل بمجرد حفظ التغييرات الخاصة بك. كما ستتأثر المشاريع التي لا يمكنك الوصول إليها.</ plural|other>
+'"{ruleName}" added to this {variant}':
+  author: alexryan
+  locations:
+    - asana2/luna-ui/src/components/board/column/board_column_boundary.ts
+    - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
+    - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
+  variants:
+    _default: تمت إضافة{ruleName} ""
+    my_tasks: تمت إضافة{ruleName} "" إلى مهامي
+    project: تمت إضافة{ruleName} "" إلى هذا المشروع
+    project_template: تمت إضافة{ruleName} "" إلى قالب المشروع هذا
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - sales_pipeline"
+  value: |-
+    **تكرار هذه المهمة من أجل تتبع احتمال جديد. لتكرار مهمة ، انتقل إلى القائمة '...' وانقر فوق 'تحويل المهمة إلى قالب'. "**
+
+    بعد ذلك ، اتبع جدول العمل في المهام الفرعية أدناه لنقلها من فرصة إلى عميل!
+"... will be assigned a copy":
+  author: jchurch
+  deprecated: true
+  locations:
+    - apps/asana/view/multi_assign_task_popup_view.js
+  value: ... سيتم تعيين نسخة
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
+  locations:
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
+  value: |-
+    **تكرار هذه المهمة لإنشاء مهمة مدونة. لتكرار مهمة ، انتقل إلى القائمة '...' وانقر فوق 'تحويل المهمة إلى قالب'. "**
+
+    بعد ذلك ، املأ المعلومات التالية لبدء مدونة جديدة:
+    -الموضوع:
+    -العنوان:
+    -الفئة:
+
+    انظر المهام الفرعية أدناه للحصول على جدول زمني مقترح للعمل:
+"<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
+  author: caleb
+  deprecated: true
+  locations:
+    - asana2/luna-ui/src/components/widgets/hearts/heart_button_tooltip_anchor.ts
+  variants:
+    _default:
+      count_zero: <plural|zero><div>أنت</div> {listOfNames} ... {count} وآخرون كل {variant} هذا</ الجمع|صفر>
+      count_one: <plural|one><div>أنت</div> {listOfNames} ... {count} وغيرها من كل {variant} هذا</ الجمع|واحد>
+      count_two: <plural|two><div>أنت</div> {listOfNames} ... {count} وآخرون كل {variant} هذا</ plural|two>
+      count_few: <plural|few><div>أنت</div> {listOfNames} ... {count} وآخرون كل {variant} هذا</ الجمع|قليل>
+      count_many: <plural|many><div>أنت</div> {listOfNames} ... {count} وآخرون كل {variant} هذا</ الجمع|كثير>
+      count_other: <plural|other><div>أنت</div> {listOfNames} ... {count} وآخرون كل {variant} هذا</ plural|other>
+    liked:
+      count_zero: <plural|zero><div>أنت</div> {listOfNames} ... {count} وآخرون أعجبهم هذا</ plural|zero>
+      count_one: <plural|one><div>أنت</div> {listOfNames} ... وكلهم {count} أعجبوا بهذا</ plural|one>
+      count_two: <plural|two><div>أنت</div> {listOfNames} ... {count} وآخرون أعجبهم هذا</ plural|two>
+      count_few: <plural|few><div>أنت</div> {listOfNames} ... {count} والبعض الآخر أحب هذا</ الجمع|قليل>
+      count_many: <plural|many><div>أنت</div> {listOfNames} ... {count} والبعض الآخر أحب هذا</ الجمع|كثير>
+      count_other: <plural|other><div>أنت</div> {listOfNames} ... {count} وآخرون أعجبهم هذا</ plural|other>
+    "{heart}":
+      count_zero: <plural|zero><div>أنت</div> {listOfNames} ... {count} وآخرون كل {heart} هذا</ الجمع|صفر>
+      count_one: <plural|one><div>أنت</div> {listOfNames} ... {count} وغيرها من كل {heart} هذا</ الجمع|واحد>
+      count_two: <plural|two><div>أنت</div> {listOfNames} ... {count} وآخرون كل {heart} هذا</ plural|two>
+      count_few: <plural|few><div>أنت</div> {listOfNames} ... {count} وآخرون كل {heart} هذا</ الجمع|قليل>
+      count_many: <plural|many><div>أنت</div> {listOfNames} ... {count} وآخرون كل {heart} هذا</ الجمع|كثير>
+      count_other: <plural|other><div>أنت</div> {listOfNames} ... {count} وآخرون كل {heart} هذا</ plural|other>
