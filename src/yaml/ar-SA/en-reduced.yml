@@ -25,7 +25,7 @@
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
     count_zero: سيتم نقل<plural_zero>{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.</plural_zero>
-    count_one: سيتم نقل<plural_one>{projectName} "" ومشروع {count} آخر إلى قسم المراجع بمجرد حفظ التغييرات.</plural_one>
+    count_one: سيتم نقل<plural_one>{projectName} "" ومشروع كبير {count} آخر إلى قسم المراجع بمجرد حفظ تغييراتك.</plural_one>
     count_two: سيتم نقل<plural_two>{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.</plural_two>
     count_few: سيتم نقل<plural_few>{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.</plural_few>
     count_many: سيتم نقل<plural_many>{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.</plural_many>
