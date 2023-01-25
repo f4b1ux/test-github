@@ -6,14 +6,14 @@
     - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
     - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
   value: |-
-    **Duplicate this task to create a blog task. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
+    **Duplicare questa attività per creare un'attività blog. Per duplicare un'attività, vai al menu '...' e fai clic su 'Converti attività in modello.'"**
 
-    Then, fill out the following information in order to start a new blog:
-    -Topic:
-    -Title:
-    -Category:
+    Quindi, compila le seguenti informazioni per avviare un nuovo blog:
+    -Argomento:
+    -Titolo: 
+    -Categoria:
 
-    See the subtasks below for a suggested workback schedule:
+    Consultare le sottoattività riportate di seguito per una pianificazione del workback consigliata:
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
@@ -21,5 +21,5 @@
   locations:
     - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
   value:
-    count_one: '"{projectName}" and {count} other project will be moved to the References section once your changes are saved.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved.'
+    count_one: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
+    count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
