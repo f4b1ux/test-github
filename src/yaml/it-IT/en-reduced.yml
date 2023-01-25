@@ -1,7 +1,5 @@
 '"<stringToComment>{comment}</stringToComment>"':
   value: <stringToComment>{comment}</stringToComment>
-'"{comment}"':
-  value: "{comment}"
 '"{message}"':
   value: "{message}"
 '"{projectName}" and {count} other projects will be moved to the References [...]':
