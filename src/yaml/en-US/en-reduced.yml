@@ -9,12 +9,6 @@
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
   value: '"<stringToComment>{comment}</stringToComment>"'
-'"{comment}"':
-  author: jinchang
-  deprecated: false
-  locations:
-    - asana2/asana/email/core/components/email_comment_hearted_story.ts
-  value: '"{comment}"'
 '"{message}"':
   author: adrianyen
   locations:
