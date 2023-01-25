@@ -1,0 +1,29 @@
+"On":
+  author: ginoreyes
+  comment: "[resource: asana_web_app_templates] Used in Asana-created templates - editorial_calendar"
+  locations:
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_business.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_free.ts
+    - asana2/asana/web/templates/generated_templates/editorial_calendar_premium.ts
+  value: |-
+    **تكرار هذه المهمة لإنشاء مهمة مدونة. لتكرار مهمة ، انتقل إلى القائمة '...' وانقر فوق 'تحويل المهمة إلى قالب'. "**
+
+    بعد ذلك ، املأ المعلومات التالية لبدء مدونة جديدة:
+    -الموضوع:
+    -العنوان:
+    -الفئة:
+
+    انظر المهام الفرعية أدناه للحصول على جدول زمني مقترح للعمل:
+'"{projectName}" and {count} other projects will be moved to the References [...]':
+  author: lesialiao
+  comment: Use same translation as 'References [noun]'
+  fallback_key: '"{projectName}" and {count} other projects will be moved to the Supporting work [...]'
+  locations:
+    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
+  value:
+    count_zero: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
+    count_one: سيتم نقل{projectName} "" ومشروع {count} آخر إلى قسم المراجع بمجرد حفظ التغييرات.
+    count_two: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
+    count_few: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
+    count_many: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
+    count_other: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
