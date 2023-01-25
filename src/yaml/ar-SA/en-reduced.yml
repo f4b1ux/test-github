@@ -28,6 +28,6 @@
     count_many: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
     count_other: سيتم نقل{projectName} "" والمشاريع {count} الأخرى إلى قسم المراجع بمجرد حفظ التغييرات.
 "false":
-  value: Hello world!
+  value: مرحبا بالعالم!
 "true":
-  value: your sister
+  value: الأخت
