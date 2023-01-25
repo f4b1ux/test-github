@@ -1,0 +1,10 @@
+{
+  "src/yaml/it-IT/en-reduced.yml": [
+    "false",
+    "true"
+  ],
+  "src/yaml/ar-SA/en-reduced.yml": [
+    "false",
+    "true"
+  ]
+}
