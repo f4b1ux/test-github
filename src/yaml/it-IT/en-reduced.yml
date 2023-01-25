@@ -6,7 +6,7 @@
   value: "{message}"
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   value:
-    count_one: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
+    count_one: Il test{projectName} "" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.
     count_other: '"{projectName}" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.'
 '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]':
   value:
