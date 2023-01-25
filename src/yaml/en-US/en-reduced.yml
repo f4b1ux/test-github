@@ -27,3 +27,7 @@
   value:
     count_one: '"{projectName}" and {count} other project will be moved to the References section once your changes are saved.'
     count_other: '"{projectName}" and {count} other projects will be moved to the References section once your changes are saved.'
+Off:
+  value: Hello world!
+on:
+  value: your sister
