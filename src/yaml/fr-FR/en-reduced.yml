@@ -1,24 +1,24 @@
 Notifications On:
-  value: Notifications On
+  value: Notifications activées
 "Note: your Asana basic plan will still maintain HIPAA compliance":
-  value: "Note: your Asana basic plan will still maintain HIPAA compliance"
+  value: "Remarque : votre plan de base Asana maintiendra toujours la conformité HIPAA"
 "Note: anyone with this link has access to your tasks, so be [...]":
-  value: "Note: anyone with this link has access to your tasks, so be careful how you share it."
+  value: "Remarque : toute personne disposant de ce lien a accès à vos tâches, alors faites attention à la façon dont vous le partagez."
 Delete the "Email" question?:
-  value: Delete the "Email" question?
+  value: Supprimer la question "Email" ?
 "Deleted Tasks - ":
-  value: "Deleted Tasks - "
+  value: "Tâches supprimées - "
 "On":
   value: "On"
 "Off":
-  value: "Off"
+  value: Désactivé
 "Yes":
-  value: "Yes"
+  value: Oui
 "no":
-  value: "no"
+  value: non
 "y":
   value: "y"
 "N":
   value: "N"
 'For example: "Marketing dashboard" or "Team objectives"':
-  value: 'For example: "Marketing dashboard" or "Team objectives"'
+  value: "Par exemple : « Tableau de bord marketing » ou « Objectifs de l'équipe »"
