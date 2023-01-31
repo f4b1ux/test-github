@@ -1,0 +1,63 @@
+Notifications On:
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/custom_schema/project_settings_dialog/custom_property_proto_row.ts
+    - asana2/luna-ui/src/components/custom_schema/project_settings_dialog/custom_property_proto_row.tsx
+  value: Notifications On
+'Note: your Asana basic plan will still maintain HIPAA compliance':
+  author: farazhussain
+  locations:
+    - asana2/luna-ui/src/components/cue/dialog/custom_ui/align_feature_list/align_feature_list.ts
+    - asana2/luna-ui/src/components/cue/dialog/custom_ui/align_feature_list/align_feature_list.tsx
+  value: 'Note: your Asana basic plan will still maintain HIPAA compliance'
+'Note: anyone with this link has access to your tasks, so be [...]':
+  author: alexcole
+  locations:
+    - asana2/asana/web/sync_calendar_dialog/internal/sync_calendar_dialog.ts
+    - asana2/asana/web/sync_calendar_dialog/internal/sync_calendar_dialog.tsx
+  value: 'Note: anyone with this link has access to your tasks, so be careful how you share it.'
+Delete the "Email" question?:
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/work_requests/email_form_field_delete_modal.ts
+    - asana2/luna-ui/src/components/work_requests/email_form_field_delete_modal.tsx
+  value: Delete the "Email" question?
+'Deleted Tasks - ':
+  author: sri
+  comment: page title prefix
+  locations:
+    - apps/asana/view/search/search_page_helper.js
+  value: 'Deleted Tasks - '
+'On':
+  author: alinikseresht
+  comment: Indicating that some task is due on today's date.
+  value: 'On'
+'Off':
+  author: alinikseresht
+  comment: Indicating that some task is due on today's date.
+  value: 'Off'
+'Yes':
+  author: alinikseresht
+  comment: Indicating that some task is due on today's date.
+  value: 'Yes'
+'no':
+  author: alinikseresht
+  comment: Indicating that some task is due on today's date.
+  value: 'no'
+'y':
+  author: alinikseresht
+  comment: Indicating that some task is due on today's date.
+  value: 'y'
+'N':
+  author: alinikseresht
+  comment: Indicating that some task is due on today's date.
+  value: 'N'
+'For example: "Marketing dashboard" or "Team objectives"':
+  author: jonathansells
+  locations:
+    - asana2/luna-ui/src/components/portfolios/dialogs/create_portfolio_dialog.ts
+    - asana2/luna-ui/src/components/portfolios/portfolio_page/dialogs/create_portfolio_dialog.ts
+    - asana2/luna-ui/src/components/portfolios/portfolio_page/dialogs/create_portfolio_dialog.tsx
+    - asana2/luna-ui/src/components/portfolios/portfolio_page/dialogs/create_portfolio_modal_contents.ts
+    - asana2/luna-ui/src/components/portfolios/portfolio_page/dialogs/create_portfolio_modal_contents.tsx
+  value: 'For example: "Marketing dashboard" or "Team objectives"'
