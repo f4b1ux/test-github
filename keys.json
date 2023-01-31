@@ -1,0 +1,16 @@
+{
+  "src/yaml/fr-FR/en-reduced.yml": [
+    "Notifications On",
+    "Note: your Asana basic plan will still maintain HIPAA compliance",
+    "Note: anyone with this link has access to your tasks, so be [...]",
+    "Delete the \"Email\" question?",
+    "Deleted Tasks - ",
+    "On",
+    "Off",
+    "Yes",
+    "no",
+    "y",
+    "N",
+    "For example: \"Marketing dashboard\" or \"Team objectives\""
+  ]
+}
