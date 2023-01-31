@@ -17,7 +17,7 @@ Notifications On:
     - asana2/asana/web/sync_calendar_dialog/internal/sync_calendar_dialog.tsx
   value: 'Note: anyone with this link has access to your tasks, so be careful how you share it.'
 Delete the "Email" question?:
-  author: adrianyen
+  author: adrianyenf
   locations:
     - asana2/luna-ui/src/components/work_requests/email_form_field_delete_modal.ts
     - asana2/luna-ui/src/components/work_requests/email_form_field_delete_modal.tsx
