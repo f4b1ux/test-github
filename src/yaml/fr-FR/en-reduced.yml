@@ -15,10 +15,10 @@
   count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
 '"{ruleName}" added to this {variant}':
   variants:
-    _default: '"{ruleName}" added'
-    my_tasks: '"{ruleName}" added to My Tasks'
-    project: '"{ruleName}" added to this project'
-    project_template: '"{ruleName}" added to this project template'
+    _default: '"{ruleName}" ajouté'
+    my_tasks: '"{ruleName}" ajouté à Mes tâches'
+    project: '"{ruleName}" ajouté à ce projet'
+    project_template: '"{ruleName}" ajouté à ce modèle de projet'
 "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": |-
   **Duplicate this task in order to track a new prospect. To duplicate a task, go to the '...' menu and click 'Convert task to template.'"**
 
@@ -36,11 +36,11 @@
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   variants:
     _default:
-      count_one: <div>You</div> {listOfNames} … and {count} other all {variant} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {variant} this
+      count_one: <div>Vous</div> {listOfNames} … et {count} tout le {variant} reste
+      count_other: <div>Vous</div> {listOfNames} … et {count} d'autres tout {variant} cela
     liked:
-      count_one: <div>You</div> {listOfNames} … and {count} other all liked this
-      count_other: <div>You</div> {listOfNames} … and {count} others all liked this
+      count_one: <div>Vous</div> {listOfNames} … et {count} d'autres ont tous aimé ça
+      count_other: <div>Vous</div> {listOfNames} … et {count} d'autres ont tous aimé
     "{heart}":
-      count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
-      count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
+      count_one: <div>Vous</div> {listOfNames} … et {count} tout le {heart} reste
+      count_other: <div>Vous</div> {listOfNames} … et {count} d'autres tout {heart} cela
