@@ -4,7 +4,6 @@
     "src/txt/fr/test10.yml"
   ],
   "src/txt/test11.txt": [
-    "src/txt/it-IT/test11.yml",
     "src/txt/fr/test11.yml"
   ]
 }
