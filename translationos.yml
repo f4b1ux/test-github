@@ -35,3 +35,15 @@ files:
       - it-IT
     source_exclude:
       - _content/de/**/*
+      - _content/es/**/*
+      - _content/fr/**/*
+      - _content/id/**/*
+      - _content/it/**/*
+      - _content/ja/**/*
+      - _content/ko/**/*
+      - _content/nl/**/*
+      - _content/pl/**/*
+      - _content/pt/**/*
+      - _content/ru/**/*
+      - _content/sv/**/*
+      - _content/zh-tw/**/*
