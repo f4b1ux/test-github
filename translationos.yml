@@ -28,13 +28,13 @@ files:
     notes: These are the notes for dialogs.yml
   - translation: professional
     service_type: economy
-    source_pattern: src/txt/test.txt
+    source_pattern: src/txt/*
     source_locale: en-US
     target_pattern: src/txt/{{locale}}/{{original_file_name}}.yml
     target_locales: [ 'it-IT' ]
   - translation: professional
     service_type: economy
-    source_pattern: src/txt/test.txt
+    source_pattern: src/txt/*
     source_locale: en-US
     target_pattern: src/txt/{{lang_2}}/{{original_file_name}}.yml
     target_locales: [ 'fr-FR' ]
