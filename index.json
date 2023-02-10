@@ -1,0 +1,6 @@
+{
+  "src/txt/test12.txt": [
+    "src/txt/it-IT/test12.yml",
+    "src/txt/fr/test12.yml"
+  ]
+}
