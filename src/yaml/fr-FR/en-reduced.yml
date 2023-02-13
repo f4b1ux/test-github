@@ -47,4 +47,4 @@
     "{heart}":
       "count_one": "<div>Vous</div> {listOfNames} … et {count} tout le {heart} reste"
       "count_other": "<div>Vous</div> {listOfNames} … et {count} d'autres tout {heart} cela"
-"on": "Translate"
+"on": "Traduire"
