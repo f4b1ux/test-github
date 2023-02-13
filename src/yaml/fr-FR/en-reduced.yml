@@ -1,6 +1,5 @@
 "\"<stringToComment>{comment}</stringToComment>\"": "<stringToComment>{comment}</stringToComment>"
 "\"{comment}\"": "{comment}"
-"\"{message}\"": "{message}"
 "\"{projectName}\" and {count} other projects will be moved to the References [...]":
   "count_one": "\"{projectName}\" et {count} d'autres grands projets seront déplacés vers la section Références une fois vos modifications enregistrées."
   "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées."
@@ -48,3 +47,4 @@
     "{heart}":
       "count_one": "<div>Vous</div> {listOfNames} … et {count} tout le {heart} reste"
       "count_other": "<div>Vous</div> {listOfNames} … et {count} d'autres tout {heart} cela"
+"on": "Traduire"
