@@ -2,8 +2,8 @@
 "\"{comment}\"": "{comment}"
 "\"{message}\"": "{message}"
 "\"{projectName}\" and {count} other projects will be moved to the References [...]":
-  "count_one": "\"{projectName}\" and {count} other big project will be moved to the References section once your changes are saved."
-  "count_other": "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved."
+  "count_one": "\"{projectName}\" et {count} d'autres grands projets seront déplacés vers la section Références une fois vos modifications enregistrées."
+  "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées."
 "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]":
   "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
   "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
