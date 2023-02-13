@@ -1,42 +1,19 @@
-"\"<stringToComment>{comment}</stringToComment>\"": "<stringToComment>{comment}</stringToComment>"
-"\"{comment}\"": "{comment}"
-"\"{message}\"": "{message}"
-"\"{projectName}\" and {count} other projects will be moved to the References [...]":
-  "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées."
-  "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées."
-"\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]":
-  "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
-  "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
-"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]":
-  "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Support de travail une fois vos modifications enregistrées."
-  "count_other": "\"{projectName}\" et les {count} autres projets seront déplacés vers la section Support de travail une fois vos modifications enregistrées."
-"\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]":
-  "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Support de travail une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
-  "count_other": "\"{projectName}\" et les {count} autres projets seront déplacés vers la section Support de travail une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
+"\"<stringToComment>{comment}</stringToComment>\"": {}
+"\"{comment}\"": {}
+"\"{message}\"": {}
+"\"{projectName}\" and {count} other projects will be moved to the References [...]": {}
+"\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]": {}
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]": {}
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]": {}
 "\"{ruleName}\" added to this {variant}":
   "variants":
     "_default": "\"{ruleName}\" ajouté"
     "my_tasks": "\"{ruleName}\" ajouté à Mes tâches"
     "project": "\"{ruleName}\" ajouté à ce projet"
     "project_template": "\"{ruleName}\" ajouté à ce modèle de projet"
-"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": "**Dupliquer cette tâche afin de suivre un nouveau prospect. Pour dupliquer une tâche, accédez au menu '...' et cliquez sur 'Convertir la tâche en modèle'. \"**
-
-
-  Ensuite, suivez le calendrier de retour en arrière dans les sous-tâches ci-dessous pour les déplacer d'une opportunité à un client !"
-"... will be assigned a copy": "... se verra attribuer une copie"
-"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": "**Dupliquez cette tâche pour créer une tâche de blog. Pour dupliquer une tâche, accédez au menu '...' et cliquez sur 'Convertir la tâche en modèle'. \"**
-
-
-  Ensuite, remplissez les informations suivantes afin de démarrer un nouveau blog :
-
-  -Thème :
-
-  -Titre :
-
-  -Catégorie :
-
-
-  Voir les sous-tâches ci-dessous pour un calendrier de travail suggéré :"
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": {}
+"... will be assigned a copy": {}
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": {}
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   "variants":
     "_default":
