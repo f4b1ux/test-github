@@ -15,14 +15,6 @@
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story.ts
   value: '"{comment}"'
-'"{message}"':
-  author: adrianyen
-  locations:
-    - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
-    - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
-    - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
-    - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
-  value: '"{message}"'
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
@@ -114,3 +106,5 @@
     '{heart}':
       count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
       count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
+'on':
+  value: 'Translate'
