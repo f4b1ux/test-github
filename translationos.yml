@@ -2,6 +2,11 @@ on:
   branches:
     - translate
   wait_interval: 2s
+translationos:
+  label:
+    dashbord:
+      - "label1"
+      - "label2"
 pull_requests:
   mode: pr_all_langs
   automerge: merge
