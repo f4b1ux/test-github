@@ -1,0 +1,5 @@
+Connect your team's conversations to actionable items in Asana. Use this app [...]:
+  author: robynkwok
+  locations:
+    - asana2/lunadb/src/main/scala/com/asana/lunadb/servercomputed/apps/FirstPartyAppsStringsMapping.scala
+  value: "Connect your team's conversations to actionable items in Asana. Use this app to see Asana tasks, projects, status updates, and Portfolios in Teams. Users can even create, assign and view tasks live during a Teams meeting, so work doesn't fall through the cracks.\n\n- Find and share tasks and projects with stakeholders to keep everyone in the loop. \n- Receive notifications about tasks and projects in your channels and tailor your notification preferences per channel. \n- Create, assign, and view tasks during a Teams Meeting without needing to switch to Asana. \n- From Asana, set up custom Rules to automatically send a message to a Teams channel based on a trigger in Asana.\n- Review all the tasks created during the meeting with the click of a button.\n- Maximize efficiency by creating and delegating work in the moment without leaving Teams."
