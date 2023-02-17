@@ -4,7 +4,7 @@ on:
   wait_interval: 2s
 translationos:
   labels:
-    dashbord:
+    dashboard:
       - "label1"
       - "label2"
 pull_requests:
