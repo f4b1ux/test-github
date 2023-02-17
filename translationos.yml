@@ -3,7 +3,7 @@ on:
     - translate
   wait_interval: 2s
 translationos:
-  label:
+  labels:
     dashbord:
       - "label1"
       - "label2"
