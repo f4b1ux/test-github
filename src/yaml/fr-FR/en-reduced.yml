@@ -2,7 +2,7 @@
 "\"{comment}\"": "\"{comment}\""
 "\"{message}\"": "\"{message}\""
 "\"{projectName}\" and {count} other projects will be moved to the References [...]":
-  "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées."
+  "count_one": "\"{projectName}\" et gros {count} autre projet seront déplacés vers la section Références une fois vos modifications enregistrées."
   "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées."
 "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]":
   "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Références une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
@@ -33,3 +33,5 @@
     "{heart}":
       "count_one": "<div>Toi</div> {listOfNames}... et les {count} autres tout {heart} ça"
       "count_other": "<div>Toi</div> {listOfNames}… et {count} les autres tout {heart} ça"
+"On": "On"
+"off": "off"
