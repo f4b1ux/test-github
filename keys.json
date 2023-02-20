@@ -1,0 +1,7 @@
+{
+  "src/yaml/fr-FR/en-reduced.yml": [
+    "On",
+    "off",
+    "\"{projectName}\" and {count} other projects will be moved to the References [...]"
+  ]
+}
