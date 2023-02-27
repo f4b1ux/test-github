@@ -2,7 +2,7 @@ on:
   branches:
     - pluto
     - translate
-  wait_interval: 3s
+  wait_interval: 2s
 translationos:
   labels:
     dashboard:
