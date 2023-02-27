@@ -1,6 +1,6 @@
 on:
   branches:
-    -
+    - pluto
     - translate
   wait_interval: 2s
 translationos:
