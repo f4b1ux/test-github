@@ -1,7 +1,5 @@
 on:
   branches:
-    - translate
-    - pippo
   wait_interval: 2s
 translationos:
   labels:
