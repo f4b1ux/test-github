@@ -118,3 +118,5 @@
   value: "On"
 'off':
   value: "off"
+"test":
+  value: "Test"
