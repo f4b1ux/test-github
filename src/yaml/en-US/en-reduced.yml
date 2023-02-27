@@ -109,7 +109,7 @@
       count_one: <div>You</div> {listOfNames} … and {count} other all {variant} this
       count_other: <div>You</div> {listOfNames} … and {count} others all {variant} this
     liked:
-      count_one: <div>You</div> {listOfNames} … and {count} other all liked this
+      count_one: <div>me</div> {listOfNames} … and {count} other all liked this
       count_other: <div>You</div> {listOfNames} … and {count} others all liked this
     '{heart}':
       count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
