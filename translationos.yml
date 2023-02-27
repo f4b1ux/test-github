@@ -1,4 +1,6 @@
 on:
+  branches:
+    -
   wait_interval: 3s
 translationos:
   labels:
