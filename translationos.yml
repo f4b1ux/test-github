@@ -1,5 +1,6 @@
 on:
   branches:
+    - translate
     -
   wait_interval: 2s
 translationos:
