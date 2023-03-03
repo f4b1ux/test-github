@@ -64,3 +64,9 @@ files:
       - _content/ru/**/*
       - _content/sv/**/*
       - _content/zh-tw/**/*
+  - translation: professional
+    service_type: economy
+    source_pattern: public/locales/en/*.json
+    source_locale: en-GB
+    target_pattern: public/locales/{{lang_2}}/{{original_file}}
+    target_locales: [ 'es-ES' ]
