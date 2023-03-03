@@ -1,7 +1,6 @@
 on:
   branches:
     - translate
-  wait_interval: 60s
 translationos:
   labels:
     dashboard:
@@ -66,7 +65,7 @@ files:
       - _content/zh-tw/**/*
   - translation: professional
     service_type: economy
-    source_pattern: public/locales/en/*.json
+    source_pattern: public/locales/**/*.json
     source_locale: en-GB
     target_pattern: public/locales/{{lang_2}}/{{original_file}}
     target_locales: [ 'es-ES' ]
