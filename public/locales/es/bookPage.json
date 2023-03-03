@@ -1,3 +1,52 @@
 {
-  "test": "esto es un saludo de prueba"
+  "bookCover": {
+    "imageAltText": "Imagen de portada del libro",
+    "keyInfo": {
+      "format": {
+        "epub": "ePUB (compatible con dispositivos móviles)",
+        "pdf": "PDF"
+      },
+      "onMobile": {
+        "available": "Disponible en iOS y Android",
+        "isAvailable": "Disponible en iOS y Android",
+        "notAvailable": "Solo disponible en web"
+      },
+      "pageCountDisplay": "{{noOfPages}} páginas"
+    },
+    "percentageRead": "{{percentageText}} del libro leído"
+  },
+  "popularIn": "Popular en",
+  "tab": {
+    "ariaLabel": {
+      "notSelected": "seleccionar {{text}} pestaña para ver",
+      "selected": "{{text}} la pestaña ya está seleccionada"
+    },
+    "book": {
+      "aboutBook": {
+        "collapsibleContent": {
+          "readLess": "Leer menos",
+          "readMore": "Leer más"
+        },
+        "title": "Más información"
+      },
+      "information": {
+        "editionLabel": "Edición",
+        "isbnLabel": "ISBN",
+        "publisherLabel": "Editor",
+        "subtopicLabel": "Subtopic",
+        "title": "Información",
+        "topicLabel": "Tema",
+        "yearLabel": "Año"
+      },
+      "label": "Detalles del Libro"
+    },
+    "toc": {
+      "label": "Índice",
+      "title": "Índice"
+    }
+  },
+  "textToSpeech": {
+    "label": "Nuevo: Escucha este libro en tu navegador web",
+    "link": "Aprender más"
+  }
 }
