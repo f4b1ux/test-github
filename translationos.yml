@@ -17,7 +17,7 @@ files:
   - translation: professional
     service_type: economy
     preprocessing: true
-    source_pattern: docx/it-IT/*
+    source_pattern: docx/it-IT/*.docx
     target_pattern: docx/{{locale}}/{{original_file}}
     source_locale: it-IT
     target_locales: ['en-US', 'fr-FR', 'es-ES', 'de-DE']
