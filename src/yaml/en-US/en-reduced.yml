@@ -120,3 +120,5 @@
   value: "off"
 "test":
   value: "Test"
+"test2":
+  value: "hello world"
