@@ -8,7 +8,6 @@ translationos:
       - "label2"
 pull_requests:
   mode: pr_all_langs
-  automerge: merge
 notification:
   enabled: true
   emails:
