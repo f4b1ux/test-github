@@ -122,3 +122,7 @@
   value: "Test"
 "test2":
   value: "hello world0"
+"K1":
+  value: "this is the value to translate"
+"K2":
+  value: "this is the second value to translate"
