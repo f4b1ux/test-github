@@ -55,6 +55,8 @@
   value:
     count_one: '"{projectName}" and {count} other project will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
     count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects you don’t have access to will also be affected.'
+"K1":
+  value: "This is the first key to translate"
 '"{ruleName}" added to this {variant}':
   author: alexryan
   locations:
