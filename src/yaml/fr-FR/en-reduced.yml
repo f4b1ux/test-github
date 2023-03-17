@@ -1,7 +1,7 @@
 "\"<stringToComment>{comment}</stringToComment>\"": "\"<stringToComment>{comment}</stringToComment>\""
 "\"{comment}\"": "\"{comment}\""
 "\"{message}\"": "\"{message}\""
-"K3": "key to translate near an edited one"
+"K3": "clé pour traduire près d'une clé éditée"
 "\"{projectName}\" and {count} other projects will be moved to the References [...]":
   "count_one": "\"{projectName}\" et gros {count} autre projet seront déplacés vers la section Références une fois vos modifications enregistrées."
   "count_other": "\"{projectName}\" et {count} d'autres projets seront déplacés vers la section Références une fois vos modifications enregistrées."
