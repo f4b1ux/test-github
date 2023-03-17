@@ -116,8 +116,6 @@
     '{heart}':
       count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
       count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
-"K2":
-  value: "This is the second key to translate"
 'On':
   value: "On"
 'off':
