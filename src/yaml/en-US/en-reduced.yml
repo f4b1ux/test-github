@@ -23,6 +23,8 @@
     - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
     - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
   value: '"{message}"'
+"K3":
+  value: "key to translate near an edited one"
 '"{projectName}" and {count} other projects will be moved to the References [...]':
   author: lesialiao
   comment: Use same translation as 'References [noun]'
