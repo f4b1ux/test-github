@@ -13,6 +13,7 @@
 "\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]":
   "count_one": "\"{projectName}\" et {count} tout autre projet sera déplacé vers la section Support de travail une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
   "count_other": "\"{projectName}\" et les {count} autres projets seront déplacés vers la section Support de travail une fois vos modifications enregistrées. Les projets auxquels vous n'avez pas accès seront également affectés."
+"K1": "This is the first key to translate"
 "\"{ruleName}\" added to this {variant}":
   "variants":
     "_default": "\"{ruleName}\" ajouté"
