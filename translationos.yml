@@ -78,7 +78,6 @@ files:
     target_pattern: _content/{{lang_2}}/**/{{original_file}}
     target_locales:
       - it-IT
-      - es-ES
     source_exclude:
       - _content/de/**/*
       - _content/es/**/*
