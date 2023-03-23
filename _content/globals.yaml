@@ -2,7 +2,7 @@
 _translationos_filter: asana
 _xml_head_: '<?xml version="1.0" encoding="UTF-8"?>'
 
-global_language: "en" # Should get translated in other folders (i.e. de, fr)
+global_language: "en" # Should get translated in other folders (i.e. de, fr, ir)
 base_path: /
 path_to_jobs: /jobs
 path_to_apps: /apps
