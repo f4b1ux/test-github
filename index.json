@@ -1,0 +1,6 @@
+{
+  "_content/globals.yaml": [
+    "_content/it/globals.yaml",
+    "_content/es/globals.yaml"
+  ]
+}
