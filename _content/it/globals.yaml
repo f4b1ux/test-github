@@ -1,0 +1,24 @@
+---
+_translationos_filter: asana
+_xml_head_: '<?xml version="1.0" encoding="UTF-8"?>'
+
+global_language: "it" # Should get translated in other folders (i.e. de, fr, ir)
+base_path: /
+path_to_jobs: /jobs
+path_to_apps: /apps
+path_to_customer_list: /customer-list
+path_to_press_releases: /press/releases
+
+title: "Sposta il lavoro in avanti"
+description: "Il modo più semplice per i team di monitorare il lavoro e ottenere risultati. Realizziamo grandi cose insieme."
+
+img_alt: false
+img_title: false
+backup_img_alt: "Immagine non disponibile"
+backup_img_title: "Titolo immagine non disponibile"
+global_site_share_image: "https://assets.asana.biz/m/4aecf2c7c66aa51b/original/asana-meta-coral-1x.png"
+global_site_description: "Asana è il modo più semplice per i team di monitorare il proprio lavoro. Da attività e progetti a conversazioni e dashboard, Asana consente ai team di spostare il lavoro dall'inizio alla fine e ottenere ottimi risultati."
+global_site_fb_app_id: "444494130454"
+global_site_gplus_author: "https://plus.google.com/u/0/113573148566753524000"
+
+---
