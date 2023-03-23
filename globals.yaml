@@ -1,0 +1,1452 @@
+---
+_translationos_filter: asana
+_xml_head_: '<?xml version="1.0" encoding="UTF-8"?>'
+
+global_language: "en" # Should get translated in other folders (i.e. de, fr, ir, it)
+base_path: /
+path_to_jobs: /jobs
+path_to_apps: /apps
+path_to_customer_list: /customer-list
+path_to_press_releases: /press/releases
+
+title: "Move work forward"
+description: "The easiest way for teams to track work, and get results. Do great things together."
+
+img_alt: false
+img_title: false
+backup_img_alt: "Image alt not available"
+backup_img_title: "Image title not available"
+global_site_share_image: "https://assets.asana.biz/m/4aecf2c7c66aa51b/original/asana-meta-coral-1x.png"
+global_site_description: "Asana is the easiest way for teams to track their work. From tasks and projects to conversations and dashboards, Asana enables teams to move work from start to finish—and get great results."
+global_site_fb_app_id: "444494130454"
+global_site_gplus_author: "https://plus.google.com/u/0/113573148566753524000"
+
+global_CTAsignupGAuth: "Use Google Account"
+global_CTAcontinueWithGoogle: "Continue with Google"
+global_CTAsignupEmail: "Try for free"
+global_CTAsignupEmail_old_skin : "Get Started"
+global_CTAsignup_localized: "Get Started"
+global_CTAsignupWithoutFree: "Try for free"
+global_CTAsignupProgress: "Signing Up"
+global_CTAsignupSuccess: "Success!"
+global_CTAexploreAsana: "Explore Asana"
+global_CTAcontinueFromButton: "Continue"
+
+global_CTAsignupTrial: "Try for free"
+global_CTAloginTrial: "Try for free"
+
+global_CTAloginGAuth: "Use Google Account"
+global_CTAloginEmail: "Log In"
+global_CTAloginProgress: "Logging In"
+global_CTAloginButtonTitle: "Try Asana"
+global_or: "or"
+global_CTAverifyEmail: "Send Verification Email"
+global_CTArestartWithWorkEmail: "Enter a work email address"
+global_CTAverifyEmailWork: "Yes, this is my work email"
+global_CTAverifyEmailPersonal: "Continue with my email"
+global_CTAexplainModal: "Why are we asking?"
+global_CTAcompleteSignup: "Sign up"
+global_CTAexplanWhy: "Asana is built for teams to track their work, and the only way to auto-connect with other people in your company is by signing up with your work email address. <a href='/guide/team/onboard/adding-people' target='_blank' rel='noopener noreferrer'>Learn more</a>"
+global_CTAsignupText: "Don't have an account? <a href='#signup'>Get started</a>"
+global_CTAsignupTrialText: "Don't have an account? <a href='/create-account'>Sign up</a>"
+global_CTAsignupLegalese: "By signing up, I agree to the Asana <a href='/terms#privacy-policy'>Privacy Policy</a> and <a href='/terms#terms-of-service'>Terms of Service</a>."
+global_CTAsignupDomainInvalid: "Are you sure this address can receive email? If so, please continue."
+global_CTAsignupDomainClose: "Are you sure this address is correct? Did you mean <span class='suggested-email -bold'>account@domain.com</span>?"
+global_CTAsignupBadFormat: "Something doesn't look right. Please check the email and try again"
+global_CTAsignupDomainInvalidFromInvite_1: "Looks like you don't have a"
+global_CTAsignupDomainInvalidFromInvite_2: "email address."
+global_CTAsignupDomainInvalidFromInvite_3: "<a href='/create-account'>Sign up</a> to create your own project."
+global_salesSignUpBadFormatEmail: "Something doesn't look right. Please check the email and try again"
+global_salesSignUpPersonalEmail: "Please provide a valid Company Email."
+global_partnershipSignUpPersonalEmail: "Please sign up with your business practice email. We do not accept personal email addresses (e.g. jennyforrest@gmail.com) for setting up your account. If you run into any issues, please <a href='https://form.jotform.com/220864619371056'>fill out this support form</a> for assistance."
+global_invalidPartnershipValue: "Something doesn't look right. Please check partnership info and try again."
+global_salesSignUpSelectItemInList: "Please select an item in the list."
+global_salesSignUpFillItem: "Please fill out this field."
+
+global_recaptchaNotice: "This site is protected by reCAPTCHA and the Google <a href='https://policies.google.com/privacy'>Privacy Policy</a> and <a href='https://policies.google.com/terms'>Terms of Service</a> apply."
+
+global_CTAautoJoin: "Team already using Asana? Join them."
+global_CTAcontactSales: "Contact Sales"
+
+global_CtaUpgrade: "Upgrade"
+global_CtaUpgradeHref: "https://app.asana.com/0/billing/pricing"
+global_CtaTrialHref: "/create-account"
+global_CtaFreeSignupHref: "#signup"
+global_CtaSignUpForFree: "Sign up for free"
+global_CtaContactSalesHref: "/sales"
+global_navCtaOnclickSetDefaultPlanTier_notrans: "AsanaHelpers.tier.setTierPremium();"
+
+global_placeholderEmail: "name@company.com"
+global_placeholderPassword: "Password"
+global_labelEmail: "Email Address"
+global_labelPassword: "Password"
+global_search_placeholder: "Search for help on specific topics"
+
+global_signupEmailNotValid: "Oops, looks like that's not a valid email."
+
+global_alreadyHaveAccountGAuth: "Looks like you already have an account. Please sign in."
+global_alreadyHaveAccountEmail: "Looks like you already have an account. Please sign in."
+
+global_forgotPassword: "Forgot password?"
+
+global_try_link_trial: "Already using Asana?<br><a href='https://app.asana.com/-/upgrade?trial=true'>Log in</a> to activate your free trial of Asana Premium."
+
+global_CTAgoToAppDesktop: "Go to Asana"
+global_CTAgoToAppiOS: "Go to Asana"
+global_AppStoreLinkIOS: "https://itunes.apple.com/us/app/asana-mobile/id489969512?mt=8"
+global_AppStoreCTAIOS: "Download App"
+global_AppStoreIOSButton: "//luna1.co/Download_App_Store_Badge_US.svg"
+
+global_AppStoreLinkAndroid: "https://play.google.com/store/apps/details?id=com.asana.app"
+global_AppStoreCTAAndroid: "Download App"
+global_AppStoreAndroidButton: "//luna1.co/Google_Play_EN.svg"
+
+global_CTAsignupEmailList: "Submit"
+global_signupEmailListSuccess: "Thank you for subscribing!"
+
+# Confirmation pages (/thanks, /thank, /thankyou, /thank-you, /confirm, /confirmation)
+global_verificationHeadline_sso: "Please verify your email address"
+
+global_verificationCheckEmail_google: "If you don't want to continue with Google, complete your signup through the email we sent to your email address."
+global_verificationCheckEmail_saml: "If you don't want to continue here, complete your signup through the email we sent to your email address."
+global_verificationCheckEmail_inbox: "Check your email inbox for a verification email."
+
+global_verification_getStarted: "Get started with"
+global_verification_continue: "Continue with Google to verify"
+global_verification_continue_saml: "Continue with your company's login to verify"
+
+global_verification_noEmail: "Didn't receive an email?"
+global_verification_clickCTA: "Click here."
+global_verification_yourEmail: "your email"
+global_verification_optionText: "Or"
+global_verification_resendEmail: "Resend email."
+global_verification_emailSent: "Email sent."
+
+# Navigation menu
+global_navbar_Product: "Product"
+global_navbar_Customers: "Customers"
+global_navbar_LearnMore: "Learn more"
+global_navbar_Pricing: "Pricing"
+global_navbar_Premium: "Premium"
+global_navbar_Enterprise: "Enterprise"
+
+global_navbarGuide_Help: "Help"
+
+global_navbarAsanapedia_Brand: "Brand"
+global_navbarAsanapedia_Bizneyland: "Bizneyland"
+global_navbarAsanapedia_BizTech: "BizTech"
+
+# Dev navigation links
+global_navDev_Support: "Support"
+global_navDev_Api: "API Reference"
+global_navDev_Asana: "Asana"
+global_navDev_Product: "Product"
+global_navDev_Customers: "Customers"
+global_navDev_Pricing: "Pricing"
+global_navDev_Blog: "Blog"
+global_navDev_About: "About Us"
+global_navDev_Company: "Company"
+global_navDev_Jobs: "Jobs"
+global_navDev_Press: "Press"
+global_navDev_Engineering: "Engineering"
+global_navDev_Help: "Help"
+global_navDev_Terms: "Terms & Privacy"
+global_navDev_Contact: "Contact Us"
+global_navDev_Dev: "Developers"
+global_navDev_Apps: "Apps & Social"
+global_navDev_Int: "Integrations"
+global_navDev_ios: "iOS"
+global_navDev_Android: "Android"
+
+# Search Submit
+global_searchSubmit: "Submit"
+
+# Lessons
+lessons_AsanaLessons: "Asana Lessons"
+lessons_LearnBasics: "Learn the Asana basics in less than 15 minutes with these quick lessons"
+
+# Microcopy (to be migrated to Contentful)
+global_sidebar_header: "Jump to section"
+global_min_read: "min read"
+
+## Marketo Forms
+## -------------
+marketo_short_form_ids:
+  - language: "en"
+    form_id: "387"
+  - language: "fr"
+    form_id: "388"
+  - language: "de"
+    form_id: "389"
+  - language: "ja"
+    form_id: "390"
+  - language: "pt"
+    form_id: "391"
+  - language: "es"
+    form_id: "392"
+
+marketo_long_form_ids:
+  - language: "en"
+    form_id: "393"
+  - language: "fr"
+    form_id: "394"
+  - language: "de"
+    form_id: "395"
+  - language: "ja"
+    form_id: "396"
+  - language: "pt"
+    form_id: "397"
+  - language: "es"
+    form_id: "398"
+
+marketo_sales_form_ids:
+  - language: "en-us"
+    form_id: "433"
+  - language: "en"
+    form_id: "432"
+  - language: "fr"
+    form_id: "435"
+  - language: "de"
+    form_id: "436"
+  - language: "ja"
+    form_id: "509"
+  - language: "pt"
+    form_id: "438"
+  - language: "es"
+    form_id: "439"
+
+marketo_munchkin_id: "784-XZD-582"
+marketo_munchkin_id_sandbox: "733-SJI-039"
+marketo_form_base_url: "//resources.asana.com"
+marketo_form_base_url_sandbox: "//na-ab39.marketo.com"
+marketo_success_redirect_url: "/resources/thank-you/"
+
+# hides or shows subnav
+header_nav_from: false
+
+# Resource Hub
+global_resources_related_header: "Related resources"
+global_resources_filter_by_type: "Filter by type"
+global_resources_apply: "Apply"
+global_resources_pagination_newer: "Newer"
+global_resources_pagination_older: "Older"
+
+global_resources_microcopy_related_hubs: "Explore resource hubs"
+global_resources: "Resources"
+
+global_modals:
+  - modal_id_notrans: "signup"
+    modal_class_notrans: "signup"
+    tabindex_origin: 70
+    modal_img_src: "https://luna1.co/005100.png"
+    modal_title: "Sign up"
+    modal_content: "Please use your work email address, so we can connect you with your team in Asana."
+    modal_footer: false
+    modal_flow: true
+    premium_reminder_premium_cta: Try Premium for Free
+    premium_reminder_basic_cta: Continue with Basic
+    premium_reminder_image_src: https://luna1.co/50311b.png
+
+  - modal_id_notrans: "get-started"
+    modal_class_notrans: "signup"
+    tabindex_origin: 4000
+    modal_title: "Try Asana for free"
+    modal_content: "Please use your work email address, so we can connect you with your team in Asana."
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: "https://luna1.co/005100.png"
+
+  - modal_id_notrans: "try"
+    modal_class_notrans: "signup"
+    tabindex_origin: 4000
+    modal_title: "Start your free trial"
+    modal_content: "Please use your work email address so we can connect you with your team in Asana."
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: false
+
+  - modal_id_notrans: "trial"
+    modal_class_notrans: "signup"
+    tabindex_origin: 4000
+    modal_title: "Start your free trial"
+    modal_content: "Please use your work email address so we can connect you with your team in Asana."
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: false
+
+  - modal_id_notrans: "buy-premium"
+    modal_class_notrans: "signup"
+    tabindex_origin: 4000
+    modal_title: "Get Asana Premium"
+    modal_content: "Please use your work email address, so we can connect you with your team in Asana."
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: "https://luna1.co/005100.png"
+
+  - modal_id_notrans: "buy-business"
+    modal_class_notrans: "signup"
+    tabindex_origin: 4000
+    modal_title: "Get Asana Business"
+    modal_content: "Please use your work email address, so we can connect you with your team in Asana."
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: "https://luna1.co/005100.png"
+
+  - modal_id_notrans: "loading"
+    modal_class_notrans: "loading"
+    tabindex_origin: 9000
+    modal_title: false
+    modal_content: false
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: false
+
+  - modal_id_notrans: "signup-failed"
+    modal_class_notrans: "signup-failed"
+    tabindex_origin: 10000
+    modal_title: "Oops, we couldn't sign you up!"
+    modal_content: "We tried, but there was a problem creating your account. Please close this window and try again!"
+    modal_form: false
+    modal_footer: false
+    modal_flow: true
+    modal_img_src: false
+
+  - modal_id_notrans: "unsupported-browser"
+    modal_class_notrans: "unsupported-browser"
+    tabindex_origin: 7500
+    modal_title: "Sorry, we don't support this browser"
+    modal_content: "Asana doesn't work with the internet browser you are currently using. Please sign up using one of these <a href='/guide/help/faq/connectivity#gl-browsers'>supported browsers</a> instead."
+    modal_form: false
+    modal_footer: false
+    modal_flow: false
+    modal_img_src: false
+
+  - modal_id_notrans: "i18n"
+    modal_class_notrans: "i18n"
+    tabindex_origin: 7500
+    modal_title: "Choose your language"
+    modal_content: "Selecting a language changes the language and/or content on asana.com"
+    modal_form: false
+    modal_footer: false
+    modal_flow: false
+    modal_img_src: "https://luna1.co/005100.png"
+
+modal_request_translate: "Thanks for your feedback. We will prioritize this page for translation."
+
+share_actions: "facebook|twitter|linkedin|email"
+
+share_facebook_tooltip_title: "Share on Facebook"
+share_facebook_tooltip_body: "Share this article with your friends on their newsfeed."
+
+share_twitter_tooltip_title: "Share on Twitter"
+share_twitter_tooltip_body: "Let your followers know about this article."
+
+share_linkedin_tooltip_title: "Share on LinkedIn"
+share_linkedin_tooltip_body: "Share this article on your LinkedIn feed."
+
+share_email_tooltip_title: "Share by Email"
+share_email_tooltip_body: "Send a link to this article to your team."
+global_jobs_email_subject_start: "Asana is looking for"
+
+share_download_tooltip_title: "Download a copy"
+share_download_tooltip_body: "Save this pdf or document to your desktop."
+
+share_permalink_tooltip_title: "Copy Link"
+share_permalink_tooltip_success: "Link Copied"
+hide_tooltips: false
+download_link: false
+
+##
+## Asana Lessons
+## -------------
+
+asana_lessons:
+  - name: "Tasks"
+    data_name_notrans: "tasks"
+    color: "green"
+    image: "https://luna1.co/e9753a.png"
+    description: "Track all of your work"
+    completion_time: "3 Minutes"
+    panels:
+
+      - panel_image: "https://luna1.co/c541ca.png"
+        panel_text: "You can use <strong>tasks</strong> to track, collaborate on, and organize all your work."
+
+      - panel_image: "https://luna1.co/aeb3c3.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Tasks</strong> can be to-dos, ideas, notes, or reminders."
+
+      - panel_image: "https://luna1.co/00b440.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Assign</strong> a task to yourself or a teammate."
+        panel_subtext: "Press <strong>Tab+M</strong> to quickly assign a task to yourself."
+
+      - panel_image: "https://luna1.co/bcb35a.gif"
+        panel_image_screenshot: true
+        panel_text: "Add a <strong>due date</strong> so your deadline is clear."
+
+      - panel_image: "https://luna1.co/c284a0.gif"
+        panel_image_screenshot: true
+        panel_text: "Add instructions and expectations in the task <strong>description</strong> field."
+
+      - panel_image: "https://luna1.co/369eff.gif"
+        panel_image_screenshot: true
+        panel_text: "Type <strong>@</strong> to link to other tasks, people, conversations, or projects."
+
+      - panel_image: "https://luna1.co/d252b0.gif"
+        panel_image_screenshot: true
+        panel_text: "When you @mention someone, they’ll be added to your task as a <strong>follower</strong>."
+        panel_subtext: "Followers get notified when new comments or attachments are added."
+
+      - panel_image: "https://luna1.co/45c693.gif"
+        panel_image_screenshot: true
+        panel_text: "Add anyone who needs to stay up to date on your task as a <strong>follower</strong>."
+        panel_subtext: "They can always unfollow to stop getting notifications on your task."
+
+      - panel_image: "https://luna1.co/1a0e92.gif"
+        panel_image_screenshot: true
+        panel_text: "Add <strong>comments</strong> to ask questions or give followers updates."
+        panel_subtext: "Heart a comment to let followers know you’ve seen it."
+
+      - panel_image: "https://luna1.co/bc3c54.gif"
+        panel_image_screenshot: true
+        panel_text: "Add relevant files or irrelevant GIFs as <strong>attachments</strong>."
+        panel_subtext: "You can also attach directly from <strong>Dropbox</strong>, <strong>Google Drive</strong>, or <strong>Box</strong>."
+
+      - panel_image: "https://luna1.co/5e330a.gif"
+        panel_image_screenshot: true
+        panel_text: "Create subtasks to break your task into smaller steps."
+        panel_subtext: "When you’ve added a subtask, press <strong>enter</strong> to add another."
+
+      - panel_image: "https://luna1.co/fb7010.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Subtasks</strong> can contain all the same details as regular tasks."
+        panel_subtext: "Click the <strong>comment bubble</strong> to add comments or attachments to a subtask."
+
+      - panel_image: "https://luna1.co/aad1da.gif"
+        panel_image_screenshot: true
+        panel_text: "You can create tasks from any screen using your <strong>top bar</strong>."
+
+      - panel_image: "https://luna1.co/37751e.gif"
+        panel_image_screenshot: true
+        panel_text: "Every Task has a unique URL to easily copy and share."
+
+      - panel_image: "https://luna1.co/381864.png"
+        panel_text: "<strong>Congrats!</strong> Looks like you’re up to the task."
+        panel_subtext: "On to the <a data-target='lessons-list'>next lesson</a>!"
+
+  - name: "My Tasks"
+    data_name_notrans: "my tasks"
+    color: "purple"
+    image: "https://luna1.co/206a5e.png"
+    description: "Always know what to do next"
+    completion_time: "3 Minutes"
+    panels:
+      - panel_image: "https://luna1.co/e585b1.png"
+        panel_text: "Always know what to do next with <strong>My Tasks</strong>."
+
+      - panel_image: "https://luna1.co/6ac79c.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>My Tasks</strong> is a list of every task assigned to you."
+        panel_subtext: "It makes managing your work simple."
+
+      - panel_image: "https://luna1.co/eb4ebc.gif"
+        panel_image_screenshot: true
+        panel_text: "Click on your <strong>My Tasks</strong> list and start typing to add tasks."
+        panel_subtext: "Like a text document, add a new line for each new task or paste in any list."
+
+      - panel_image: "https://luna1.co/04c64b.gif"
+        panel_image_screenshot: true
+        panel_text: "Forward to x@mail.asana.com to turn your <strong>emails</strong> into tasks."
+        panel_subtext: "Asana will translate your email into a task, including your attachments."
+
+      - panel_image: "https://luna1.co/62dd80.gif"
+        panel_image_screenshot: true
+        panel_text: "New tasks will appear at the top of your list in <strong>Recently Assigned</strong>."
+
+      - panel_image: "https://luna1.co/a1f914.gif"
+        panel_image_screenshot: true
+        panel_text: "Tasks you add to <strong>My Tasks</strong> are private to you."
+        panel_subtext: "Click <strong>Make Public</strong> to share them with your team."
+
+      - panel_image: "https://luna1.co/00b440.gif"
+        panel_image_screenshot: true
+        panel_text: "Prioritize tasks as <strong>Today</strong>, <strong>Upcoming</strong>, or <strong>Later</strong>."
+        panel_subtext: "Click on the blue dot next to the task, to quickly sort it."
+
+      - panel_image: "https://luna1.co/7ab18c.gif"
+        panel_image_screenshot: true
+        panel_text: "Mark the tasks you’ll have time for <strong>Today</strong>."
+
+      - panel_image: "https://luna1.co/3937b4.gif"
+        panel_image_screenshot: true
+        panel_text: "Teammates can view your <strong>My Tasks</strong> list to see what you’re up to."
+        panel_subtext: "They’ll only see tasks you’ve made public or shared in a project (more on projects later)."
+
+      - panel_image: "https://luna1.co/a56912.gif"
+        panel_image_screenshot: true
+        panel_text: "Mark tasks due within a week as <strong>Upcoming</strong> so you can see what will be due soon."
+
+      - panel_image: "https://luna1.co/f45af5.gif"
+        panel_image_screenshot: true
+        panel_text: "On its due date, your task will move from <strong>Upcoming</strong> to <strong>Today</strong>."
+        panel_subtext: "Just like magic."
+
+      - panel_image: "https://luna1.co/cb539f.gif"
+        panel_image_screenshot: true
+        panel_text: "Mark tasks due in more than a week for <strong>Later</strong>."
+        panel_subtext: "They’ll be out of your way until their due date approaches."
+
+      - panel_image: "https://luna1.co/5f8262.gif"
+        panel_image_screenshot: true
+        panel_text: "Your tasks will move from <strong>Later</strong> to <strong>Upcoming</strong> a week before they’re due."
+
+      - panel_image: "https://luna1.co/e5ef39.gif"
+        panel_image_screenshot: true
+        panel_text: "Keep <strong>My Tasks</strong> prioritized to always know what to work on and what’s coming next."
+
+      - panel_image: "https://luna1.co/96ca49.png"
+        panel_text: "Now you know how to track and plan your work!"
+        panel_subtext: "<a data-target='lessons-list'>Next</a>, learn how to work with your team in Asana."
+
+  - name: "Projects"
+    data_name_notrans: "projects"
+    color: "coral"
+    image: "https://luna1.co/635e98.png"
+    description: "Work with teammates"
+    completion_time: "3 Minutes"
+    panels:
+      - panel_image: "https://luna1.co/96a3fc.png"
+        panel_text: "Work together on groups of tasks with <strong>projects</strong>."
+
+      - panel_image: "https://luna1.co/4b2b6b.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Projects</strong> help you track and organize the steps in a process or initiative."
+        panel_subtext: "Like an event plan, product launch, or editorial calendar."
+
+      - panel_image: "https://luna1.co/f12f08.gif"
+        panel_image_screenshot: true
+        panel_text: "Like <strong>My Tasks</strong>, simply click and type to add tasks to your project."
+        panel_subtext: "If you have your steps in a document or email already, paste in that list."
+
+      - panel_image: "https://luna1.co/d74245.gif"
+        panel_image_screenshot: true
+        panel_text: "Add tasks to your project from <strong>email</strong>."
+        panel_subtext: "View your project’s unique email address from the project dropdown menu."
+
+      - panel_image: "https://luna1.co/592235.gif"
+        panel_image_screenshot: true
+        panel_text: "Add your tasks to other related projects."
+        panel_subtext: "Tasks can be included in multiple projects."
+
+      - panel_image: "https://luna1.co/df6f5e.gif"
+        panel_image_screenshot: true
+        panel_text: "Add <strong>sections</strong> to organize tasks in a list project."
+        panel_subtext: "Type <strong>Tab+N</strong> in any task row to create a new section."
+
+      - panel_image: "https://luna1.co/23714f.gif"
+        panel_image_screenshot: true
+        panel_text: "Or, add <strong>columns</strong> to organize tasks in a boards project."
+        panel_subtext: "Drag and drop tasks between or within columns to reorder."
+
+      - panel_image: "https://luna1.co/e8a5a1.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Assign</strong> your tasks and set <strong>due dates</strong>."
+
+      - panel_image: "https://luna1.co/3074b8.gif"
+        panel_image_screenshot: true
+        panel_text: "Never miss a deadline with your project <strong>calendar</strong>."
+        panel_subtext: "Drag and drop tasks on your calendar to change their due dates."
+
+      - panel_image: "https://luna1.co/57a6bb.gif"
+        panel_image_screenshot: true
+        panel_text: "Add everyone who needs to stay updated on your project as <strong>members</strong>."
+        panel_subtext: "Project members will get notified of new conversations, statuses, and tasks."
+
+      - panel_image: "https://luna1.co/175733.gif"
+        panel_image_screenshot: true
+        panel_text: "Post <strong>conversations</strong> to make announcements or start discussions."
+        panel_subtext: "Your post will be sent to all project members."
+
+      - panel_image: "https://luna1.co/852f40.gif"
+        panel_image_screenshot: true
+        panel_text: "Use <strong>Progress</strong> to see how your project is moving forward."
+
+      - panel_image: "https://luna1.co/84f8d0.gif"
+        panel_image_screenshot: true
+        panel_text: "Set a project <strong>status</strong> to update your team on how it's going."
+        panel_subtext: "The Project Owner will be reminded to set a status once a week."
+
+      - panel_image: "https://luna1.co/b7845a.gif"
+        panel_image_screenshot: true
+        panel_text: "Open and organize projects from your <strong>sidebar</strong>."
+
+      - panel_image: "https://luna1.co/b608c5.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Favorite</strong> projects to pin them to the top of your sidebar."
+        panel_subtext: "Click the <strong>star</strong> button on the left of your project name to favorite it."
+
+      - panel_image: "https://luna1.co/5e8885.gif"
+        panel_image_screenshot: true
+        panel_text: "Create new projects from any screen using your <strong>top bar</strong>."
+
+      - panel_image: "https://luna1.co/6fab95.png"
+        panel_text: "Now you can move projects forward with your team."
+        panel_subtext: "Just one more lesson before you dive in."
+
+  - name: "Inbox"
+    data_name_notrans: "inbox"
+    color: "gold"
+    image: "https://luna1.co/ae58f6.png"
+    description: "Communicate even faster"
+    completion_time: "3 Minutes"
+    panels:
+      - panel_image: "https://luna1.co/f2bc67.png"
+        panel_text: "Communicate and coordinate faster with <strong>Inbox</strong>."
+
+      - panel_image: "https://luna1.co/a47335.gif"
+        panel_image_screenshot: true
+        panel_text: "Check <strong>Inbox</strong> to quickly read and respond to your latest updates."
+
+      - panel_image: "https://luna1.co/e84d28.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Inbox</strong> will notify you when you have a task due..."
+
+      - panel_image: "https://luna1.co/59bd28.gif"
+        panel_image_screenshot: true
+        panel_text: "and when teammates update tasks, conversations, and projects you follow."
+
+      - panel_image: "https://luna1.co/0ca62e.gif"
+        panel_image_screenshot: true
+        panel_text: "Open and respond to updates without leaving <strong>Inbox</strong>."
+        panel_subtext: "Click an update and you’ll have all the context you need to respond."
+
+      - panel_image: "https://luna1.co/d9807c.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Archive</strong> updates you’re ready to dismiss."
+        panel_subtext: "Click the <strong>X</strong> that appears on the right of an update to archive it."
+
+      - panel_image: "https://luna1.co/98d3fc.gif"
+        panel_image_screenshot: true
+        panel_text: "Open <strong>Archive</strong> to move dismissed updates back to your Inbox."
+        panel_subtext: "Click the <strong>arrow</strong> that appears on the right of an archived update to move it back to Inbox."
+
+      - panel_image: "https://luna1.co/280429.gif"
+        panel_image_screenshot: true
+        panel_text: "<strong>Unfollow</strong> tasks or projects to stop receiving updates about them."
+        panel_subtext: "In the end, you have control over the updates you receive (or choose not to receive)"
+
+      - panel_image: "https://luna1.co/62c271.gif"
+        panel_image_screenshot: true
+        panel_text: "When you’re ready, you can turn Asana's <strong>Email notifications</strong> off."
+        panel_subtext: "Most communication with your team can be more easily managed from Inbox. Just remember to check it often."
+
+      - panel_image: "https://luna1.co/6b9dff.png"
+        panel_text: "<strong>Congratulations!</strong> Now you’re ready to have a great work day with Asana."
+
+
+## Header Navigation (current)
+## ------------------------------------
+
+header_navigation:
+  - type_notrans: "dropdown"
+    dropdown_name: "Why Asana?"
+    dropdown_machine_name_notrans: "why-asana"
+    sections:
+      - section_label: "Why Asana"
+        section_max_column_height: 5
+        section_links:
+          - type_notrans: "card-link"
+            link_label: "Overview"
+            link_summary: "Build project plans, coordinate tasks, and hit deadlines"
+            link_url_x: "/product"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "For Marketing"
+            link_summary: "Plan and track campaigns, launches, and more"
+            link_url_x: "/teams/marketing"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "For Operations"
+            link_summary: "Build, scale and streamline processes to improve efficiency"
+            link_url_x: "/teams/operations"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: 'For Leaders <span class="tag -purple">New</span>'
+            link_summary: "Improve clarity, focus, and personal growth"
+            link_url_x: "/teams/leaders"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "For Product"
+            link_summary: "Build roadmaps, plan sprints, manage shipping and launches"
+            link_url_x: "/teams/product-managers"
+            link_i18n_notrans: true
+            link_modifiers:
+
+      - section_label: "For Your Workflow"
+        section_max_column_height: 4
+        section_links:
+          - type_notrans: "card-link"
+            link_label: "Project Management"
+            link_summary: "Plan, track, and manage team projects from start to finish"
+            link_url_x: "/uses/project-management"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Campaign Management"
+            link_summary: "Create, launch, and track your marketing campaigns"
+            link_url_x: "/workflows/campaign-management"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Creative Production"
+            link_summary: "Design, review, and ship inspirational work"
+            link_url_x: "/workflows/creative-production"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Request Tracking"
+            link_summary: "Track, prioritize, and fulfill the asks for your teams"
+            link_url_x: "/workflows/request-tracking"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: 'Remote teams <span class="tag -purple">Popular</span>'
+            link_summary: "Collaborate and manage work from anywhere"
+            link_url_x: "/uses/manage-remote-teams"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Productivity"
+            link_summary: "Be more deliberate about how you manage your time"
+            link_url_x: "/uses/increase-productivity"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Agile Management"
+            link_summary: "Build fast, ship often, and track it all in one place"
+            link_url_x: "/uses/agile-management"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "See all workflows"
+            link_summary: ""
+            link_url_x: "/workflows"
+            link_i18n_notrans: true
+            link_modifiers:
+              - "arrow"
+    featured_sections:
+      - section_label: "Templates"
+        section_max_column_height: 4
+        section_links:
+          - type_notrans: "card-link"
+            link_label: "Templates Home"
+            link_summary: "Hit the ground running with templates designed for your use-case"
+            link_url_x: "/templates"
+            link_i18n_notrans: true
+            link_icon_notrans: "templates"
+            link_color: "orange"
+            link_modifiers:
+
+      - section_label: "Popular Templates"
+        section_max_column_height: 8
+        section_links:
+          - type_notrans: "template-link"
+            template_label: "Team continuity"
+            template_url_x: "/templates/for/other/business-continuity-plan"
+            link_i18n_notrans: true
+            template_icon_notrans: "target"
+          - type_notrans: "template-link"
+            template_label: "Meeting agenda"
+            template_url_x: "/templates/for/other/qbr-meeting-agenda"
+            link_i18n_notrans: true
+            template_icon_notrans: "onboarding-pink"
+          - type_notrans: "template-link"
+            template_label: "Project plan"
+            template_url_x: "/templates/for/other/cross-functional-project-plan"
+            link_i18n_notrans: true
+            template_icon_notrans: "strategy"
+          - type_notrans: "template-link"
+            template_label: "Work requests"
+            template_url_x: "/templates/for/other/work-requests"
+            link_i18n_notrans: true
+            template_icon_notrans: "lightbulb-blue"
+          - type_notrans: "template-link"
+            template_label: "Team goals & objective planning"
+            template_url_x: "/templates/for/other/team-goals-planning-example"
+            link_i18n_notrans: true
+            template_icon_notrans: "campaign-red"
+
+  - type_notrans: "dropdown"
+    dropdown_name: "Features"
+    dropdown_machine_name_notrans: "solutions"
+    sections:
+      - section_label: "Key Features"
+        section_max_column_height: 4
+        section_links:
+
+          - type_notrans: "card-link"
+            link_label: 'Workflow Builder <span class="tag -black">New</span>'
+            link_summary: "Create automated processes to coordinate your teams"
+            link_url_x: "/product/workflow-builder"
+            link_i18n_notrans: true
+            link_color: "dark-green"
+            link_icon_notrans: "workflow-builder"
+            link_modifiers: null
+
+          - type_notrans: "card-link"
+            link_label: "Timeline"
+            link_summary: "Build a beautiful Gantt chart in minutes"
+            link_url_x: "/product/timeline"
+            link_i18n_notrans: true
+            link_color: "purple"
+            link_icon_notrans: "timeline"
+            link_modifiers: null
+
+          - type_notrans: "card-link"
+            link_label: "Boards"
+            link_summary: "See and track your work on Kanban boards"
+            link_url_x: "/uses/kanban-boards"
+            link_i18n_notrans: true
+            link_color: "gold"
+            link_icon_notrans: "kanban-board"
+            link_modifiers: null              
+
+          - type_notrans: "card-link"
+            link_label: "Calendar"
+            link_summary: "View your team's work on one shared calendar"
+            link_url_x: "/uses/team-calendar"
+            link_i18n_notrans: true
+            link_color: "teal"
+            link_icon_notrans: "calendar-blank"
+            link_modifiers: null         
+            
+          - type_notrans: "card-link"
+            link_label: "App Integrations"
+            link_summary: "See how Asana brings apps together to support your team"
+            link_url_x: "/integrations"
+            link_i18n_notrans: true
+            link_color: "coral"
+            link_icon_notrans: "app-integration"
+            link_modifiers: null                
+
+          - type_notrans: "card-link"
+            link_label: "Reporting"
+            link_summary: "Get real-time insight into progress on any stream of work"
+            link_url_x: "/product/reporting"
+            link_i18n_notrans: true
+            link_color: "gold"
+            link_icon_notrans: "workload-line"
+            link_modifiers: null                 
+
+          - type_notrans: "card-link"
+            link_label: 'Goals'
+            link_summary: "Set strategic goals and track progress in one place"
+            link_url_x: "/product/goals"
+            link_i18n_notrans: true
+            link_color: "dark-green"
+            link_icon_notrans: "goals"
+            link_modifiers: null       
+
+          - type_notrans: "card-link"
+            link_label: 'Forms'
+            link_summary: "Submit and manage work requests in one place"
+            link_url_x: "/product/forms"
+            link_i18n_notrans: true
+            link_color: "coral"
+            link_icon_notrans: "forms"
+            link_modifiers: null             
+
+          - type_notrans: "card-link"
+            link_label: 'Automation'
+            link_summary: "Streamline processes, reduce errors, and spend less time on routine tasks"
+            link_url_x: "/product/automation"
+            link_i18n_notrans: true
+            link_color: "purple"
+            link_icon_notrans: "automation"
+            link_modifiers: null
+
+          - type_notrans: "card-link"
+            link_label: "Workload"
+            link_summary: "See how much work team members have across projects"
+            link_url_x: "/product/workload"
+            link_i18n_notrans: true
+            link_color: "coral"
+            link_icon_notrans: "workload-line"
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Desktop and Mobile Apps"
+            link_summary: "Sync your work in real-time to all your devices"
+            link_url_x: "/download"
+            link_i18n_notrans: true
+            link_color: "dark-green"
+            link_icon_notrans: "mobile-app"
+            link_modifiers:              
+
+          - type_notrans: "card-link"
+            link_label: "See all features"
+            link_summary: ""
+            link_url_x: "/features"
+            link_i18n_notrans: true
+            link_icon_notrans: "cog-outline"
+            link_color: "gold"
+            link_modifiers:
+              - "arrow"
+
+    featured_sections:
+      - section_label: "All Plans"
+        section_max_column_height: 5
+        section_links:
+          - type_notrans: "card-link"
+            link_label: "Basic"
+            link_summary: "For simple task and project management. Free for teams up to 15"
+            link_url_x: "/pricing"
+            link_i18n_notrans: true
+            link_icon_notrans: "basic"
+            link_color: "gray"
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Premium"
+            link_summary: "For effectively planning and managing team projects"
+            link_url_x: "/premium"
+            link_i18n_notrans: true
+            link_icon_notrans: "premium-line"
+            link_color: "gold"
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Business"
+            link_summary: "For managing large initiatives and improving cross-team collaboration"
+            link_url_x: "/business"
+            link_i18n_notrans: true
+            link_icon_notrans: "business"
+            link_color: "teal"
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Enterprise"
+            link_summary: "For organizations that need additional security, control, and support"
+            link_url_x: "/enterprise"
+            link_i18n_notrans: true
+            link_icon_notrans: "enterprise"
+            link_color: "coral"
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Compare all plans"
+            link_summary: ""
+            link_url_x: "/pricing"
+            link_i18n_notrans: true
+            link_icon_notrans: "cog-outline"
+            link_color: "purple"
+            link_modifiers:
+              - "arrow"
+
+  - type_notrans: "dropdown"
+    dropdown_name: "Resources"
+    dropdown_machine_name_notrans: "resources"
+    sections:
+      - section_label: "Learn"
+        section_max_column_height: 4
+        section_links:
+          - type_notrans: "card-link"
+            link_label: "Work Management Resources"
+            link_summary: "Discover best practices, watch webinars, get insights"
+            link_url_x: "/resources"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Asana Guide"
+            link_summary: "Get lots of tips, tricks, and advice to get the most from Asana"
+            link_url_x: "/guide"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Asana Academy"
+            link_summary: "Sign up for interactive courses and webinars to learn Asana"
+            link_url_x: "https://academy.asana.com/"
+            link_i18n_notrans: false
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Blog"
+            link_summary: "Discover the latest Asana product and company news"
+            link_url_x: "https://theworkback.com/"
+            link_i18n_notrans: false
+            link_modifiers:
+
+      - section_label: "Connect"
+        section_max_column_height: 4
+        section_links:
+
+          - type_notrans: "card-link"
+            link_label: "Events"
+            link_summary: "Find out about upcoming events near you"
+            link_url_x: "https://events.asana.com"
+            link_i18n_notrans: false
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Community Programs"
+            link_summary: "Connect with and learn from Asana customers around the world"
+            link_url_x: "/community"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Support"
+            link_summary: "Need help? Contact the Asana support team"
+            link_url_x: "/support"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Partners"
+            link_summary: "Learn more about our partner programs"
+            link_url_x: "/partners"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Developers"
+            link_summary: "Learn more about building apps on the Asana platform"
+            link_url_x: "/developers"
+            link_i18n_notrans: true
+            link_modifiers:
+
+          - type_notrans: "card-link"
+            link_label: "Asana for Nonprofits"
+            link_summary: "Get more information on our nonprofit discount program, and apply."
+            link_url_x: "/nonprofit"
+            link_i18n_notrans: true
+            link_modifiers:
+
+
+    featured_sections:
+      - section_label: "Featured Reads"
+        section_links:
+
+          - type_notrans: "resource-card"
+            link_label: "Drive employee impact: New tools to empower resilient leadership"
+            link_url_x: "https://blog.asana.com/2022/06/impact"
+            link_i18n_notrans: false
+            image: "https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png"
+            cta_text: "Read More"
+            link_category: "Report"
+
+          - type_notrans: "resource-card"
+            link_label: "The Anatomy of Work: Global Index 2023"
+            link_url_x: "http://asana.com/resources/anatomy-of-work"
+            link_i18n_notrans: false
+            image: "https://assets.asana.biz/transform/f00a3f86-0802-42ae-a948-41d2936b99e8/web-aow24-nav-thumbnail_aow-cover"
+            cta_text: "Read More"
+            link_category: "Report"
+
+          - type_notrans: "resource-card"
+            link_label: "2 new features to help your team gain clarity and context in the new year"
+            link_url_x: "https://blog.asana.com/2021/01/clarity-through-context"
+            link_i18n_notrans: false
+            image: "https://luna1.co/012d87.png"
+            cta_text: "Read More"
+            link_category: "Blog"
+
+  - type_notrans: "link"
+    name: "Enterprise"
+    url_x: "/enterprise"
+    link_i18n_notrans: true
+    class_notrans:
+
+  - type_notrans: "link"
+    name: "Pricing"
+    url_x: "/pricing"
+    link_i18n_notrans: true
+    class_notrans:
+
+  - type_notrans: "footer-link"
+    footer_links:
+      - label: "Contact Sales"
+        url_x: "/sales"
+        link_i18n_notrans: true
+      - label: "View Demo"
+        url_x: "/go/demo"
+        link_i18n_notrans: true
+
+
+
+##
+## Mobile Navigation
+## -----------------
+
+mobileNavigation:
+  - name: "Product"
+    url_x: "/product"
+  - name: "Customers"
+    url_x: "/customers"
+  - name: "Pricing"
+    url_x: "/pricing"
+  - name: "Premium"
+    url_x: "/premium"
+  - name: "Business"
+    url_x: "/business"
+  - name: "Asana Guide"
+    url_x: "https://asana.com/guide"
+  - name: "Careers"
+    url_x: "/jobs"
+
+mobileNavigationSocial:
+  - item: "twitter"
+    url: "https://twitter.com/intent/follow?screen_name=asana"
+    ga: "AsanaAnalytics.trackGTM('follow_on_twitter');"
+    external: true
+
+  - item: "facebook"
+    url: "https://www.facebook.com/asana"
+    ga: "AsanaAnalytics.trackGTM('follow_on_facebook');"
+    external: true
+
+
+##
+## Site Footer
+## -----------
+
+footerColumns:
+  -
+    footerColumn: "Asana"
+    list:
+      -
+        item: "Home"
+        url: "/?noredirect"
+        link_i18n_notrans: true
+      -
+        item: "Product"
+        url: "/product"
+        link_i18n_notrans: true
+      -
+        item: "Pricing"
+        url: "/pricing"
+        link_i18n_notrans: true
+      -
+        item: "Premium"
+        url: "/premium"
+        link_i18n_notrans: true
+      -
+        item: "Business"
+        url: "/business"
+        link_i18n_notrans: true
+      -
+        item: "Enterprise"
+        url: "/enterprise"
+        link_i18n_notrans: true
+      -
+        item: "Customer Success"
+        url: "/customer-success"
+        link_i18n_notrans: true
+      -
+        item: "Asana Templates"
+        url: "/templates"
+        link_i18n_notrans: true
+      -
+        item: "Trust & Security"
+        url: "/trust"
+        link_i18n_notrans: true
+      -
+        item: "Status"
+        url: "https://status.asana.com"
+        link_i18n_notrans: false
+        external: true
+
+
+  -
+    footerColumn: "About Us"
+    list:
+      -
+        item: "Company"
+        url: "/company"
+        link_i18n_notrans: true
+      -
+        item: "Leadership"
+        url: "/leadership"
+        link_i18n_notrans: true
+      -
+        item: "Customers"
+        url: "/customers"
+        link_i18n_notrans: true
+      -
+        item: "Diversity"
+        url: "/diversity-and-inclusion"
+        link_i18n_notrans: true
+      -
+        item: "Careers"
+        url: "/jobs"
+        link_i18n_notrans: true
+      -
+        item: "Press"
+        url: "/press"
+        link_i18n_notrans: true
+      -
+        item: "Wavelength"
+        url: "https://wavelength.asana.com/"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "The Workback"
+        url: "https://theworkback.com/"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "Investor Relations"
+        url: "https://investors.asana.com/"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "Sitemap"
+        url: "/site-map"
+        link_i18n_notrans: true
+      -
+        item: "Modern Slavery Transparency Statement"
+        url: "/terms/modern-slavery-statement"
+        link_i18n_notrans: true
+
+  -
+    footerColumn: "Workflow Solutions"
+    list:
+      -
+        item: "Project Management"
+        url: "/uses/project-management"
+        link_i18n_notrans: true
+      -
+        item: "Goal Management"
+        url: "/product/goals"
+        link_i18n_notrans: true
+      -
+        item: "Agile Management"
+        url: "/uses/agile-management"
+        link_i18n_notrans: true
+      -
+        item: "Task Management"
+        url: "/uses/task-management"
+        link_i18n_notrans: true
+      -
+        item: "Increase Productivity"
+        url: "/uses/increase-productivity"
+        link_i18n_notrans: true
+      -
+        item: "Work Management"
+        url: "/uses/work-management"
+        link_i18n_notrans: true
+      -
+        item: "Project Planning"
+        url: "/uses/project-planning"
+        link_i18n_notrans: true
+      -
+        item: "To Do Lists"
+        url: "/uses/to-do-list"
+        link_i18n_notrans: true
+      -
+        item: "See All Uses"
+        url: "/uses"
+        link_i18n_notrans: true
+      -
+        item: "See All Teams"
+        url: "/teams"
+        link_i18n_notrans: true
+
+  -
+    footerColumn: "Resources"
+    list:
+      -
+        item: "Asana Guide"
+        url: "/guide"
+        link_i18n_notrans: true
+      -
+        item: "Forum"
+        url: "https://forum.asana.com"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "Support"
+        url: "/support"
+        link_i18n_notrans: true
+      -
+        item: "App Directory"
+        url: "/apps"
+        link_i18n_notrans: true
+      -
+        item: "Developers & API"
+        url: "https://developers.asana.com/docs/"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "Partners"
+        url: "/partners"
+        link_i18n_notrans: true
+      -
+        item: "Asana Community"
+        url: "/community"
+        link_i18n_notrans: true
+      -
+        item: "Events"
+        url: "https://events.asana.com/"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "Asana for Nonprofits"
+        url: "/nonprofit"
+        link_i18n_notrans: false
+        external: true
+      -
+        item: "Accessibility"
+        url: "/accessibility"
+        link_i18n_notrans: false
+        external: true
+
+  -
+    footerColumn: "Learn"
+    list:
+      -
+        item: "11 Leadership Styles"
+        url: "/resources/leadership-styles"
+        link_i18n_notrans: true
+      -
+        item: "110 Icebreaker Questions"
+        url: "/resources/icebreaker-questions-team-building"
+        link_i18n_notrans: true
+      -
+        item: "Executive Summary Tips"
+        url: "/resources/executive-summary-examples"
+        link_i18n_notrans: true
+      -
+        item: "Impostor Syndrome Tips"
+        url: "/resources/impostor-syndrome"
+        link_i18n_notrans: true
+      -
+        item: "Prevent Team Burnout"
+        url: "/resources/what-is-burnout"
+        link_i18n_notrans: true
+      -
+        item: "SWOT Analysis Tips"
+        url: "/resources/swot-analysis"
+        link_i18n_notrans: true
+      -
+        item: "What are OKRs?"
+        url: "/resources/okr-meaning"
+        link_i18n_notrans: true
+      -
+        item: "What are SMART Goals?"
+        url: "/resources/smart-goals"
+        link_i18n_notrans: true
+      -
+        item: "What is Scope Creep?"
+        url: "/resources/what-is-scope-creep"
+        link_i18n_notrans: true
+      -
+        item: "See All Guides"
+        url: "/resources"
+        link_i18n_notrans: true
+
+##
+## Secodary Footer Columns
+## -----------------------
+
+secondaryFooterColumns:
+  - type_notrans: "copyright"
+
+  - name: "Language Selection"
+    type_notrans: "languageSelect"
+
+  - name_terms: "Terms"
+    name_privacy: "Privacy"
+    name_and: " & "
+    type_notrans: "terms"
+    url_terms: "/terms"
+    url_privacy: "/terms#privacy-policy"
+
+  - name: "Your CA Privacy Choices"
+    type_notrans: caPrivacy
+
+  - name: "Social"
+    type_notrans: "socialLinks"
+    icons:
+
+      - item: "twitter"
+        img_alt: "twitter"
+        url: "https://twitter.com/intent/follow?screen_name=asana"
+        ga: "AsanaAnalytics.trackGTM('follow_on_twitter');"
+        external: true
+
+      - item: "linkedin"
+        img_alt: "linkedin"
+        url: "https://www.linkedin.com/company/asana"
+        ga: "AsanaAnalytics.trackGTM('follow_on_linkedin');"
+        external: true
+
+      - item: "instagram"
+        img_alt: "instagram"
+        url: "https://www.instagram.com/asana/"
+        ga: "AsanaAnalytics.trackGTM('follow_on_instagram');"
+        external: true
+
+      - item: "facebook"
+        img_alt: "facebook"
+        url: "https://www.facebook.com/asana"
+        ga: "AsanaAnalytics.trackGTM('follow_on_facebook');"
+        external: true
+
+      - item: "youtube"
+        img_alt: "youtube"
+        url: "https://www.youtube.com/channel/UC2BoogM0AqwOJyoSp1S4ClQ"
+        ga: "AsanaAnalytics.trackGTM('follow_on_youtube');"
+        external: true
+
+  - name: "App Store"
+    type_notrans: "appLinks"
+    apps:
+      - app_store_link: "https://itunes.apple.com/us/app/asana-mobile/id489969512?mt=8"
+        data_btn_id: "data-ois-button"
+        gtm_tracking_id: 'download_ios'
+        app_store_btn_img_src: '//luna1.co/Download_App_Store_Badge_US.svg'
+        app_store_btn_title: 'Download app from App Store'
+
+      - app_store_link: "https://play.google.com/store/apps/details?id=com.asana.app"
+        data_btn_id: "data-android-button"
+        gtm_tracking_id: 'download_android'
+        app_store_btn_img_src: "//luna1.co/Google_Play_EN.svg"
+        app_store_btn_title: 'Download app from Google Play'
+
+global_meta_title: "Asana Mobile"
+global_meta_desc: Asana&colon; Team Tasks & Conversations
+
+# _themes/asana/partials/modal-layout.html
+global_add_link: "Add link to"
+global_workspace: "workspace"
+global_error_workspace: "<strong>Error&colon;</strong> Please select a workspace before adding link"
+global_task_name: "Task Name"
+global_description: "Description"
+
+new_front_matter_2: "Translate this field please!"
+---
