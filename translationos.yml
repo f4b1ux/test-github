@@ -52,7 +52,29 @@ files:
   - translation: professional
     service_type: economy
     source_locale: en-US
-    source_pattern: _content/**/*
+    source_pattern: _content/**/*.md
+    target_pattern: _content/{{lang_2}}/**/{{original_file}}
+    target_locales:
+      - it-IT
+    source_exclude:
+      - _content/de/**/*
+      - _content/es/**/*
+      - _content/fr/**/*
+      - _content/id/**/*
+      - _content/it/**/*
+      - _content/ja/**/*
+      - _content/ko/**/*
+      - _content/nl/**/*
+      - _content/pl/**/*
+      - _content/pt/**/*
+      - _content/ru/**/*
+      - _content/sv/**/*
+      - _content/zh-tw/**/*
+  - translation: professional
+    service_type: economy
+    content_type: application/yaml-fm
+    source_locale: en-US
+    source_pattern: _content/**/*.yaml
     target_pattern: _content/{{lang_2}}/**/{{original_file}}
     target_locales:
       - it-IT
