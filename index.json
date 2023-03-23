@@ -1,0 +1,1067 @@
+{
+  "_content/__config/favicons.yaml": [
+    "_content/es/__config/favicons.yaml"
+  ],
+  "_content/__config/globals.yaml": [
+    "_content/es/__config/globals.yaml"
+  ],
+  "_content/__config/vanity.yaml": [
+    "_content/es/__config/vanity.yaml"
+  ],
+  "_content/__template-gallery-data/folder.yaml": [
+    "_content/es/__template-gallery-data/folder.yaml"
+  ],
+  "_content/apps/folder.yaml": [
+    "_content/es/apps/folder.yaml"
+  ],
+  "_content/de/__template-gallery-data/folder.yaml": [
+    "_content/es/de/__template-gallery-data/folder.yaml"
+  ],
+  "_content/de/apps/folder.yaml": [
+    "_content/es/de/apps/folder.yaml"
+  ],
+  "_content/de/folder.yaml": [
+    "_content/es/de/folder.yaml"
+  ],
+  "_content/de/guide/01-get-started/folder.yaml": [
+    "_content/es/de/guide/01-get-started/folder.yaml"
+  ],
+  "_content/de/guide/02-team/folder.yaml": [
+    "_content/es/de/guide/02-team/folder.yaml"
+  ],
+  "_content/de/guide/03-expand/folder.yaml": [
+    "_content/es/de/guide/03-expand/folder.yaml"
+  ],
+  "_content/de/guide/05-trainings/fields.yaml": [
+    "_content/es/de/guide/05-trainings/fields.yaml"
+  ],
+  "_content/de/guide/05-trainings/folder.yaml": [
+    "_content/es/de/guide/05-trainings/folder.yaml"
+  ],
+  "_content/de/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/de/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/de/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/de/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/de/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/de/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/de/guide/07-help/04-views/fields.yaml": [
+    "_content/es/de/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/de/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/de/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/de/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/de/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/de/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/de/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/de/guide/07-help/12-email/fields.yaml": [
+    "_content/es/de/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/de/guide/07-help/folder.yaml": [
+    "_content/es/de/guide/07-help/folder.yaml"
+  ],
+  "_content/de/guide/folder.yaml": [
+    "_content/es/de/guide/folder.yaml"
+  ],
+  "_content/de/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/de/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/de/guide/videos/fields.yaml": [
+    "_content/es/de/guide/videos/fields.yaml"
+  ],
+  "_content/de/guide/videos/folder.yaml": [
+    "_content/es/de/guide/videos/folder.yaml"
+  ],
+  "_content/de/jobs/folder.yaml": [
+    "_content/es/de/jobs/folder.yaml"
+  ],
+  "_content/de/sales/folder.yaml": [
+    "_content/es/de/sales/folder.yaml"
+  ],
+  "_content/de/support/folder.yaml": [
+    "_content/es/de/support/folder.yaml"
+  ],
+  "_content/es/__template-gallery-data/folder.yaml": [
+    "_content/es/es/__template-gallery-data/folder.yaml"
+  ],
+  "_content/es/apps/folder.yaml": [
+    "_content/es/es/apps/folder.yaml"
+  ],
+  "_content/es/folder.yaml": [
+    "_content/es/es/folder.yaml"
+  ],
+  "_content/es/guide/01-get-started/folder.yaml": [
+    "_content/es/es/guide/01-get-started/folder.yaml"
+  ],
+  "_content/es/guide/02-team/folder.yaml": [
+    "_content/es/es/guide/02-team/folder.yaml"
+  ],
+  "_content/es/guide/03-expand/folder.yaml": [
+    "_content/es/es/guide/03-expand/folder.yaml"
+  ],
+  "_content/es/guide/05-trainings/fields.yaml": [
+    "_content/es/es/guide/05-trainings/fields.yaml"
+  ],
+  "_content/es/guide/05-trainings/folder.yaml": [
+    "_content/es/es/guide/05-trainings/folder.yaml"
+  ],
+  "_content/es/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/es/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/es/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/es/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/es/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/es/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/es/guide/07-help/04-views/fields.yaml": [
+    "_content/es/es/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/es/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/es/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/es/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/es/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/es/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/es/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/es/guide/07-help/12-email/fields.yaml": [
+    "_content/es/es/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/es/guide/07-help/folder.yaml": [
+    "_content/es/es/guide/07-help/folder.yaml"
+  ],
+  "_content/es/guide/folder.yaml": [
+    "_content/es/es/guide/folder.yaml"
+  ],
+  "_content/es/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/es/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/es/guide/videos/fields.yaml": [
+    "_content/es/es/guide/videos/fields.yaml"
+  ],
+  "_content/es/guide/videos/folder.yaml": [
+    "_content/es/es/guide/videos/folder.yaml"
+  ],
+  "_content/es/jobs/folder.yaml": [
+    "_content/es/es/jobs/folder.yaml"
+  ],
+  "_content/es/sales/folder.yaml": [
+    "_content/es/es/sales/folder.yaml"
+  ],
+  "_content/es/support/folder.yaml": [
+    "_content/es/es/support/folder.yaml"
+  ],
+  "_content/fr/__template-gallery-data/folder.yaml": [
+    "_content/es/fr/__template-gallery-data/folder.yaml"
+  ],
+  "_content/fr/apps/folder.yaml": [
+    "_content/es/fr/apps/folder.yaml"
+  ],
+  "_content/fr/folder.yaml": [
+    "_content/es/fr/folder.yaml"
+  ],
+  "_content/fr/guide/01-get-started/folder.yaml": [
+    "_content/es/fr/guide/01-get-started/folder.yaml"
+  ],
+  "_content/fr/guide/02-team/folder.yaml": [
+    "_content/es/fr/guide/02-team/folder.yaml"
+  ],
+  "_content/fr/guide/03-expand/folder.yaml": [
+    "_content/es/fr/guide/03-expand/folder.yaml"
+  ],
+  "_content/fr/guide/05-trainings/fields.yaml": [
+    "_content/es/fr/guide/05-trainings/fields.yaml"
+  ],
+  "_content/fr/guide/05-trainings/folder.yaml": [
+    "_content/es/fr/guide/05-trainings/folder.yaml"
+  ],
+  "_content/fr/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/fr/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/fr/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/fr/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/04-views/fields.yaml": [
+    "_content/es/fr/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/fr/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/fr/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/fr/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/12-email/fields.yaml": [
+    "_content/es/fr/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/fr/guide/07-help/folder.yaml": [
+    "_content/es/fr/guide/07-help/folder.yaml"
+  ],
+  "_content/fr/guide/folder.yaml": [
+    "_content/es/fr/guide/folder.yaml"
+  ],
+  "_content/fr/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/fr/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/fr/guide/videos/fields.yaml": [
+    "_content/es/fr/guide/videos/fields.yaml"
+  ],
+  "_content/fr/guide/videos/folder.yaml": [
+    "_content/es/fr/guide/videos/folder.yaml"
+  ],
+  "_content/fr/jobs/folder.yaml": [
+    "_content/es/fr/jobs/folder.yaml"
+  ],
+  "_content/fr/sales/folder.yaml": [
+    "_content/es/fr/sales/folder.yaml"
+  ],
+  "_content/fr/support/folder.yaml": [
+    "_content/es/fr/support/folder.yaml"
+  ],
+  "_content/globals.yaml": [
+    "_content/es/globals.yaml"
+  ],
+  "_content/guide/01-get-started/folder.yaml": [
+    "_content/es/guide/01-get-started/folder.yaml"
+  ],
+  "_content/guide/02-team/folder.yaml": [
+    "_content/es/guide/02-team/folder.yaml"
+  ],
+  "_content/guide/03-expand/folder.yaml": [
+    "_content/es/guide/03-expand/folder.yaml"
+  ],
+  "_content/guide/05-trainings/fields.yaml": [
+    "_content/es/guide/05-trainings/fields.yaml"
+  ],
+  "_content/guide/05-trainings/folder.yaml": [
+    "_content/es/guide/05-trainings/folder.yaml"
+  ],
+  "_content/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/guide/07-help/04-views/fields.yaml": [
+    "_content/es/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/guide/07-help/12-email/fields.yaml": [
+    "_content/es/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/guide/07-help/folder.yaml": [
+    "_content/es/guide/07-help/folder.yaml"
+  ],
+  "_content/guide/folder.yaml": [
+    "_content/es/guide/folder.yaml"
+  ],
+  "_content/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/guide/videos/fields.yaml": [
+    "_content/es/guide/videos/fields.yaml"
+  ],
+  "_content/guide/videos/folder.yaml": [
+    "_content/es/guide/videos/folder.yaml"
+  ],
+  "_content/id/__template-gallery-data/folder.yaml": [
+    "_content/es/id/__template-gallery-data/folder.yaml"
+  ],
+  "_content/id/apps/folder.yaml": [
+    "_content/es/id/apps/folder.yaml"
+  ],
+  "_content/id/folder.yaml": [
+    "_content/es/id/folder.yaml"
+  ],
+  "_content/id/guide/01-get-started/folder.yaml": [
+    "_content/es/id/guide/01-get-started/folder.yaml"
+  ],
+  "_content/id/guide/02-team/folder.yaml": [
+    "_content/es/id/guide/02-team/folder.yaml"
+  ],
+  "_content/id/guide/03-expand/folder.yaml": [
+    "_content/es/id/guide/03-expand/folder.yaml"
+  ],
+  "_content/id/guide/04-resources/folder.yaml": [
+    "_content/es/id/guide/04-resources/folder.yaml"
+  ],
+  "_content/id/guide/05-trainings/folder.yaml": [
+    "_content/es/id/guide/05-trainings/folder.yaml"
+  ],
+  "_content/id/guide/06-examples/folder.yaml": [
+    "_content/es/id/guide/06-examples/folder.yaml"
+  ],
+  "_content/id/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/id/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/id/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/id/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/id/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/id/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/id/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/id/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/id/guide/07-help/04-views/fields.yaml": [
+    "_content/es/id/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/id/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/id/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/id/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/id/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/id/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/id/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/id/guide/07-help/12-email/fields.yaml": [
+    "_content/es/id/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/id/guide/07-help/folder.yaml": [
+    "_content/es/id/guide/07-help/folder.yaml"
+  ],
+  "_content/id/guide/folder.yaml": [
+    "_content/es/id/guide/folder.yaml"
+  ],
+  "_content/id/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/id/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/id/guide/videos/fields.yaml": [
+    "_content/es/id/guide/videos/fields.yaml"
+  ],
+  "_content/id/guide/videos/folder.yaml": [
+    "_content/es/id/guide/videos/folder.yaml"
+  ],
+  "_content/id/sales/folder.yaml": [
+    "_content/es/id/sales/folder.yaml"
+  ],
+  "_content/id/support/folder.yaml": [
+    "_content/es/id/support/folder.yaml"
+  ],
+  "_content/it/__template-gallery-data/folder.yaml": [
+    "_content/es/it/__template-gallery-data/folder.yaml"
+  ],
+  "_content/it/apps/folder.yaml": [
+    "_content/es/it/apps/folder.yaml"
+  ],
+  "_content/it/folder.yaml": [
+    "_content/es/it/folder.yaml"
+  ],
+  "_content/it/guide/01-get-started/folder.yaml": [
+    "_content/es/it/guide/01-get-started/folder.yaml"
+  ],
+  "_content/it/guide/02-team/folder.yaml": [
+    "_content/es/it/guide/02-team/folder.yaml"
+  ],
+  "_content/it/guide/03-expand/folder.yaml": [
+    "_content/es/it/guide/03-expand/folder.yaml"
+  ],
+  "_content/it/guide/04-resources/folder.yaml": [
+    "_content/es/it/guide/04-resources/folder.yaml"
+  ],
+  "_content/it/guide/05-trainings/fields.yaml": [
+    "_content/es/it/guide/05-trainings/fields.yaml"
+  ],
+  "_content/it/guide/05-trainings/folder.yaml": [
+    "_content/es/it/guide/05-trainings/folder.yaml"
+  ],
+  "_content/it/guide/06-examples/folder.yaml": [
+    "_content/es/it/guide/06-examples/folder.yaml"
+  ],
+  "_content/it/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/it/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/it/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/it/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/it/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/it/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/it/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/it/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/it/guide/07-help/04-views/fields.yaml": [
+    "_content/es/it/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/it/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/it/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/it/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/it/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/it/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/it/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/it/guide/07-help/12-email/fields.yaml": [
+    "_content/es/it/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/it/guide/07-help/folder.yaml": [
+    "_content/es/it/guide/07-help/folder.yaml"
+  ],
+  "_content/it/guide/folder.yaml": [
+    "_content/es/it/guide/folder.yaml"
+  ],
+  "_content/it/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/it/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/it/guide/videos/fields.yaml": [
+    "_content/es/it/guide/videos/fields.yaml"
+  ],
+  "_content/it/guide/videos/folder.yaml": [
+    "_content/es/it/guide/videos/folder.yaml"
+  ],
+  "_content/it/sales/folder.yaml": [
+    "_content/es/it/sales/folder.yaml"
+  ],
+  "_content/it/support/folder.yaml": [
+    "_content/es/it/support/folder.yaml"
+  ],
+  "_content/ja/__template-gallery-data/folder.yaml": [
+    "_content/es/ja/__template-gallery-data/folder.yaml"
+  ],
+  "_content/ja/apps/folder.yaml": [
+    "_content/es/ja/apps/folder.yaml"
+  ],
+  "_content/ja/folder.yaml": [
+    "_content/es/ja/folder.yaml"
+  ],
+  "_content/ja/guide/01-get-started/folder.yaml": [
+    "_content/es/ja/guide/01-get-started/folder.yaml"
+  ],
+  "_content/ja/guide/02-team/folder.yaml": [
+    "_content/es/ja/guide/02-team/folder.yaml"
+  ],
+  "_content/ja/guide/03-expand/folder.yaml": [
+    "_content/es/ja/guide/03-expand/folder.yaml"
+  ],
+  "_content/ja/guide/05-trainings/fields.yaml": [
+    "_content/es/ja/guide/05-trainings/fields.yaml"
+  ],
+  "_content/ja/guide/05-trainings/folder.yaml": [
+    "_content/es/ja/guide/05-trainings/folder.yaml"
+  ],
+  "_content/ja/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/ja/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/ja/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/ja/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/ja/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/ja/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/04-views/fields.yaml": [
+    "_content/es/ja/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/ja/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/ja/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/ja/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/12-email/fields.yaml": [
+    "_content/es/ja/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/ja/guide/07-help/folder.yaml": [
+    "_content/es/ja/guide/07-help/folder.yaml"
+  ],
+  "_content/ja/guide/folder.yaml": [
+    "_content/es/ja/guide/folder.yaml"
+  ],
+  "_content/ja/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/ja/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/ja/guide/videos/fields.yaml": [
+    "_content/es/ja/guide/videos/fields.yaml"
+  ],
+  "_content/ja/guide/videos/folder.yaml": [
+    "_content/es/ja/guide/videos/folder.yaml"
+  ],
+  "_content/ja/jobs/folder.yaml": [
+    "_content/es/ja/jobs/folder.yaml"
+  ],
+  "_content/ja/sales/folder.yaml": [
+    "_content/es/ja/sales/folder.yaml"
+  ],
+  "_content/ja/support/folder.yaml": [
+    "_content/es/ja/support/folder.yaml"
+  ],
+  "_content/jobs/folder.yaml": [
+    "_content/es/jobs/folder.yaml"
+  ],
+  "_content/ko/__template-gallery-data/folder.yaml": [
+    "_content/es/ko/__template-gallery-data/folder.yaml"
+  ],
+  "_content/ko/apps/folder.yaml": [
+    "_content/es/ko/apps/folder.yaml"
+  ],
+  "_content/ko/folder.yaml": [
+    "_content/es/ko/folder.yaml"
+  ],
+  "_content/ko/guide/01-get-started/folder.yaml": [
+    "_content/es/ko/guide/01-get-started/folder.yaml"
+  ],
+  "_content/ko/guide/02-team/folder.yaml": [
+    "_content/es/ko/guide/02-team/folder.yaml"
+  ],
+  "_content/ko/guide/03-expand/folder.yaml": [
+    "_content/es/ko/guide/03-expand/folder.yaml"
+  ],
+  "_content/ko/guide/04-resources/folder.yaml": [
+    "_content/es/ko/guide/04-resources/folder.yaml"
+  ],
+  "_content/ko/guide/05-trainings/fields.yaml": [
+    "_content/es/ko/guide/05-trainings/fields.yaml"
+  ],
+  "_content/ko/guide/05-trainings/folder.yaml": [
+    "_content/es/ko/guide/05-trainings/folder.yaml"
+  ],
+  "_content/ko/guide/06-examples/folder.yaml": [
+    "_content/es/ko/guide/06-examples/folder.yaml"
+  ],
+  "_content/ko/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/ko/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/ko/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/ko/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/ko/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/ko/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/04-views/fields.yaml": [
+    "_content/es/ko/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/ko/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/ko/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/ko/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/12-email/fields.yaml": [
+    "_content/es/ko/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/ko/guide/07-help/folder.yaml": [
+    "_content/es/ko/guide/07-help/folder.yaml"
+  ],
+  "_content/ko/guide/folder.yaml": [
+    "_content/es/ko/guide/folder.yaml"
+  ],
+  "_content/ko/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/ko/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/ko/guide/videos/fields.yaml": [
+    "_content/es/ko/guide/videos/fields.yaml"
+  ],
+  "_content/ko/guide/videos/folder.yaml": [
+    "_content/es/ko/guide/videos/folder.yaml"
+  ],
+  "_content/ko/sales/folder.yaml": [
+    "_content/es/ko/sales/folder.yaml"
+  ],
+  "_content/ko/support/folder.yaml": [
+    "_content/es/ko/support/folder.yaml"
+  ],
+  "_content/nl/__template-gallery-data/folder.yaml": [
+    "_content/es/nl/__template-gallery-data/folder.yaml"
+  ],
+  "_content/nl/apps/folder.yaml": [
+    "_content/es/nl/apps/folder.yaml"
+  ],
+  "_content/nl/folder.yaml": [
+    "_content/es/nl/folder.yaml"
+  ],
+  "_content/nl/guide/01-get-started/folder.yaml": [
+    "_content/es/nl/guide/01-get-started/folder.yaml"
+  ],
+  "_content/nl/guide/02-team/folder.yaml": [
+    "_content/es/nl/guide/02-team/folder.yaml"
+  ],
+  "_content/nl/guide/03-expand/folder.yaml": [
+    "_content/es/nl/guide/03-expand/folder.yaml"
+  ],
+  "_content/nl/guide/04-resources/folder.yaml": [
+    "_content/es/nl/guide/04-resources/folder.yaml"
+  ],
+  "_content/nl/guide/05-trainings/fields.yaml": [
+    "_content/es/nl/guide/05-trainings/fields.yaml"
+  ],
+  "_content/nl/guide/05-trainings/folder.yaml": [
+    "_content/es/nl/guide/05-trainings/folder.yaml"
+  ],
+  "_content/nl/guide/06-examples/folder.yaml": [
+    "_content/es/nl/guide/06-examples/folder.yaml"
+  ],
+  "_content/nl/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/nl/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/nl/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/nl/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/nl/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/nl/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/04-views/fields.yaml": [
+    "_content/es/nl/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/nl/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/nl/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/nl/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/12-email/fields.yaml": [
+    "_content/es/nl/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/nl/guide/07-help/folder.yaml": [
+    "_content/es/nl/guide/07-help/folder.yaml"
+  ],
+  "_content/nl/guide/folder.yaml": [
+    "_content/es/nl/guide/folder.yaml"
+  ],
+  "_content/nl/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/nl/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/nl/guide/videos/fields.yaml": [
+    "_content/es/nl/guide/videos/fields.yaml"
+  ],
+  "_content/nl/guide/videos/folder.yaml": [
+    "_content/es/nl/guide/videos/folder.yaml"
+  ],
+  "_content/nl/sales/folder.yaml": [
+    "_content/es/nl/sales/folder.yaml"
+  ],
+  "_content/nl/support/folder.yaml": [
+    "_content/es/nl/support/folder.yaml"
+  ],
+  "_content/pl/__template-gallery-data/folder.yaml": [
+    "_content/es/pl/__template-gallery-data/folder.yaml"
+  ],
+  "_content/pl/apps/folder.yaml": [
+    "_content/es/pl/apps/folder.yaml"
+  ],
+  "_content/pl/folder.yaml": [
+    "_content/es/pl/folder.yaml"
+  ],
+  "_content/pl/guide/01-get-started/folder.yaml": [
+    "_content/es/pl/guide/01-get-started/folder.yaml"
+  ],
+  "_content/pl/guide/02-team/folder.yaml": [
+    "_content/es/pl/guide/02-team/folder.yaml"
+  ],
+  "_content/pl/guide/03-expand/folder.yaml": [
+    "_content/es/pl/guide/03-expand/folder.yaml"
+  ],
+  "_content/pl/guide/04-resources/folder.yaml": [
+    "_content/es/pl/guide/04-resources/folder.yaml"
+  ],
+  "_content/pl/guide/05-trainings/fields.yaml": [
+    "_content/es/pl/guide/05-trainings/fields.yaml"
+  ],
+  "_content/pl/guide/05-trainings/folder.yaml": [
+    "_content/es/pl/guide/05-trainings/folder.yaml"
+  ],
+  "_content/pl/guide/06-examples/folder.yaml": [
+    "_content/es/pl/guide/06-examples/folder.yaml"
+  ],
+  "_content/pl/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/pl/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/pl/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/pl/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/pl/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/pl/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/04-views/fields.yaml": [
+    "_content/es/pl/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/pl/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/pl/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/pl/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/12-email/fields.yaml": [
+    "_content/es/pl/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/pl/guide/07-help/folder.yaml": [
+    "_content/es/pl/guide/07-help/folder.yaml"
+  ],
+  "_content/pl/guide/folder.yaml": [
+    "_content/es/pl/guide/folder.yaml"
+  ],
+  "_content/pl/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/pl/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/pl/guide/videos/fields.yaml": [
+    "_content/es/pl/guide/videos/fields.yaml"
+  ],
+  "_content/pl/guide/videos/folder.yaml": [
+    "_content/es/pl/guide/videos/folder.yaml"
+  ],
+  "_content/pl/sales/folder.yaml": [
+    "_content/es/pl/sales/folder.yaml"
+  ],
+  "_content/pl/support/folder.yaml": [
+    "_content/es/pl/support/folder.yaml"
+  ],
+  "_content/pt/__template-gallery-data/folder.yaml": [
+    "_content/es/pt/__template-gallery-data/folder.yaml"
+  ],
+  "_content/pt/apps/folder.yaml": [
+    "_content/es/pt/apps/folder.yaml"
+  ],
+  "_content/pt/folder.yaml": [
+    "_content/es/pt/folder.yaml"
+  ],
+  "_content/pt/guide/01-get-started/folder.yaml": [
+    "_content/es/pt/guide/01-get-started/folder.yaml"
+  ],
+  "_content/pt/guide/02-team/folder.yaml": [
+    "_content/es/pt/guide/02-team/folder.yaml"
+  ],
+  "_content/pt/guide/03-expand/folder.yaml": [
+    "_content/es/pt/guide/03-expand/folder.yaml"
+  ],
+  "_content/pt/guide/05-trainings/fields.yaml": [
+    "_content/es/pt/guide/05-trainings/fields.yaml"
+  ],
+  "_content/pt/guide/05-trainings/folder.yaml": [
+    "_content/es/pt/guide/05-trainings/folder.yaml"
+  ],
+  "_content/pt/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/pt/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/pt/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/pt/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/04-views/fields.yaml": [
+    "_content/es/pt/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/pt/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/pt/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/pt/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/12-email/fields.yaml": [
+    "_content/es/pt/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/pt/guide/07-help/folder.yaml": [
+    "_content/es/pt/guide/07-help/folder.yaml"
+  ],
+  "_content/pt/guide/folder.yaml": [
+    "_content/es/pt/guide/folder.yaml"
+  ],
+  "_content/pt/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/pt/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/pt/guide/videos/fields.yaml": [
+    "_content/es/pt/guide/videos/fields.yaml"
+  ],
+  "_content/pt/guide/videos/folder.yaml": [
+    "_content/es/pt/guide/videos/folder.yaml"
+  ],
+  "_content/pt/jobs/folder.yaml": [
+    "_content/es/pt/jobs/folder.yaml"
+  ],
+  "_content/pt/sales/folder.yaml": [
+    "_content/es/pt/sales/folder.yaml"
+  ],
+  "_content/pt/support/folder.yaml": [
+    "_content/es/pt/support/folder.yaml"
+  ],
+  "_content/ru/__template-gallery-data/folder.yaml": [
+    "_content/es/ru/__template-gallery-data/folder.yaml"
+  ],
+  "_content/ru/apps/folder.yaml": [
+    "_content/es/ru/apps/folder.yaml"
+  ],
+  "_content/ru/folder.yaml": [
+    "_content/es/ru/folder.yaml"
+  ],
+  "_content/ru/guide/01-get-started/folder.yaml": [
+    "_content/es/ru/guide/01-get-started/folder.yaml"
+  ],
+  "_content/ru/guide/02-team/folder.yaml": [
+    "_content/es/ru/guide/02-team/folder.yaml"
+  ],
+  "_content/ru/guide/03-expand/folder.yaml": [
+    "_content/es/ru/guide/03-expand/folder.yaml"
+  ],
+  "_content/ru/guide/04-resources/folder.yaml": [
+    "_content/es/ru/guide/04-resources/folder.yaml"
+  ],
+  "_content/ru/guide/05-trainings/fields.yaml": [
+    "_content/es/ru/guide/05-trainings/fields.yaml"
+  ],
+  "_content/ru/guide/05-trainings/folder.yaml": [
+    "_content/es/ru/guide/05-trainings/folder.yaml"
+  ],
+  "_content/ru/guide/06-examples/folder.yaml": [
+    "_content/es/ru/guide/06-examples/folder.yaml"
+  ],
+  "_content/ru/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/ru/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/ru/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/ru/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/ru/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/ru/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/04-views/fields.yaml": [
+    "_content/es/ru/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/ru/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/ru/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/ru/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/12-email/fields.yaml": [
+    "_content/es/ru/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/ru/guide/07-help/folder.yaml": [
+    "_content/es/ru/guide/07-help/folder.yaml"
+  ],
+  "_content/ru/guide/folder.yaml": [
+    "_content/es/ru/guide/folder.yaml"
+  ],
+  "_content/ru/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/ru/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/ru/guide/videos/fields.yaml": [
+    "_content/es/ru/guide/videos/fields.yaml"
+  ],
+  "_content/ru/guide/videos/folder.yaml": [
+    "_content/es/ru/guide/videos/folder.yaml"
+  ],
+  "_content/ru/sales/folder.yaml": [
+    "_content/es/ru/sales/folder.yaml"
+  ],
+  "_content/ru/support/folder.yaml": [
+    "_content/es/ru/support/folder.yaml"
+  ],
+  "_content/sales/folder.yaml": [
+    "_content/es/sales/folder.yaml"
+  ],
+  "_content/support/folder.yaml": [
+    "_content/es/support/folder.yaml"
+  ],
+  "_content/sv/__template-gallery-data/folder.yaml": [
+    "_content/es/sv/__template-gallery-data/folder.yaml"
+  ],
+  "_content/sv/apps/folder.yaml": [
+    "_content/es/sv/apps/folder.yaml"
+  ],
+  "_content/sv/folder.yaml": [
+    "_content/es/sv/folder.yaml"
+  ],
+  "_content/sv/guide/01-get-started/folder.yaml": [
+    "_content/es/sv/guide/01-get-started/folder.yaml"
+  ],
+  "_content/sv/guide/02-team/folder.yaml": [
+    "_content/es/sv/guide/02-team/folder.yaml"
+  ],
+  "_content/sv/guide/03-expand/folder.yaml": [
+    "_content/es/sv/guide/03-expand/folder.yaml"
+  ],
+  "_content/sv/guide/04-resources/folder.yaml": [
+    "_content/es/sv/guide/04-resources/folder.yaml"
+  ],
+  "_content/sv/guide/05-trainings/fields.yaml": [
+    "_content/es/sv/guide/05-trainings/fields.yaml"
+  ],
+  "_content/sv/guide/05-trainings/folder.yaml": [
+    "_content/es/sv/guide/05-trainings/folder.yaml"
+  ],
+  "_content/sv/guide/06-examples/folder.yaml": [
+    "_content/es/sv/guide/06-examples/folder.yaml"
+  ],
+  "_content/sv/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/sv/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/sv/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/sv/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/sv/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/sv/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/04-views/fields.yaml": [
+    "_content/es/sv/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/sv/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/sv/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/sv/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/12-email/fields.yaml": [
+    "_content/es/sv/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/sv/guide/07-help/folder.yaml": [
+    "_content/es/sv/guide/07-help/folder.yaml"
+  ],
+  "_content/sv/guide/folder.yaml": [
+    "_content/es/sv/guide/folder.yaml"
+  ],
+  "_content/sv/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/sv/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/sv/guide/videos/fields.yaml": [
+    "_content/es/sv/guide/videos/fields.yaml"
+  ],
+  "_content/sv/guide/videos/folder.yaml": [
+    "_content/es/sv/guide/videos/folder.yaml"
+  ],
+  "_content/sv/sales/folder.yaml": [
+    "_content/es/sv/sales/folder.yaml"
+  ],
+  "_content/sv/support/folder.yaml": [
+    "_content/es/sv/support/folder.yaml"
+  ],
+  "_content/zh-tw/__template-gallery-data/folder.yaml": [
+    "_content/es/zh-tw/__template-gallery-data/folder.yaml"
+  ],
+  "_content/zh-tw/apps/folder.yaml": [
+    "_content/es/zh-tw/apps/folder.yaml"
+  ],
+  "_content/zh-tw/folder.yaml": [
+    "_content/es/zh-tw/folder.yaml"
+  ],
+  "_content/zh-tw/guide/01-get-started/folder.yaml": [
+    "_content/es/zh-tw/guide/01-get-started/folder.yaml"
+  ],
+  "_content/zh-tw/guide/02-team/folder.yaml": [
+    "_content/es/zh-tw/guide/02-team/folder.yaml"
+  ],
+  "_content/zh-tw/guide/03-expand/folder.yaml": [
+    "_content/es/zh-tw/guide/03-expand/folder.yaml"
+  ],
+  "_content/zh-tw/guide/04-resources/folder.yaml": [
+    "_content/es/zh-tw/guide/04-resources/folder.yaml"
+  ],
+  "_content/zh-tw/guide/05-trainings/fields.yaml": [
+    "_content/es/zh-tw/guide/05-trainings/fields.yaml"
+  ],
+  "_content/zh-tw/guide/05-trainings/folder.yaml": [
+    "_content/es/zh-tw/guide/05-trainings/folder.yaml"
+  ],
+  "_content/zh-tw/guide/06-examples/folder.yaml": [
+    "_content/es/zh-tw/guide/06-examples/folder.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/01-fundamentals/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/01-fundamentals/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/01-fundamentals/folder.yaml": [
+    "_content/es/zh-tw/guide/07-help/01-fundamentals/folder.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/02-tasks/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/02-tasks/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/03-projects/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/03-projects/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/04-views/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/04-views/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/05-messages/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/05-messages/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/06-organizations/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/06-organizations/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/07-workspaces/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/07-workspaces/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/12-email/fields.yaml": [
+    "_content/es/zh-tw/guide/07-help/12-email/fields.yaml"
+  ],
+  "_content/zh-tw/guide/07-help/folder.yaml": [
+    "_content/es/zh-tw/guide/07-help/folder.yaml"
+  ],
+  "_content/zh-tw/guide/folder.yaml": [
+    "_content/es/zh-tw/guide/folder.yaml"
+  ],
+  "_content/zh-tw/guide/videos/customer-webinars/folder.yaml": [
+    "_content/es/zh-tw/guide/videos/customer-webinars/folder.yaml"
+  ],
+  "_content/zh-tw/guide/videos/fields.yaml": [
+    "_content/es/zh-tw/guide/videos/fields.yaml"
+  ],
+  "_content/zh-tw/guide/videos/folder.yaml": [
+    "_content/es/zh-tw/guide/videos/folder.yaml"
+  ],
+  "_content/zh-tw/sales/folder.yaml": [
+    "_content/es/zh-tw/sales/folder.yaml"
+  ],
+  "_content/zh-tw/support/folder.yaml": [
+    "_content/es/zh-tw/support/folder.yaml"
+  ]
+}
