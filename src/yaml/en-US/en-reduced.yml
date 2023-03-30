@@ -8,7 +8,7 @@
   author: jinchangM
   locations:
     - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
-  value: '"<stringToComment>big {comment}</stringToComment>"'
+  value: '"<stringToComment>{comment}</stringToComment>"'
 '"{comment}"':
   author: jinchang
   deprecated: true
