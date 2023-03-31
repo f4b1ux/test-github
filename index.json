@@ -1,27 +1,17 @@
 {
   "src/txt/file01.txt": [
-    "src/txt/fr-fr/file01.txt",
-    "src/txt/es-es/file01.txt",
     "src/txt/es/file01.yml"
   ],
   "src/txt/file02.txt": [
-    "src/txt/fr-fr/file02.txt",
-    "src/txt/es-es/file02.txt",
     "src/txt/es/file02.yml"
   ],
   "src/txt/file03.txt": [
-    "src/txt/fr-fr/file03.txt",
-    "src/txt/es-es/file03.txt",
     "src/txt/es/file03.yml"
   ],
   "src/txt/file04.txt": [
-    "src/txt/fr-fr/file04.txt",
-    "src/txt/es-es/file04.txt",
     "src/txt/es/file04.yml"
   ],
   "src/txt/file05.txt": [
-    "src/txt/fr-fr/file05.txt",
-    "src/txt/es-es/file05.txt",
     "src/txt/es/file05.yml"
   ],
   "src/txt/fr": [
