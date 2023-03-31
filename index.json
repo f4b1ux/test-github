@@ -1,0 +1,22 @@
+{
+  "src/txt/file01.txt": [
+    "src/txt/fr-fr/file01.txt",
+    "src/txt/it/file01.yml"
+  ],
+  "src/txt/file02.txt": [
+    "src/txt/fr-fr/file02.txt",
+    "src/txt/it/file02.yml"
+  ],
+  "src/txt/file03.txt": [
+    "src/txt/fr-fr/file03.txt",
+    "src/txt/it/file03.yml"
+  ],
+  "src/txt/file04.txt": [
+    "src/txt/fr-fr/file04.txt",
+    "src/txt/it/file04.yml"
+  ],
+  "src/txt/file05.txt": [
+    "src/txt/fr-fr/file05.txt",
+    "src/txt/it/file05.yml"
+  ]
+}
