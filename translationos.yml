@@ -1,7 +1,7 @@
 on:
   branches:
     - translate
-  wait_interval: 5m
+  wait_interval: 6m
 translationos:
   labels:
     dashboard:
