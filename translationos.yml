@@ -47,7 +47,7 @@ files:
     source_pattern: src/txt/*
     source_locale: en-US
     target_pattern: src/txt/{{lang_2}}/{{original_file_name}}.yml
-    target_locales: [ 'fr-FR', 'it-IT' ]
+    target_locales: [ 'fr-FR', 'it-IT', 'es-ES' ]
   - translation: professional
     service_type: economy
     source_locale: en-US
