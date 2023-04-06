@@ -1,98 +1,51 @@
 on:
   branches:
-    - translate
-translationos:
-  labels:
-    dashboard:
-      - "label1"
+    - main
+  wait_interval: 30s
+  context:
+    instructions: https://docs.google.com/document/d/1-m5QKNarmeYa6ZeorTiXtT4U2XeUyum692PtEZw1KFE
 pull_requests:
-  mode: pr_all_langs
-notification:
-  enabled: true
-  emails:
-    - fabio.fioramonti@translated.net
+  mode: pr_per_lang
+  automerge: merge
 files:
   - translation: professional
-    service_type: economy
-    preprocessing: true
-    source_pattern: docx/it-IT/*.docx
-    target_pattern: docx/{{locale}}/{{original_file}}
-    source_locale: it-IT
-    target_locales: ['en-US', 'fr-FR', 'es-ES', 'de-DE']
-  - translation: professional
-    service_type: economy
-    content_type: application/asana-yaml
-    source_pattern: src/yaml/en-US/en-reduced.yml
-    source_locale: en-US
-    target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
-    target_locales: [ 'fr-FR' ]
-    notes: These are the notes for dialogs.yml ciao
-  - translation: professional
-    service_type: economy
-    content_type: application/asana-yaml
-    source_pattern: src/yaml/en-US/en.yml
-    source_locale: en-US
-    target_pattern: src/yaml/{{locale}}/{{original_file_name}}.yml
-    target_locales: [ 'it-IT' ]
-    notes: These are the notes for dialogs.yml
-  - translation: professional
-    service_type: economy
-    source_pattern: src/txt/*
-    source_locale: en-US
-    target_pattern: src/txt/{{locale_lc}}/{{original_file}}
-    target_locales: [ 'it-IT' ]
-  - translation: professional
-    service_type: economy
-    source_pattern: src/txt/*
-    source_locale: en-US
-    target_pattern: src/txt/{{lang_2}}/{{original_file_name}}.yml
-    target_locales: [ 'fr-FR' ]
-  - translation: professional
-    service_type: economy
-    source_locale: en-US
-    source_pattern: _content/**/*.md
-    target_pattern: _content/{{lang_2}}/**/{{original_file}}
-    target_locales:
-      - it-IT
+    service_type: premium
+    content_type: application/hugo
+    source_pattern: site/content/en/**/*.md
     source_exclude:
-      - _content/de/**/*
-      - _content/es/**/*
-      - _content/fr/**/*
-      - _content/id/**/*
-      - _content/it/**/*
-      - _content/ja/**/*
-      - _content/ko/**/*
-      - _content/nl/**/*
-      - _content/pl/**/*
-      - _content/pt/**/*
-      - _content/ru/**/*
-      - _content/sv/**/*
-      - _content/zh-tw/**/*
-  - translation: professional
-    service_type: economy
-    content_type: application/yaml-fm
+      - site/content/en/404.md
     source_locale: en-US
-    source_pattern: _content/**/*.yaml
-    target_pattern: _content/{{lang_2}}/**/{{original_file}}
-    target_locales:
-      - it-IT
-    source_exclude:
-      - _content/de/**/*
-      - _content/es/**/*
-      - _content/fr/**/*
-      - _content/id/**/*
-      - _content/it/**/*
-      - _content/ja/**/*
-      - _content/ko/**/*
-      - _content/nl/**/*
-      - _content/pl/**/*
-      - _content/pt/**/*
-      - _content/ru/**/*
-      - _content/sv/**/*
-      - _content/zh-tw/**/*
+    target_pattern: site/content/{{lang_2}}/**/{{original_file}}
+    target_locales: [
+      'ar-SA', 'da-DK', 'de-DE', 'el-GR',
+      'es-ES', 'fi-FI', 'fr-FR', 'he-IL',
+      'hu-HU', 'it-IT', 'ja-JP', 'ko-KR',
+      'nb-NO', 'nl-NL', 'pl-PL', 'pt-BR',
+      'ro-RO', 'ru-RU', 'sv-SE', 'tr-TR',
+      'zh-CN'
+    ]
   - translation: professional
-    service_type: economy
-    source_pattern: public/locales/**/*.json
-    source_locale: en-GB
-    target_pattern: public/locales/{{lang_2}}/{{original_file}}
-    target_locales: [ 'es-ES' ]
+    service_type: premium
+    content_type: application/hugo
+    source_pattern: site/data/en/**/*.json
+    source_exclude:
+      - site/data/en/countries.json
+      - site/data/en/customer-quote-sequences.json
+      - site/data/en/customer-quotes-meta.json
+      - site/data/en/menu-labels.json
+      - site/data/en/meta.json
+      - site/data/en/values.json
+      - site/data/en/tables.json
+    source_locale: en-US
+    target_pattern: site/data/{{lang_2}}/**/{{original_file}}
+    target_locales: [
+      'ar-SA', 'da-DK', 'de-DE', 'el-GR',
+      'es-ES', 'fi-FI', 'fr-FR', 'he-IL',
+      'hu-HU', 'it-IT', 'ja-JP', 'ko-KR',
+      'nb-NO', 'nl-NL', 'pl-PL', 'pt-BR',
+      'ro-RO', 'ru-RU', 'sv-SE', 'tr-TR',
+      'zh-CN'
+    ]
+notification:
+  enabled: true
+  emails: ['marketing@translated.net', 'federico.roma@translated.com']
