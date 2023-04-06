@@ -1,0 +1,8 @@
+{
+  "site/content/en/files.md": [
+    "site/content/es/files.md"
+  ],
+  "site/content/en/new file.md": [
+    "site/content/es/new file.md"
+  ]
+}
