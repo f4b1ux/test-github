@@ -41,3 +41,8 @@
 "test2": "hello world0"
 "Test3": "Je m'appelle M. Wolf."
 "test 4": "Bonjour l’ami(e) !"
+"{variant} can add, edit, and delete content or customize the project. [collab]":
+  "variants":
+    "Member": "Member can add, edit, and delete content or customize the project."
+    "Members": "Members can add, edit, and delete content or customize the project."
+    "_default": "{variant} can add, edit, and delete content or customize the project"
