@@ -130,3 +130,9 @@
   value: "My name is mr. wolf"
 "test 4":
   value: "hello friend"
+'{variant} can add, edit, and delete content or customize the project. [collab]':
+  author: kiranrao
+  variants:
+    Member: Member can add, edit, and delete content or customize the project.
+    Members: Members can add, edit, and delete content or customize the project.
+    _default: '{variant} can add, edit, and delete content or customize the project'
