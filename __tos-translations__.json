@@ -1,0 +1,66 @@
+{
+  "src/txt/file01.txt": [
+    "src/txt/fr-fr/file01.txt",
+    "src/txt/it/file01.yml"
+  ],
+  "src/txt/file02.txt": [
+    "src/txt/fr-fr/file02.txt",
+    "src/txt/it/file02.yml"
+  ],
+  "src/txt/file03.txt": [
+    "src/txt/fr-fr/file03.txt",
+    "src/txt/it/file03.yml"
+  ],
+  "src/txt/file04.txt": [
+    "src/txt/fr-fr/file04.txt",
+    "src/txt/it/file04.yml"
+  ],
+  "src/txt/file05.txt": [
+    "src/txt/fr-fr/file05.txt",
+    "src/txt/it/file05.yml"
+  ],
+  "src/txt/file06.txt": [
+    "src/txt/fr-fr/file06.txt",
+    "src/txt/it/file06.yml"
+  ],
+  "src/txt/file07.txt": [
+    "src/txt/fr-fr/file07.txt",
+    "src/txt/it/file07.yml"
+  ],
+  "src/txt/file08.txt": [
+    "src/txt/fr-fr/file08.txt",
+    "src/txt/it/file08.yml"
+  ],
+  "src/txt/file09.txt": [
+    "src/txt/fr-fr/file09.txt",
+    "src/txt/it/file09.yml"
+  ],
+  "src/txt/file10.txt": [
+    "src/txt/fr-fr/file10.txt",
+    "src/txt/it/file10.yml"
+  ],
+  "src/txt/file11.txt": [
+    "src/txt/fr-fr/file11.txt",
+    "src/txt/it/file11.yml"
+  ],
+  "src/txt/file12.txt": [
+    "src/txt/fr-fr/file12.txt",
+    "src/txt/it/file12.yml"
+  ],
+  "src/txt/file13.txt": [
+    "src/txt/fr-fr/file13.txt",
+    "src/txt/it/file13.yml"
+  ],
+  "src/txt/file14.txt": [
+    "src/txt/fr-fr/file14.txt",
+    "src/txt/it/file14.yml"
+  ],
+  "src/txt/file15.txt": [
+    "src/txt/fr-fr/file15.txt",
+    "src/txt/it/file15.yml"
+  ],
+  "src/txt/file16.txt": [
+    "src/txt/fr-fr/file16.txt",
+    "src/txt/it/file16.yml"
+  ]
+}
