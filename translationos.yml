@@ -6,7 +6,7 @@ translationos:
     dashboard:
       - "label1"
 pull_requests:
-  mode: pr_per_lang
+  mode: pr_all_langs
   automerge: merge
 notification:
   enabled: true
