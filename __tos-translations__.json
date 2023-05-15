@@ -1,0 +1,22 @@
+{
+  "src/txt/file5.txt": [
+    "src/txt/it-it/file5.txt",
+    "src/txt/es-es/file5.txt"
+  ],
+  "src/txt/file6.txt": [
+    "src/txt/it-it/file6.txt",
+    "src/txt/es-es/file6.txt"
+  ],
+  "src/txt/file7.txt": [
+    "src/txt/it-it/file7.txt",
+    "src/txt/es-es/file7.txt"
+  ],
+  "src/txt/file8.txt": [
+    "src/txt/it-it/file8.txt",
+    "src/txt/es-es/file8.txt"
+  ],
+  "src/txt/file9.txt": [
+    "src/txt/it-it/file9.txt",
+    "src/txt/es-es/file9.txt"
+  ]
+}
