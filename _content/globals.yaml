@@ -1,0 +1,23 @@
+---
+_translationos_filter: asana
+_xml_head_: '<?xml version="1.0" encoding="UTF-8"?>'
+
+global_language: "en" # Should get translated in other folders (i.e. de, fr, ir)
+base_path: /
+path_to_jobs: /jobs
+path_to_apps: /apps
+path_to_customer_list: /customer-list
+path_to_press_releases: /press/releases
+
+title: "Move work forward"
+description: "The easiest way for teams to track work, and get results. Do great things together."
+
+img_alt: false
+img_title: false
+backup_img_alt: "Image alt not available"
+backup_img_title: "Image title not available"
+global_site_share_image: "https://assets.asana.biz/m/4aecf2c7c66aa51b/original/asana-meta-coral-1x.png"
+global_site_description: "Asana is the easiest way for teams to track their work. From tasks and projects to conversations and dashboards, Asana enables teams to move work from start to finish—and get great results."
+global_site_fb_app_id: "444494130454"
+global_site_gplus_author: "https://plus.google.com/u/0/113573148566753524000"
+---

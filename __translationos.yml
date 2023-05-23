@@ -1,0 +1,51 @@
+on:
+  branches:
+    - translate
+  wait_interval: 30s
+  context:
+    instructions: https://docs.google.com/document/d/1-m5QKNarmeYa6ZeorTiXtT4U2XeUyum692PtEZw1KFE
+pull_requests:
+  mode: pr_per_lang
+  automerge: merge
+files:
+  - translation: professional
+    service_type: premium
+    content_type: application/hugo
+    source_pattern: site/content/en/**/*.md
+    source_exclude:
+      - site/content/en/404.md
+    source_locale: en-US
+    target_pattern: site/content/{{lang_2}}/**/{{original_file}}
+    target_locales: [
+      'ar-SA', 'da-DK', 'de-DE', 'el-GR',
+      'es-ES', 'fi-FI', 'fr-FR', 'he-IL',
+      'hu-HU', 'it-IT', 'ja-JP', 'ko-KR',
+      'nb-NO', 'nl-NL', 'pl-PL', 'pt-BR',
+      'ro-RO', 'ru-RU', 'sv-SE', 'tr-TR',
+      'zh-CN'
+    ]
+  - translation: professional
+    service_type: premium
+    content_type: application/hugo
+    source_pattern: site/data/en/**/*.json
+    source_exclude:
+      - site/data/en/countries.json
+      - site/data/en/customer-quote-sequences.json
+      - site/data/en/customer-quotes-meta.json
+      - site/data/en/menu-labels.json
+      - site/data/en/meta.json
+      - site/data/en/values.json
+      - site/data/en/tables.json
+    source_locale: en-US
+    target_pattern: site/data/{{lang_2}}/**/{{original_file}}
+    target_locales: [
+      'ar-SA', 'da-DK', 'de-DE', 'el-GR',
+      'es-ES', 'fi-FI', 'fr-FR', 'he-IL',
+      'hu-HU', 'it-IT', 'ja-JP', 'ko-KR',
+      'nb-NO', 'nl-NL', 'pl-PL', 'pt-BR',
+      'ro-RO', 'ru-RU', 'sv-SE', 'tr-TR',
+      'zh-CN'
+    ]
+notification:
+  enabled: true
+  emails: ['marketing@translated.net', 'federico.roma@translated.com']
