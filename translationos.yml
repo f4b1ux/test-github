@@ -1,7 +1,6 @@
 on:
   tags:
     - pippo*
-    - pluto*
 translationos:
   labels:
     dashboard:
