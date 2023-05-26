@@ -1,6 +1,6 @@
 on:
-  tags:
-    - pippo*
+  branches:
+    - translate
 translationos:
   labels:
     dashboard:
