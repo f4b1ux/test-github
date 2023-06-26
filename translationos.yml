@@ -21,6 +21,6 @@ files:
     target_locales: [ 'it-IT', 'es-ES' ]
   - translation: professional
     service_type: economy
-    source_pattern: src/yaml/en-US/*
+    source_locale: src/yaml/en-US/*
     target_pattern: src/yaml/{{locale}}/{{original_file}}
     target_locales: [ 'it-IT' ]
