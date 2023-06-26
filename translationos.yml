@@ -25,3 +25,4 @@ files:
     source_locale: en-US
     target_pattern: src/yaml/{{locale}}/{{original_file}}
     target_locales: [ 'it-IT' ]
+    content_type: 'application/asana-yaml'
