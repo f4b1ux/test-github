@@ -6,7 +6,7 @@ translationos:
     dashboard:
       - "label1"
 pull_requests:
-  mode: pr_per_lang
+  mode: pr_all_langs
   automerge: merge
 notification:
   enabled: true
@@ -14,7 +14,7 @@ notification:
     - fabio.fioramonti@translated.net
 files:
   - translation: professional
-    service_type: pippo
+    service_type: economy
     source_pattern: src/txt/*
     source_locale: en-US
     target_pattern: src/txt/{{locale_lc}}/{{original_file}}
