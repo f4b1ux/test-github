@@ -1,0 +1,6 @@
+{
+  "src/txt/test10.txt": [
+    "src/txt/it-it/test10.txt",
+    "src/txt/es-es/test10.txt"
+  ]
+}
