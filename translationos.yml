@@ -14,7 +14,7 @@ notification:
     - fabio.fioramonti@translated.net
 files:
   - translation: professional
-    service_type: economy
+    service_type: pippo
     source_pattern: src/txt/*
     source_locale: en-US
     target_pattern: src/txt/{{locale_lc}}/{{original_file}}
