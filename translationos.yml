@@ -19,7 +19,7 @@ files:
     source_pattern: src/txt/*
     source_locale: en-US
     target_pattern: src/txt/{{locale_lc}}/{{original_file}}
-    target_locales: [ 'it-IT', 'es-ES' ]
+    target_locales: [ 'it-IT', 'es-ES']
   - translation: professional
     service_type: economy
     source_pattern: src/yaml/en-US/*
