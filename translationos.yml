@@ -1,7 +1,7 @@
 on:
   branches:
     - translate
-    - "@(i18n)"
+    - fix*/**
 translationos:
   labels:
     dashboard:
