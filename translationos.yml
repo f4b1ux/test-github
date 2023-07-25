@@ -1,7 +1,6 @@
 on:
   branches:
     - translate
-    - fix*/**
 translationos:
   labels:
     dashboard:
