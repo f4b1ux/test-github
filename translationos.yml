@@ -2,9 +2,11 @@ on:
   branches:
     - translate
 translationos:
+  purchase_order: pippo
   labels:
     dashboard:
       - "label1"
+
 pull_requests:
   mode: pr_per_lang
   automerge: merge
