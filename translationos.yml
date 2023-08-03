@@ -1,6 +1,7 @@
 on:
   branches:
     - translate
+    - fix/a
 translationos:
   purchase_order: pippo
   labels:
