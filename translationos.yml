@@ -1,7 +1,7 @@
 on:
   branches:
     - translate
-    - -translated/a/b/c
+    - translated/a/b/c
 translationos:
   purchase_order: pippo
   labels:
