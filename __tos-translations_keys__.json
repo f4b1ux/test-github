@@ -17,7 +17,6 @@
     "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this",
     "On",
     "off",
-    "test",
-    "test2"
+    "test"
   ]
 }
