@@ -16,7 +16,6 @@
     "**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]",
     "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this",
     "On",
-    "off",
-    "test"
+    "off"
   ]
 }
