@@ -35,7 +35,7 @@
     "{heart}":
       "count_one": "<div>You</div> {listOfNames} … and {count} other all {heart} this"
       "count_other": "<div>You</div> {listOfNames} … and {count} others all {heart} this"
-"On": "On"
+"On": "Anzi,"
 "off": "spento"
 "test": "Esercitazione"
 "test2": "ciao mondo0"
