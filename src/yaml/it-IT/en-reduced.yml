@@ -27,14 +27,14 @@
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   "variants":
     "_default":
-      "count_one": "<div>You</div> {listOfNames} … and {count} other all {variant} this"
-      "count_other": "<div>You</div> {listOfNames} … and {count} others all {variant} this"
+      "count_one": "<div>Tu</div> {listOfNames} … e tutto il {count} {variant} resto"
+      "count_other": "<div>Tu</div> {listOfNames} ... e {count} altri tutto {variant} questo"
     "liked":
-      "count_one": "<div>me</div> {listOfNames} … and {count} other all liked this"
-      "count_other": "<div>You</div> {listOfNames} … and {count} others all liked this"
+      "count_one": "<div>io</div> {listOfNames} ... e {count} ad altri è piaciuto questo"
+      "count_other": "<div>Tu</div> {listOfNames} ... e questo è piaciuto a tutti gli {count} altri"
     "{heart}":
-      "count_one": "<div>You</div> {listOfNames} … and {count} other all {heart} this"
-      "count_other": "<div>You</div> {listOfNames} … and {count} others all {heart} this"
+      "count_one": "<div>Tu</div> {listOfNames} … e tutto il {count} {heart} resto"
+      "count_other": "<div>Tu</div> {listOfNames} ... e {count} altri tutto {heart} questo"
 "On": "Anzi,"
 "off": "spento"
 "test": "Esercitazione"
