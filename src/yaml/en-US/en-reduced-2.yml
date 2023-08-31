@@ -1,0 +1,25 @@
+# ****************************************************************************
+# Internationalizing your code?
+#    Checkout our Quick Start README!
+#    /asana2/docs/web_app/luna-ui/internationalization.md
+# ****************************************************************************
+
+'"<stringToComment>{comment}</stringToComment>"':
+  author: jinchangM
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story_with_preview.ts
+  value: '"<stringToComment>{comment}</stringToComment>"'
+'"{comment}"':
+  author: jinchang
+  deprecated: true
+  locations:
+    - asana2/asana/email/core/components/email_comment_hearted_story.ts
+  value: '"{comment}"'
+'"{message}"':
+  author: adrianyen
+  locations:
+    - asana2/luna-ui/src/components/inbox/details/added_to_project.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/added_to_pot.ts
+    - asana2/luna-ui/src/components/inbox/details/internal/portfolio_pane.ts
+    - asana2/luna-ui/src/components/inbox/details/portfolio_pane.ts
+  value: '"{message}"'
