@@ -43,11 +43,11 @@
 "test 4": "hello friend"
 "{variant} can add, edit, and delete content or customize the project. [collab]":
   "variants":
-    "Member": "Member can add, edit, and delete content or customize the project."
-    "Members": "Members can add, edit, and delete content or customize the project."
-    "Task followers": "Task followers can add, edit, and delete content or customize the project."
-    "The team": "The team can add, edit, and delete content or customize the project."
-    "_default": "{variant} can add, edit, and delete content or customize the project"
+    "Member": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "Members": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "Task followers": "I follower delle attività possono aggiungere, modificare ed eliminare il contenuto o personalizzare il progetto."
+    "The team": "Il team può aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "_default": "{variant} può aggiungere, modificare ed eliminare contenuti o personalizzare il progetto"
 "test 11": "ciao amica"
 "test 19": "questo è un test"
 "test 20": "This is a new test!"
