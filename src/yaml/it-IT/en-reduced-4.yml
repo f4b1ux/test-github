@@ -1,1 +1,3 @@
-"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]": null
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]":
+  "count_one": "\"{projectName}\" e {count} altri progetti verranno trasferiti nella sezione Lavoro di supporto una volta salvate le modifiche."
+  "count_other": "\"{projectName}\" e {count} altri progetti verranno trasferiti nella sezione Riferimenti una volta salvate le modifiche. Se vuoi"
