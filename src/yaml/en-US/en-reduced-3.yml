@@ -5,3 +5,14 @@
 
 
     Then, follow the workback schedule in the subtasks below to move them from an opportunity to a customer!'
+'"{ruleName}" added to this {variant}':
+  author: alexryan
+  locations:
+    - asana2/luna-ui/src/components/board/column/board_column_boundary.ts
+    - asana2/luna-ui/src/components/dialog/automation/add_automation_dialog_configuration_page.ts
+    - asana2/luna-ui/src/components/dialog/automation/automation_mini_rule_builder_configuration.ts
+  variants:
+    _default: '"{ruleName}" added'
+    my_tasks: '"{ruleName}" added to My Tasks'
+    project: '"{ruleName}" added to this project'
+    project_template: '"{ruleName}" added to this project template'
