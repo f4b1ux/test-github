@@ -16,10 +16,3 @@
     my_tasks: '"{ruleName}" added to My Tasks'
     project: '"{ruleName}" added to this project'
     project_template: '"{ruleName}" added to this project template'
-'"{projectName}" and {count} other projects will be moved to the Supporting work [...]':
-  author: phillipyu
-  locations:
-    - asana2/asana/web/goals/views/goal_set_metric_dialog/goal_set_metric_warning_banner.ts
-  value:
-    count_one: '"{projectName}" and {count} other project will be moved to the Supporting work section once your changes are saved.'
-    count_other: '"{projectName}" and {count} other projects will be moved to the Supporting work section once your changes are saved.'
