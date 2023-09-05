@@ -1,0 +1,10 @@
+{
+  "src/yaml/it-IT/en-reduced-1.yml": [
+    "second key",
+    "first key"
+  ],
+  "src/yaml/es-ES/en-reduced-1.yml": [
+    "second key",
+    "first key"
+  ]
+}
