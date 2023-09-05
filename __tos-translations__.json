@@ -1,0 +1,10 @@
+{
+  "src/txt/test10.txt": [
+    "src/txt/it-it/test10.txt",
+    "src/txt/fr-fr/test10.txt"
+  ],
+  "src/yaml/en-US/en-reduced-1.yml": [
+    "src/yaml/it-IT/en-reduced-1.yml",
+    "src/yaml/es-ES/en-reduced-1.yml"
+  ]
+}
