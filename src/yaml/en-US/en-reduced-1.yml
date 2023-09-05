@@ -2,3 +2,5 @@
   value: "This is the first key to translate"
 "second key":
   value: "This is the second key to translate"
+"third key":
+  value: "This is the third key to translate"
