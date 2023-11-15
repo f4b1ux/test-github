@@ -11,7 +11,7 @@
   "variants": null
 "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": null
 "... will be assigned a copy": null
-"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": null
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": "**Duplica questa attività per creare un'attività del blog. Per duplicare un'attività, vai al menu \"...\" e fai clic su \"Converti attività in modello\". \"**\n\nQuindi, compila le seguenti informazioni per avviare un nuovo blog:\n-Topic:\n-Title: -Category:\n\n\nVedi le sottoattività qui sotto per un programma di workback suggerito:"
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   "variants":
     "_default":
