@@ -17,8 +17,7 @@
     "On",
     "off",
     "test",
-    "test2",
-    "Test3"
+    "test2"
   ],
   "src/yaml/es-ES/en-reduced-1.yml": [
     "\"<stringToComment>{comment}</stringToComment>\"",
