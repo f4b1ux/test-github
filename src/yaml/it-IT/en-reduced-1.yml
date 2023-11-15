@@ -21,7 +21,12 @@
 "Test3": null
 "test 4": null
 "{variant} can add, edit, and delete content or customize the project. [collab]":
-  "variants": null
+  "variants":
+    "Member": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "Members": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "Task followers": "I follower dell'attività possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "The team": "Il team può aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "_default": "{variant} può aggiungere, modificare ed eliminare contenuti o personalizzare il progetto"
 "test 11": "ciao amico!"
 "test 19": "Questo è un test di redelivery e di TM SYNC!"
 "test 20": "Questo è un test di redelivery e di TM SYNC!"
