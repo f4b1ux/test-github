@@ -1,0 +1,6 @@
+{
+  "src/yaml/en-US/en-reduced-2.yml": [
+    "src/yaml/it-IT/en-reduced-2.yml",
+    "src/yaml/es-ES/en-reduced-2.yml"
+  ]
+}
