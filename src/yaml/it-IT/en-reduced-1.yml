@@ -8,7 +8,11 @@
 "\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]": null
 "K1": null
 "\"{ruleName}\" added to this {variant}":
-  "variants": null
+  "variants":
+    "_default": "\"{ruleName}\" aggiunto"
+    "my_tasks": "\"{ruleName}\" aggiunto a Le mie attività"
+    "project": "\"{ruleName}\" aggiunto a questo progetto"
+    "project_template": "\"{ruleName}\" aggiunto a questo modello di progetto"
 "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": "**Duplica questa attività per monitorare un nuovo potenziale cliente. Per duplicare un'attività, vai al menu \"...\" e fai clic su \"Converti attività in modello\". \"**\n\nQuindi, segui il programma di workback nelle sottoattività sottostanti per spostarle da un'opportunità a un cliente!"
 "... will be assigned a copy": "... verrà assegnata una copia"
 "**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": "**Duplica questa attività per creare un'attività del blog. Per duplicare un'attività, vai al menu \"...\" e fai clic su \"Converti attività in modello\". \"**\n\nQuindi, compila le seguenti informazioni per avviare un nuovo blog:\n-Topic:\n-Title: -Category:\n\n\nVedi le sottoattività qui sotto per un programma di workback suggerito:"
