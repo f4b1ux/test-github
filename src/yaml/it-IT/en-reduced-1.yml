@@ -15,7 +15,7 @@
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
   "variants": null
 "On": null
-"off": null
+"off": "off"
 "test": "Test"
 "test2": "ciao mondo0"
 "Test3": "Mi chiamo signor lupo"
