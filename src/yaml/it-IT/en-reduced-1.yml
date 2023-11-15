@@ -1,5 +1,5 @@
 "\"<stringToComment>{comment}</stringToComment>\"": "\"<stringToComment>{comment}</stringToComment>\""
-"\"{comment}\"": null
+"\"{comment}\"": "\"{comment}\""
 "\"{message}\"": null
 "K3": null
 "\"{projectName}\" and {count} other projects will be moved to the References [...]": "{\"count_one\":\"\\\"{projectName}\\\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.\",\"count_other\":\"\\\"{projectName}\\\" e ciao {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.\"}"
