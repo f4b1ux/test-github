@@ -19,7 +19,7 @@
 "test": null
 "test2": null
 "Test3": null
-"test 4": null
+"test 4": "ciao amico"
 "{variant} can add, edit, and delete content or customize the project. [collab]":
   "variants":
     "Member": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
