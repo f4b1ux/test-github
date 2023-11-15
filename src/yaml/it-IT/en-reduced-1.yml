@@ -6,7 +6,7 @@
 "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]": null
 "\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]": null
 "\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]": null
-"K1": null
+"K1": "Questa è la prima chiave da tradurre"
 "\"{ruleName}\" added to this {variant}":
   "variants":
     "_default": "\"{ruleName}\" aggiunto"
