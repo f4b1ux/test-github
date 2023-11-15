@@ -1,0 +1,10 @@
+Collaborators will be notified about activity on this {variant}.:
+  author: lucyreyes
+  fallback_key: Collaborators will be notified about activity on this task.
+  locations:
+    - asana2/luna-ui/src/components/task_pane/collaborators/task_pane_collaborators_flyout.tsx
+  variants:
+    _default: Collaborators will be notified about activity on this {variant}.
+    approval: Collaborators will be notified about activity on this approval.
+    milestone: Collaborators will be notified about activity on this milestone.
+    task: Collaborators will be notified about activity on this task.
