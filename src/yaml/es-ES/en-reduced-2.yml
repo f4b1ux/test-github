@@ -1,6 +1,24 @@
-"Collaborators will be notified about activity on this {variant}.":
-  "variants":
-    "_default": "Se notificará a los colaboradores sobre la actividad al respecto{variant}."
-    "approval": "Se notificará a los colaboradores sobre la actividad en esta aprobación."
-    "milestone": "Se notificará a los colaboradores sobre la actividad en este hito."
-    "task": "¡¡Se notificará a los colaboradores sobre la actividad en esta tarea!!"
+"\"<stringToComment>{comment}</stringToComment>\"": null
+"\"{comment}\"": null
+"\"{message}\"": null
+"K3": null
+"\"{projectName}\" and {count} other projects will be moved to the References [...]": null
+"\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]": null
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]": null
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]": null
+"K1": null
+"\"{ruleName}\" added to this {variant}": null
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": null
+"... will be assigned a copy": null
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": null
+"<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this": null
+"On": null
+"off": null
+"test": null
+"test2": null
+"Test3": null
+"test 4": null
+"{variant} can add, edit, and delete content or customize the project. [collab]": null
+"test 11": null
+"test 19": null
+"test 20": null
