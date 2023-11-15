@@ -19,8 +19,7 @@
     "test",
     "test2",
     "Test3",
-    "test 4",
-    "{variant} can add, edit, and delete content or customize the project. [collab]"
+    "test 4"
   ],
   "src/yaml/es-ES/en-reduced-1.yml": [
     "\"<stringToComment>{comment}</stringToComment>\"",
