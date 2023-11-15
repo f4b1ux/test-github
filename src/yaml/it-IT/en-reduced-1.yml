@@ -1,6 +1,6 @@
 "\"<stringToComment>{comment}</stringToComment>\"": "\"<stringToComment>{comment}</stringToComment>\""
 "\"{comment}\"": "\"{comment}\""
-"\"{message}\"": null
+"\"{message}\"": "\"{message}\""
 "K3": null
 "\"{projectName}\" and {count} other projects will be moved to the References [...]": "{\"count_one\":\"\\\"{projectName}\\\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.\",\"count_other\":\"\\\"{projectName}\\\" e ciao {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche.\"}"
 "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]": "{\"count_one\":\"\\\"{projectName}\\\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.\",\"count_other\":\"\\\"{projectName}\\\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati.\"}"
