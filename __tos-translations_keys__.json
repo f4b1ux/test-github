@@ -10,8 +10,7 @@
     "\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]",
     "K1",
     "\"{ruleName}\" added to this {variant}",
-    "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]",
-    "... will be assigned a copy"
+    "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]"
   ],
   "src/yaml/es-ES/en-reduced-1.yml": [
     "\"<stringToComment>{comment}</stringToComment>\"",
