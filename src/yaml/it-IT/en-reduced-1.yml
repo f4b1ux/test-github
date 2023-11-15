@@ -13,7 +13,16 @@
 "... will be assigned a copy": null
 "**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": null
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
-  "variants": null
+  "variants":
+    "_default":
+      "count_one": "<div>Tu</div> {listOfNames} ... e {count} altro tutto {variant} questo"
+      "count_other": "<div>Tu</div> {listOfNames} ... e {count} altri tutto {variant} questo"
+    "liked":
+      "count_one": "<div>io</div> {listOfNames} ... e {count} ad altri è piaciuto questo"
+      "count_other": "<div>Tu</div> {listOfNames} ... e questo è piaciuto a tutti gli {count} altri"
+    "{heart}":
+      "count_one": "<div>Tu</div> {listOfNames} … e tutto il {count} {heart} resto"
+      "count_other": "<div>Tu</div> {listOfNames} ... e {count} altri tutto {heart} questo"
 "On": "On"
 "off": "off"
 "test": "Test"
