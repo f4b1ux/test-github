@@ -7,4 +7,4 @@ Collaborators will be notified about activity on this {variant}.:
     _default: Collaborators will be notified about activity on this {variant}.
     approval: Collaborators will be notified about activity on this approval.
     milestone: Collaborators will be notified about activity on this milestone.
-    task: Collaborators will be notified about activity on those task.
+    task: Collaborators will be notified about activity on this task.
