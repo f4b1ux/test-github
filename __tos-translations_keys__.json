@@ -11,8 +11,7 @@
     "K1",
     "\"{ruleName}\" added to this {variant}",
     "**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]",
-    "... will be assigned a copy",
-    "**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]"
+    "... will be assigned a copy"
   ],
   "src/yaml/es-ES/en-reduced-1.yml": [
     "\"<stringToComment>{comment}</stringToComment>\"",
