@@ -4,8 +4,7 @@
     "\"{comment}\"",
     "\"{message}\"",
     "K3",
-    "\"{projectName}\" and {count} other projects will be moved to the References [...]",
-    "\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]"
+    "\"{projectName}\" and {count} other projects will be moved to the References [...]"
   ],
   "src/yaml/es-ES/en-reduced-1.yml": [
     "\"<stringToComment>{comment}</stringToComment>\"",
