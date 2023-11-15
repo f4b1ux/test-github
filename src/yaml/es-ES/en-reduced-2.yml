@@ -1,2 +1,6 @@
 "Collaborators will be notified about activity on this {variant}.":
-  "variants": null
+  "variants":
+    "_default": "Se notificará a los colaboradores sobre la actividad al respecto{variant}."
+    "approval": "Se notificará a los colaboradores sobre la actividad en esta aprobación."
+    "milestone": "Se notificará a los colaboradores sobre la actividad en este hito."
+    "task": "¡¡Se notificará a los colaboradores sobre la actividad en esta tarea!!"
