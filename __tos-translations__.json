@@ -1,0 +1,6 @@
+{
+  "src/yaml/en-US/en.yml": [
+    "src/yaml/it-IT/en.yml",
+    "src/yaml/es-ES/en.yml"
+  ]
+}
