@@ -22697,7 +22697,7 @@
 "{warningIcon} Select a team": null
 "{warningIcon} Select {minimum}-{maximum} teammates": null
 "{warningIcon} You can only add {maximumNumber} members at a time": null
-"{waveEmoji} Hi {userName}! You're receiving this because you're the owner of these [...]": null
+"{waveEmoji} Hi {userName}! You're receiving this because you're the owner of these [...]": "{waveEmoji} ¡Hola {userName}! Lo recibes porque eres el propietario de estos proyectos, pero no se han actualizado recientemente:"
 "{weeks}wk": null
 "{years}yr": null
 "{you} have a task starting {startDate}.": null
