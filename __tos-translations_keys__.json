@@ -44476,7 +44476,6 @@
     "{warningIcon} Select a team",
     "{warningIcon} Select {minimum}-{maximum} teammates",
     "{warningIcon} You can only add {maximumNumber} members at a time",
-    "{waveEmoji} Hi {userName}! You're receiving this because you're the owner of these [...]",
     "{weeks}wk",
     "{years}yr",
     "{you} have a task starting {startDate}."
