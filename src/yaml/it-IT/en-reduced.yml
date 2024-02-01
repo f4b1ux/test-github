@@ -1,23 +1,49 @@
-"\"<stringToComment>{comment}</stringToComment>\"": null
-"\"{comment}\"": null
-"\"{message}\"": null
-"K3": null
-"\"{projectName}\" and {count} other projects will be moved to the References [...]": null
-"\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]": null
-"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]": null
-"\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]": null
-"K1": null
+"\"<stringToComment>{comment}</stringToComment>\"": "<stringToComment>grande{comment}</stringToComment>"
+"\"{comment}\"": "Grande{comment}"
+"\"{message}\"": "{message}"
+"K3": "chiave per tradurre vicino a una modificata"
+"\"{projectName}\" and {count} other projects will be moved to the References [...]":
+  "count_one": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche."
+  "count_other": "\"{projectName}\" e ciao {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche."
+"\"{projectName}\" and {count} other projects will be moved to the References section once your changes are saved. Projects [...]":
+  "count_one": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati."
+  "count_other": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Riferimenti una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati."
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work [...]":
+  "count_one": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Lavoro di supporto una volta salvate le modifiche."
+  "count_other": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Lavoro di supporto una volta salvate le modifiche."
+"\"{projectName}\" and {count} other projects will be moved to the Supporting work section once your changes are saved. Projects [...]":
+  "count_one": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Lavoro di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati."
+  "count_other": "\"{projectName}\" e {count} altri progetti verranno spostati nella sezione Lavoro di supporto una volta salvate le modifiche. Anche i progetti a cui non hai accesso saranno interessati."
+"K1": "Questa è la prima chiave da tradurre"
 "\"{ruleName}\" added to this {variant}":
-  "variants": null
-"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": null
-"... will be assigned a copy": null
-"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": null
+  "variants":
+    "_default": "\"{ruleName}\" aggiunto"
+    "my_tasks": "\"{ruleName}\" aggiunto a Le mie attività"
+    "project": "\"{ruleName}\" aggiunto a questo progetto"
+    "project_template": "\"{ruleName}\" aggiunto a questo modello di progetto"
+"**Duplicate this task in order to track a [...] [Template content 8ceacdaf0df6cc6eca935b268b7469d6]": "**Duplica questa attività per monitorare un nuovo potenziale cliente. Per duplicare un'attività, vai al menu \"...\" e fai clic su \"Converti attività in modello\". \"**\n\nQuindi, segui il programma di workback nelle sottoattività sottostanti per spostarle da un'opportunità a un cliente!"
+"... will be assigned a copy": "... verrà assegnata una copia"
+"**Duplicate this task to create a blog task. [...] [Template content c96abd6d10de655bdb44d40d2546e313]": "**Duplica questa attività per creare un'attività del blog. Per duplicare un'attività, vai al menu \"...\" e fai clic su \"Converti attività in modello\". \"**\n\nQuindi, compila le seguenti informazioni per avviare un nuovo blog:\n-Topic:\n-Title: -Category:\n\n\nVedi le sottoattività qui sotto per un programma di workback suggerito:"
 "<div>You</div> [and] {listOfNames} ... and {count} others all {variant}[liked or {heart} this":
-  "variants": null
+  "variants":
+    "_default":
+      "count_one": "<div>Tu</div> {listOfNames} ... e {count} altro tutto {variant} questo"
+      "count_other": "<div>Tu</div> {listOfNames} ... e {count} altri tutto {variant} questo"
+    "liked":
+      "count_one": "<div>io</div> {listOfNames} ... e {count} ad altri è piaciuto questo"
+      "count_other": "<div>Tu</div> {listOfNames} ... e questo è piaciuto a tutti gli {count} altri"
+    "{heart}":
+      "count_one": "<div>Tu</div> {listOfNames} ... e {count} altro tutto {heart} questo"
+      "count_other": "<div>Tu</div> {listOfNames} ... e {count} altri tutto {heart} questo"
 "On": null
 "off": null
 "{variant} can add, edit, and delete content or customize the project. [collab]":
-  "variants": null
+  "variants":
+    "Member": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "Members": "I membri possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "Task followers": "I follower dell'attività possono aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "The team": "Il team può aggiungere, modificare ed eliminare contenuti o personalizzare il progetto."
+    "_default": "{variant} può aggiungere, modificare ed eliminare contenuti o personalizzare il progetto"
 "yes": null
 "no": null
 "numbers": null
