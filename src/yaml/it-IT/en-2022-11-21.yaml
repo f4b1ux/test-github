@@ -12945,7 +12945,7 @@
 "Scheduled for {startDate}  {endDate}": null
 "Scheduled from project due date": null
 "Scheduled from project start date": null
-"Scheduled next week [Template content 2206993197375645483]": null
+"Scheduled next week [Template content 2206993197375645483]": "In programma la prossima settimana"
 "Scheduled next week [Template content fc98a53b0921cc00e041f1375b2fd0b8]": null
 "Scheduled this week [Template content 4502377800833678254]": null
 "Scheduled this week [Template content 87a70f0fdd3b1fa6d16d4cb2a587e46a]": null
@@ -12964,13 +12964,13 @@
 "Search Jira Cloud for a person": null
 "Search Jira Cloud for people": null
 "Search Jira for a project...": null
-"Search Name": null
+"Search Name": "Cerca nome"
 "Search Results": null
 "Search Results ({clauses})": null
 "Search Slack for a channel": null
 "Search Slack for a user": null
 "Search Unavailable [error message]": null
-"Search [noun]": null
+"Search [noun]": "Cerca"
 "Search [verb]": null
 "Search and add members directly into each team": null
 "Search by CSV column...": null
@@ -13015,7 +13015,7 @@
 "Search for task": null
 "Search for teams or people": null
 "Search for {searchText} in {projectName}": null
-"Search help articles": null
+"Search help articles": "Cerca articoli di aiuto"
 "Search help topics, watch videos, and get tips from Asana experts.": null
 "Search library": null
 "Search now": null
@@ -13038,7 +13038,7 @@
 "Search...": null
 "Search... [verb]": null
 "Searching for Google Drive files": null
-"Seat Change [noun]": null
+"Seat Change [noun]": "Cambio Posto"
 "Seat [noun]": null
 "Seat available": null
 "Seat change [noun]": null
@@ -13120,7 +13120,7 @@
 "See how the best teams use Portfolios to manage their most important [...]": null
 "See how to create project plans and view dependencies to keep deliverables [...]": null
 "See how work is assigned across multiple projects with Workload. Try it <tryIt>": null
-"See how work is progressing by using the [...] [Template content -5524400397442978728]": null
+"See how work is progressing by using the [...] [Template content -5524400397442978728]": "Scopri come procede il lavoro utilizzando i campi personalizzati \"Avanzamento attività\"."
 "See how work is progressing by using the [...] [Template content 1589405461326653180]": null
 "See how work is progressing by using the [...] [Template content 1589405461326653180] [collab]": null
 "See how work is progressing by using the [...] [Template content 4225125969051235658]": null
@@ -13141,7 +13141,7 @@
 "See more...": null
 "See new tasks, share designs, embed XD share links, and incorporate feedbackall [...]": null
 "See plan details": null
-"See plans": null
+"See plans": "Visualizza i piani"
 "See progress for any project without scheduling a status meeting or sending [...]": null
 "See progress toward goals in real-time by connecting goals to the work.": null
 "See projects and people in one view": null
@@ -13172,21 +13172,21 @@
 "See your release schedule in Calendar View [Template content -7106183241124675822]": null
 "See your release schedule in Calendar View [Template content c8be13e7f430f4073d5dce9dee44a979]": null
 "See your team's completed tasks": null
-"See your teams and their members at a glance": null
+"See your teams and their members at a glance": "Guarda i tuoi team e i loro membri a colpo d'occhio"
 "See your teamwork from every angle": null
 "See {firstName}'s Tasks": null
 "See {profileDomainUserName}'s tasks.": null
 "See {tier} plan details": null
 "See {variant}": null
 "Select \"Duplicate task.\" [Template content -2483696803307058822]": null
-"Select \"Duplicate task.\" [Template content 9219f462729ad396356e10069cb3eb93]": null
+"Select \"Duplicate task.\" [Template content 9219f462729ad396356e10069cb3eb93]": "Seleziona \"Duplica attività\"."
 "Select 'TXT' for the DNS record type.": null
 "Select All": null
 "Select Business": null
-"Select Lab [Template content cb16a2aff47db4cc844e5f3830a458fa]": null
+"Select Lab [Template content cb16a2aff47db4cc844e5f3830a458fa]": "Seleziona laboratorio"
 "Select One...": null
 "Select Premium": null
-"Select Province": null
+"Select Province": "Seleziona provincia"
 "Select Range": null
 "Select State": null
 "Select Team": null
@@ -13269,7 +13269,7 @@
 "Send a Message via Email...": null
 "Send a message about this project...": null
 "Send a message by Email": null
-"Send a message to kick off projects. Or discuss tasks. Or brainstorm ideas.": null
+"Send a message to kick off projects. Or discuss tasks. Or brainstorm ideas.": "Invia un messaggio per dare il via ai progetti. Oppure discuti i compiti. Oppure fai brainstorming di idee."
 "Send a message to kick off projects. Or discuss tasks. Or brainstorm {lineBreak} {emailLink} [...]": null
 "Send a message via email": null
 "Send a text through Twilio": null
@@ -13363,7 +13363,7 @@
 "Set Custom Field to reflect task priority [Template content bfa45f7f02119862e954cb14b9d0c06d]": null
 "Set Custom Field...": null
 "Set Custom Fields to reflect task priority [Template content -2681673043762178377]": null
-"Set Custom Fields to reflect task priority [Template content ae80ff9b04569ffee3116471e61d737c]": null
+"Set Custom Fields to reflect task priority [Template content ae80ff9b04569ffee3116471e61d737c]": "Imposta i campi personalizzati in modo che riflettano la priorità delle attività"
 "Set Custom Fields to reflect task status so [...] [Template content -683745421807785886]": null
 "Set Custom Fields to reflect task status so [...] [Template content 1bee11dddd70337194c4eab70cc3e2b7]": null
 "Set Due Date": null
@@ -13372,7 +13372,7 @@
 "Set Goals": null
 "Set Highlight Color": null
 "Set Name": null
-"Set Patient Status if Task moved to Lab Section": null
+"Set Patient Status if Task moved to Lab Section": "Imposta lo stato del paziente se l'attività viene spostata nella sezione laboratorio"
 "Set Primary Channel to Email": null
 "Set Primary Channel to PR": null
 "Set Primary Channel to Social Media": null
@@ -13394,7 +13394,7 @@
 "Set a due date and due time to let your teammates know <b> [...]": null
 "Set a due date on your task": null
 "Set a due date to make clear when [...] [Template content 7006671506543075471]": null
-"Set a due date to make clear when [...] [Template content ab5b181258dca69e5d695b07cbdd031d]": null
+"Set a due date to make clear when [...] [Template content ab5b181258dca69e5d695b07cbdd031d]": "Imposta una data di scadenza per chiarire quando il lavoro deve essere svolto"
 "Set a feature release schedule": null
 "Set a goal to help teams across the company prioritize strategic work. <guideLink> [...]": null
 "Set a minimum password length between {minChar} and {maxChar} characters.": null
@@ -13423,7 +13423,7 @@
 "Set as goal owner": null
 "Set as template owner": null
 "Set background color": null
-"Set by members [to outside the Organization]": null
+"Set by members [to outside the Organization]": "Impostato dai membri"
 "Set by project members [to outside the Organization]": null
 "Set by you": null
 "Set by {userName}": null
@@ -13432,8 +13432,8 @@
 "Set capacity...": null
 "Set clear due dates so teammates know when [...] [Template content 3233784124921776912]": null
 "Set clear due dates so teammates know when [...] [Template content a1a8ace88e76190932115b6a04785d7c]": null
-"Set color": null
-"Set color & icon": null
+"Set color": "Imposta colore"
+"Set color & icon": "Imposta colore e icona"
 "Set column width": null
 "Set company and team goals.": null
 "Set custom fields to reflect task priority [Template content -7203468616158558537]": null
@@ -13565,7 +13565,7 @@
 "Set-up steps: [Template content 8734374238439574738]": null
 "Setting a goal for this team will help you prioritize work that <guideLink> [...]": null
 "Setting a goal for this team will help you prioritize work that [...]": null
-"Setting a start date is not allowed for this project": null
+"Setting a start date is not allowed for this project": "L'impostazione di una data di inizio non è consentita per questo progetto"
 "Setting a start date is not allowed for this task": null
 "Setting priorities and more with Custom Fields": null
 "Setting up rules in Asana to send Slack messages when a task [...]": null
@@ -13763,7 +13763,7 @@
 "Show options for {fieldName} column": null
 "Show or hide fields": null
 "Show password": null
-"Show previous": null
+"Show previous": "Mostra precedente"
 "Show previous month": null
 "Show project information": null
 "Show settings": null
@@ -13817,9 +13817,9 @@
 "Sign up with Google": null
 "Sign up with email": null
 "Sign up with single sign-on": null
-"Sign-in page URL": null
+"Sign-in page URL": "URL della pagina di accesso"
 "Signed up on {date}": null
-"Signing contract [Template content cc466748c55ef399d00ed728c14ab593]": null
+"Signing contract [Template content cc466748c55ef399d00ed728c14ab593]": "Firma del contratto"
 "Silvered [theme name]": null
 "Simple Task": null
 "Simple [adj]": null
@@ -13838,7 +13838,7 @@
 "Single sign-on (SAML) is not enabled for your account. To enable, please [...]": null
 "Single sign-on (SSO) is not enabled for your account. Please log in [...]": null
 "Single-project dashboards only": null
-"Single-select [noun]": null
+"Single-select [noun]": "Selezione singola"
 "Single-select field": null
 "Single-select field changed": null
 "Single-select field cleared": null
@@ -13970,12 +13970,12 @@
 "Someone liked that you requested changes": null
 "Someone liked this conversation": null
 "Someone liked this goal": null
-"Someone liked this task": null
+"Someone liked this task": "A qualcuno piace questa attività"
 "Someone liked your attachment": null
 "Someone liked your comment": null
 "Someone liked your message.": null
 "Someone made you the owner of this goal": null
-"Someone made you the project owner of this project": null
+"Someone made you the project owner of this project": "Qualcuno ti ha nominato titolare di questo progetto"
 "Someone made {ownerName} the owner of this goal": null
 "Someone made {ownerName} the project owner of this project": null
 "Someone removed you as the owner of this goal": null
@@ -14021,7 +14021,7 @@
 "Sorry, chart is currently unavailable": null
 "Sorry, login via email is not supported for Google SSO domains. {domain} [...]": null
 "Sorry, login via email is not supported with SAML domains. {domain} requires [...]": null
-"Sorry, search is currently unavailable.": null
+"Sorry, search is currently unavailable.": "Siamo spiacenti, la ricerca non è attualmente disponibile."
 "Sorry, search is temporarily unavailable.": null
 "Sorry, that didn't work. Use `/asana help` to see a list of [...]": null
 "Sorry, that link didn't work. Try pasting the url from your browser's [...]": null
@@ -14123,7 +14123,7 @@
 "Standardize work requests with Forms": null
 "Standardize your RFP and evaluation process with our [...] [Template content -8161211982769612913]": null
 "Standardize your RFP and evaluation process with our [...] [Template content 9698650aa271b9716709e8b7b1fb3064]": null
-"Standardize your RFP and evaluation process with our template to ensure you're [...]": null
+"Standardize your RFP and evaluation process with our template to ensure you're [...]": "Standardizza la tua RFP e il processo di valutazione con il nostro modello per assicurarti di essere completamente preparato a ricevere e valutare le proposte - tutte nello stesso posto - in modo da poter scegliere la migliore organizzazione per il lavoro."
 "Standing Agenda [Template content -5093392800578047593]": null
 "Standing Agenda [Template content 91972d9eca0c90fb2a88491911d4a860]": null
 "Standing agenda items [Template content -8915080412005413903]": null
@@ -14164,7 +14164,7 @@
 "Start a new project quickly with templates or [...] [Template content 593716104369371640]": null
 "Start a new project quickly with templates or [...] [Template content aa2759f5bf25f661dd32ad9cdf99a0eb]": null
 "Start a private discussion...": null
-"Start a project conversation to kick off projects, [...]": null
+"Start a project conversation to kick off projects, [...]": "Avvia una conversazione sul progetto per avviare progetti,{lineBreak}discutere attività o fare brainstorming di idee."
 "Start a project conversation to solicit ideas for [...] [Template content 3267170357596095217]": null
 "Start a project conversation to solicit ideas for [...] [Template content c6367660845fec4956db6e1eb78566db]": null
 "Start a team conversation to make announcements, [...]": null
@@ -14251,7 +14251,7 @@
 "Starting and target value cannot be the same": null
 "Starting value": null
 "Starting with Asana": null
-"Starting with Asana [Template content 6a8ee60d1d131b75e4652ccd5a3eeaf7]": null
+"Starting with Asana [Template content 6a8ee60d1d131b75e4652ccd5a3eeaf7]": "Iniziare con Asana"
 "Starting {date}": null
 "Starting {startDate}": null
 "Starting:  [noun]": null
@@ -14294,7 +14294,7 @@
 "Stay in the loop by requesting an update from the project owner.": null
 "Stay in the loop on related projects and tasks by also joining [...]": null
 "Stay organized and track your work with Portfolios": null
-"Stay up to date on work. Join your team's projects.": null
+"Stay up to date on work. Join your team's projects.": "Rimani aggiornato sul lavoro. Unisciti ai progetti del tuo team."
 "Stay up to date on your team's work": null
 "Step 1 - Make a copy of this [...] [Template content 45937447911615050]": null
 "Step 1 - Make a copy of this [...] [Template content dd9bc5529e221211d38b260ef69c2f1d]": null
@@ -14383,7 +14383,7 @@
 "Subset of customers your campaign is targeting [Template content 7f3a496bcbaaaf5a0a3775bbc69ba232]": null
 "Subtask Name": null
 "Subtask Of": null
-"Subtask [noun]": null
+"Subtask [noun]": "Sottoattività"
 "Subtask approval request": null
 "Subtask of": null
 "Subtask of <link>{taskName}</link>": null
@@ -14418,7 +14418,7 @@
 "Sum of {customFieldName} by {grouping}": null
 "Sum of {customFieldName} by {variant}":
   "variants": null
-"Sum of {customFieldSelect}": null
+"Sum of {customFieldSelect}": "Somma di {customFieldSelect}"
 "Summary [Noun]": null
 "Summary [noun]": null
 "Summary of Request": null
@@ -14504,14 +14504,14 @@
 "T [thursday]": null
 "T [tuesday]": null
 "TASK LIST": null
-"TASK PANE": null
-"TC Section Rules": null
+"TASK PANE": "RIQUADRO ATTIVITÀ"
+"TC Section Rules": "TC Section Rules"
 "TEXT FORMATTING": null
 "TYPE [noun]": null
 "Tab + Enter to save": null
 "Tab + Enter to submit": null
 "Tab [keyboard key]": null
-"Tab [noun]": null
+"Tab [noun]": "Scheda"
 "Tab+B [keyboard shortcut]": null
 "Table [noun]": null
 "Table selected": null
@@ -14554,7 +14554,7 @@
 "Target market research [Template content 722976c8a50ebb5a95f9bd4da1dacc33]": null
 "Target value": null
 "Task": null
-"Task 1": null
+"Task 1": "Attività 1"
 "Task 2": null
 "Task 3": null
 "Task Actions": null
@@ -14573,7 +14573,7 @@
 "Task ID": null
 "Task Name": null
 "Task Progress": null
-"Task Progress [Template content 937429328979557597]": null
+"Task Progress [Template content 937429328979557597]": "Avanzamento attività"
 "Task Progress [Template content c4e5276dbb142e8e0811592b7c343a8a]": null
 "Task Progress [noun]": null
 "Task Progress changed -> Change column": null
@@ -14589,7 +14589,7 @@
 "Task Type is a Premium Feature": null
 "Task URL": null
 "Task [noun]": null
-"Task added": null
+"Task added": "Attività aggiunta"
 "Task added from form": null
 "Task added from form \"{formName}\"": null
 "Task added to My Tasks": null
@@ -14605,7 +14605,7 @@
 "Task collaborators [can perform this action]": null
 "Task collaborators can add, edit, and delete anything in the project.": null
 "Task collaborators can comment, but can't edit anything in the project.": null
-"Task completed -> Change column": null
+"Task completed -> Change column": "Attività completata → Modifica colonna"
 "Task completed -> Move to column": null
 "Task completed -> Set Task Progress": null
 "Task completion date": null
@@ -14668,7 +14668,7 @@
 "Task moved to Ready for Appointment  Set Insurance": null
 "Task moved to Ready for Rx  Set due date, Set Prescription": null
 "Task moved to Referred Out  Set Prescription": null
-"Task moved to Schedule Patient  Set due date, Set Appointment": null
+"Task moved to Schedule Patient  Set due date, Set Appointment": "Attività spostata per pianificare la data → di scadenza del paziente, impostare l'appuntamento"
 "Task moved to Send Forms  Set due date, Set Appointment": null
 "Task moved to Submit Rx  Set due date": null
 "Task moved to Update Patient File  Set due date": null
@@ -14745,7 +14745,7 @@
 "Tasks [noun]": null
 "Tasks added": null
 "Tasks added from apps like these can also trigger rules": null
-"Tasks and Conversations I'm Following": null
+"Tasks and Conversations I'm Following": "Attività e conversazioni che sto seguendo"
 "Tasks and Conversations I'm a Collaborator on": null
 "Tasks and Conversations I've Created": null
 "Tasks and Conversations {userFullName} has Created": null
@@ -14783,7 +14783,7 @@
 "Tasks by Assignee": null
 "Tasks by Due Date": null
 "Tasks by Project": null
-"Tasks by completion status this month": null
+"Tasks by completion status this month": "Attività per stato di completamento questo mese"
 "Tasks by creator": null
 "Tasks by custom field": null
 "Tasks by {grouping}": null
@@ -14824,7 +14824,7 @@
 "Tasks you've assigned to others": null
 "Tasks {name} has assigned to others": null
 "Tasks {userFullName} has assigned to others": null
-"Taste space food": null
+"Taste space food": "Assaggia il cibo spaziale"
 "Tax information (optional)": null
 "Tax/VAT ID": null
 "Team (Marketing) [Template content 76fbf190d30cdb0d90d838ab484413e8]": null
@@ -14845,7 +14845,7 @@
 "Team Privacy Settings": null
 "Team Privacy Types": null
 "Team Responsible [Template content 7500109124335963783]": null
-"Team Responsible [Template content 862c10f01086899be03053e7dbed7fe3]": null
+"Team Responsible [Template content 862c10f01086899be03053e7dbed7fe3]": "Team responsabile"
 "Team Settings": null
 "Team [noun]": null
 "Team [noun] [Template content -1504849438369501993]": null
@@ -14867,7 +14867,7 @@
 "Team members and guests (including those using [...]": null
 "Team members can share Timeline view": null
 "Team members cannot edit the team name or description": null
-"Team members cannot edit the team privacy level or delete the team": null
+"Team members cannot edit the team privacy level or delete the team": "I membri del team non possono modificare il livello di privacy del team o eliminare il team"
 "Team members cannot share Timeline view": null
 "Team members have limited access to these settings. <link>Learn more</link>": null
 "Team membership is pending approval by a Team Admin.": null
@@ -14917,7 +14917,7 @@
 "Teams that have fun at work tend to communicate better, collaborate more, [...]": null
 "Teams will lose the ability to track stage and status": null
 "Teams with \"{searchString}\"": null
-"Teams with the highest number of active users in the last four weeks.": null
+"Teams with the highest number of active users in the last four weeks.": "Team con il maggior numero di utenti attivi nelle ultime quattro settimane."
 "Teamwork makes the dream work. Celebrate the things you achieve together, big [...]": null
 "Teamwork makes work happen!": null
 "Tear Down [Template content 32eff21180aa7e11cd6907040dca4861]": null
@@ -14949,7 +14949,7 @@
 "Template from {companyName}": null
 "Template has some error": null
 "Template instructions [Template content 4201120620179539716]": null
-"Template instructions [Template content d183f5a7a8941b4dc8e3152c53b19be5]": null
+"Template instructions [Template content d183f5a7a8941b4dc8e3152c53b19be5]": "Istruzioni del modello"
 "Template name": null
 "Template needs your attention": null
 "Template project": null
@@ -14997,7 +14997,7 @@
 "Thank you for verifying ownership of your domain!": null
 "Thank you for your donation follow-up [Template content 6483043918100748347]": null
 "Thank you for your donation follow-up [Template content 6dc075dd60d64c1c45f40235b16c0c74]": null
-"Thank you for your feedback!": null
+"Thank you for your feedback!": "Grazie per il tuo feedback!"
 "Thank you for your payment": null
 "Thank you messages for donors [Template content 1688357901239905316]": null
 "Thank you messages for donors [Template content c9c52ac5c64044c1065ec124a78d40d4]": null
@@ -15010,7 +15010,7 @@
 "Thanks for the suggestion!": null
 "Thanks for your feedback.": null
 "Thanks for your feedback. What could we do to improve?": null
-"Thanks so much for using Asana. We're excited to see that your [...]": null
+"Thanks so much for using Asana. We're excited to see that your [...]": "Grazie mille per aver scelto Asana. Siamo entusiasti di vedere che piace anche al tuo team. Poiché il tuo team sta crescendo su Asana e hai più colleghi che collaborano, al {billableGroupName} momento utilizza più posti di quelli consentiti dal tuo piano."
 "Thanks so much for using Asana. We're excited to see that your {billableGroupName} [...]": null
 "Thanks! [noun]": null
 "Thanks, I'm on it![suggested reply comment draft on a task assigned to [...]": null
@@ -15046,7 +15046,7 @@
 "The Asana account associated with {receiverEmail} for {domainName} under a former HIPAA <br> {deletionDate} [...]": null
 "The Asana account associated with {receiverEmail} {domainNameSupplement} has not been accessed in {deletionDate} [...]": null
 "The Asana integration is now run by Wufoo": null
-"The Billing owner of a Division can update billing information, reassign billing [...]": null
+"The Billing owner of a Division can update billing information, reassign billing [...]": "Il responsabile della fatturazione di una divisione può aggiornare le informazioni di fatturazione, riassegnare la proprietà della fatturazione o scaricare l'ultima fattura. Hanno anche accesso alla console di amministrazione, possono gestire i membri e le autorizzazioni del team e regolare le impostazioni di sicurezza."
 "The Billing owner of an Organization can <link> [...]": null
 "The Board view lets you visualize your work in a clean overview [...]": null
 "The Box + Asana integration allows Asana users to attach files from [...]": null
@@ -15066,7 +15066,7 @@
 "The OneDrive + Asana integration allows Asana users to attach files from [...]": null
 "The Outlook + Asana integration allows Asana users to turn emails into [...]": null
 "The PagerDuty + Asana integration allows teams to use Rules to automatically [...]": null
-"The PagerDuty + Asana integration allows teams to use Rules to automatically [...][new]": null
+"The PagerDuty + Asana integration allows teams to use Rules to automatically [...][new]": "L'integrazione PagerDuty + Asana consente ai team di utilizzare le regole per creare automaticamente incidenti da un account PagerDuty quando vengono soddisfatti determinati parametri del progetto.\n\nQuando un'attività richiede attenzione, i team possono passare dalla creazione manuale di un incidente alla creazione automatica di incidenti per un servizio con il contesto dell'attività. Ad esempio, i team di guardia possono impostare un progetto di assunzione su Asana per creare automaticamente incidenti PagerDuty quando le attività richiedono un follow-up urgente. Gli incidenti PagerDuty avranno quindi il contesto dell'attività di Asana per far progredire il lavoro in modo efficiente."
 "The Power BI + Asana integration allows Asana users to bring a [...]": null
 "The Salesforce + Asana integration allows Asana users to drive seamless collaboration [...]": null
 "The ServiceNow + Asana integration allows teams to automate manual work and [...]": null
@@ -15120,7 +15120,7 @@
 "The copied tasks will be marked as dependent on the same tasks [...]": null
 "The credit card has expired. Please use another payment method.": null
 "The custom field does not exist on the parent object.": null
-"The date range was changed to {dateRangeDueDate}": null
+"The date range was changed to {dateRangeDueDate}": "L'intervallo di date è stato modificato in {dateRangeDueDate}"
 "The date range was removed": null
 "The day the task is created": null
 "The day the task is created, due {dueTime}": null
@@ -15133,7 +15133,7 @@
 "The due date was changed to {dueDateDescription} and the start date was removed": null
 "The due date was removed": null
 "The email address is invalid. Please try again with a different email.": null
-"The email verification link you clicked is invalid.": null
+"The email verification link you clicked is invalid.": "Il link di verifica dell'email su cui hai fatto clic non è valido."
 "The export link was copied to your clipboard.": null
 "The export requested at {time} on {day} is pending. You will receive [...]": null
 "The export requested on {detailedDateAndTime} is pending. You will receive an email {email} [...]": null
@@ -15193,7 +15193,7 @@
 "The parent goal has too many subgoals.": null
 "The password for your Asana account - {email} - has been successfully [...]": null
 "The password is not correct.": null
-"The password you entered is incorrect. Please try again.": null
+"The password you entered is incorrect. Please try again.": "La password inserita non è corretta. Riprova."
 "The person responsible for a task": null
 "The portfolio already contains the maximum number of projects.": null
 "The portfolio link was copied to your clipboard.": null
@@ -15501,7 +15501,9 @@
 "This field can only contain numbers (e.g., 123).": null
 "This field can only contain numbers (e.g., {placeholder}).": null
 "This field can only contain positive numbers (e.g., {placeholder}).": null
-"This field is connected to {count} other questions. Try to avoid conflicts [...]": null
+"This field is connected to {count} other questions. Try to avoid conflicts [...]":
+  "count_one": "Questo campo è collegato a un'altra domanda. Cerca di evitare conflitti in modo che le risposte non vengano sovrascritte."
+  "count_other": "Questo campo è collegato ad {count} altre domande. Cerca di evitare conflitti in modo che le risposte non vengano sovrascritte."
 "This field is disabled on this task. To restore it, make sure [...]": null
 "This field is disabled on this {variant}. To restore it, make sure {parent} [...]":
   "variants": null
@@ -15519,7 +15521,7 @@
 "This file will be viewable after scanning is complete. You can leave [...]": null
 "This flow returns an auth code to your redirect URL via a [...]": null
 "This form has been disabled. Please save your entries and try again later.": null
-"This form is accessible to": null
+"This form is accessible to": "Questo modulo è accessibile a"
 "This form was created in Asana. <link>Create your own.</link>": null
 "This form will be available once it has been fully duplicated": null
 "This form will be available once the project has been duplicated": null
@@ -15607,12 +15609,12 @@
 "This is a sample dialog with a custom UI, for testing": null
 "This is a sample portfolio status update in Asana.": null
 "This is a sample project status update in Asana [...]": null
-"This is a sample topbar for testing. The button logs, links, and dismisses.": null
+"This is a sample topbar for testing. The button logs, links, and dismisses.": "Questa è una barra superiore di esempio per il test. Il pulsante registra, collega e chiude."
 "This is a sample topbar with a custom UI, for testing": null
 "This is a shared field. Changes will affect all projects and portfolios [...]": null
 "This is a shared field. Changes will affect all projects using this field.": null
 "This is a shorter-term goal that's specific to your team.": null
-"This is a shorter-term goal that's specific to your team. It is [...]": null
+"This is a shorter-term goal that's specific to your team. It is [...]": "Questo è un obiettivo a breve termine specifico per il tuo team. È visibile alla tua organizzazione."
 "This is a very long message that will be truncated. The full <STRONG> [...]": null
 "This is an Asana-created custom field.": null
 "This is an example IPC for testing. Button clicks will log by [...]": null
@@ -15644,7 +15646,7 @@
   "variants": null
 "This is your personal space for keeping track of all the work [...]": null
 "This is your space to see and share progress on work. Populate [...]": null
-"This issue has required fields that are not supported. Try a different [...]": null
+"This issue has required fields that are not supported. Try a different [...]": "Questo problema ha richiesto campi non supportati. Provane uno diverso o crea il problema da Jira."
 "This job has been authorized for posting. Please add this position to [...]": null
 "This join team request has already been approved.": null
 "This join team request has already been denied.": null
@@ -15706,7 +15708,7 @@
 "This project has too many columns to view as a Board.": null
 "This project has too many sections to allow section reordering.": null
 "This project has too many sections to view as a Board.": null
-"This project has too many tasks to filter.": null
+"This project has too many tasks to filter.": "Questo progetto ha troppe attività da filtrare."
 "This project has too many tasks to sort by assignee.": null
 "This project has too many tasks to sort by {sort}.": null
 "This project has too many tasks to sort.": null
@@ -15763,7 +15765,7 @@
 "This project outlines our annual company goals and [...] [Template content 93a01efd3983f31597c309633bc8b75e]": null
 "This project template is organized in Board View [...] [Template content -1986693812827181361]": null
 "This project template is organized in Board View [...] [Template content -2897985017749512043]": null
-"This project template is organized in Board View [...] [Template content -874951677906561944]": null
+"This project template is organized in Board View [...] [Template content -874951677906561944]": "Questo modello di progetto è organizzato in vista Bacheca per sezioni e campi personalizzati. Per gli utenti Business, abbiamo anche incluso un modulo di richiesta di post social nella scheda Moduli.\n\nCi sono attività di esempio per aiutarti a iniziare, ma dovresti aggiungere attività, cambiare i nomi delle attività, aggiungere altri campi personalizzati e modificare qualsiasi altra informazione per personalizzare questo progetto. Segui i nostri suggerimenti di seguito e consulta https://blog.asana.com/2017/11/social-media-management-workflows-templates/\n\nInvia un feedback su questo modello:\nhttps://asana.com/research/templates-feedback"
 "This project template is organized in Board View [...] [Template content -8930191372697396465]": null
 "This project template is organized in Board View [...] [Template content 1744638954690677333]": null
 "This project template is organized in Board View [...] [Template content 18843bdb71ce8d0caa2208cf08f55941]": null
@@ -15833,7 +15835,7 @@
 "This project template is set up in Board [...] [Template content 6e9b002658dbf40a0ddd75214a34f70c]": null
 "This project template is set up in Board [...] [Template content 7608342119431767591]": null
 "This project template is set up in Board [...] [Template content 795fcb40bfc40c733cfba3c31588ae89]": null
-"This project template is set up in Board [...] [Template content 7fe9dea68e4c8e75293f7a075d9bf9fe]": null
+"This project template is set up in Board [...] [Template content 7fe9dea68e4c8e75293f7a075d9bf9fe]": "Questo modello di progetto è impostato in vista Bacheca con colonne e tre campi personalizzati creati da Asana per aiutarti a monitorare i piani di sprint del tuo team. La maggior parte dei team crea progetti all'inizio di ogni sprint e tiene traccia del proprio lavoro in ogni fase per assicurarsi di sapere dove si trova il proprio lavoro di sprint.\n\nAbbiamo fornito alcuni contenuti di esempio in questo modello per aiutarti a iniziare, ma dovresti aggiungere attività, cambiarne i nomi, aggiungere altri campi personalizzati e modificare qualsiasi altra informazione per personalizzare questo progetto. Quando sei pronto per iniziare a lavorare, puoi completare questa attività o tenerla nel tuo progetto per accedere facilmente ai nostri suggerimenti qui sotto.\n\nScopri di più su come pianificare i tuoi sprint su Asana:\nhttps://asana.com/guide/examples/eng/sprint-planning\nhttps://academy.asana.com/series/product-use-cases/sprint-planning-course\n\nInvia un feedback su questo modello:\nhttps://asana.com/research/templates-feedback\n\n"
 "This project template is set up in Board [...] [Template content 8345e964ab1d446f2d8a13005b6f8b57]": null
 "This project template is set up in Board [...] [Template content 864189016857881203]": null
 "This project template is set up in Board [...] [Template content 8735575883656556383]": null
@@ -15880,14 +15882,14 @@
 "This project template is set up in List [...] [Template content -6356049268828104073]": null
 "This project template is set up in List [...] [Template content -6534193605455410012]": null
 "This project template is set up in List [...] [Template content -6591154321940844504]": null
-"This project template is set up in List [...] [Template content -6654309938859076648]": null
+"This project template is set up in List [...] [Template content -6654309938859076648]": "Questo modello di progetto è impostato in Vista elenco con sezioni per aiutarti a monitorare il lavoro del tuo team. Abbiamo incluso alcuni contenuti esemplificativi in questo modello per consentirti di iniziare, ma dovrai comunque aggiungere attività, rinominarle e aggiungere ulteriori informazioni per adattare il progetto alle tue esigenze.\n\nInvia un feedback su questo modello:\nhttps://asana.com/research/templates-feedback"
 "This project template is set up in List [...] [Template content -7164794086557600303]": null
 "This project template is set up in List [...] [Template content -7659264471365057961]": null
 "This project template is set up in List [...] [Template content -7771645659248554857]": null
 "This project template is set up in List [...] [Template content -7776940846705227598]": null
 "This project template is set up in List [...] [Template content -7817564945688170343]": null
 "This project template is set up in List [...] [Template content 01d3c4021a1cebe57c2d544d3d33949f]": null
-"This project template is set up in List [...] [Template content 0798aa403f0abf3d1dab6996087357dc]": null
+"This project template is set up in List [...] [Template content 0798aa403f0abf3d1dab6996087357dc]": "Questo modello di progetto è impostato in Vista elenco con sezioni e quattro campi personalizzati creati da Asana per aiutarti a monitorare il feedback dei clienti. La maggior parte dei team utilizza i progetti di feedback quando lancia qualcosa di nuovo o cerca di capire a cosa dare la priorità in base alle esigenze dei clienti.\n\nAbbiamo fornito alcuni contenuti di esempio in questo modello per aiutarti a iniziare, ma dovresti aggiungere attività, cambiarne i nomi, aggiungere altri campi personalizzati e modificare qualsiasi altra informazione per personalizzare questo progetto.\n\nScopri di più sul monitoraggio del feedback con Asana:\nhttps://asana.com/guide/examples/product/product-feedback\n\nInvia un feedback su questo modello:\nhttps://asana.com/research/templates-feedback\n\n"
 "This project template is set up in List [...] [Template content 1166236164620723639]": null
 "This project template is set up in List [...] [Template content 1727112495327236817]": null
 "This project template is set up in List [...] [Template content 1833434723222336356]": null
@@ -15915,13 +15917,13 @@
 "This project template is set up in List [...] [Template content 4539373912536146616]": null
 "This project template is set up in List [...] [Template content 5132f73095be130c6a3c7e70964924e7]": null
 "This project template is set up in List [...] [Template content 52d9692db06f16910fa902a7117c3f54]": null
-"This project template is set up in List [...] [Template content 5512099205464153041]": null
+"This project template is set up in List [...] [Template content 5512099205464153041]": "Questo modello di progetto è impostato in Vista elenco con sezioni per aiutarti a monitorare il lavoro del tuo team. Abbiamo incluso alcuni contenuti esemplificativi in questo modello per consentirti di iniziare, ma dovrai comunque aggiungere attività, rinominarle e modificare qualsiasi altra informazione per adattare il progetto alle tue esigenze.\n\nInvia un feedback su questo modello:\nhttps://asana.com/research/templates-feedback"
 "This project template is set up in List [...] [Template content 55ce2039fb6e846af843d5d6a2a76e73]": null
 "This project template is set up in List [...] [Template content 566825d69554e810f63979fae581a090]": null
 "This project template is set up in List [...] [Template content 570321123216802902]": null
 "This project template is set up in List [...] [Template content 5d1a4869293e475e4add590f17e3971f]": null
 "This project template is set up in List [...] [Template content 5df19d9e678117130c7f9510764ffd77]": null
-"This project template is set up in List [...] [Template content 6078609459446045446]": null
+"This project template is set up in List [...] [Template content 6078609459446045446]": "Questo modello di progetto è impostato in Vista elenco con sezioni e campi personalizzati creati da Asana per aiutarti a monitorare i tuoi account. Abbiamo incluso alcune attività di esempio in questo modello per consentirti di iniziare, ma puoi eliminarle, aggiungere attività diverse, modificare i nomi delle attività, aggiungere altri campi personalizzati e modificare qualsiasi altra informazione per personalizzare questo progetto.\n\nInvia un feedback su questo modello:\nhttps://asana.com/research/templates-feedback"
 "This project template is set up in List [...] [Template content 611235257250603365]": null
 "This project template is set up in List [...] [Template content 6447246831031069586]": null
 "This project template is set up in List [...] [Template content 644917313363900286]": null
@@ -15971,7 +15973,7 @@
 "This project template is set up in List [...] [Template content e94df5f2beb57ff3694ffdeb3e2abd13]": null
 "This project template is set up in List [...] [Template content e9f91da08a46634d698ab4af61a3aad4]": null
 "This project template is set up in List [...] [Template content ec611d24532f6403d91730b7359dee23]": null
-"This project template is set up in List [...] [Template content f5e007885cda3e11b8e38f316f82aeb6]": null
+"This project template is set up in List [...] [Template content f5e007885cda3e11b8e38f316f82aeb6]": "Questo modello di progetto è impostato in Vista elenco con sezioni e campi personalizzati creati da Asana per aiutarti a monitorare il lavoro del tuo team. Abbiamo fornito alcuni contenuti di esempio in questo modello per aiutarti a iniziare, ma dovresti aggiungere attività, cambiarne i nomi, aggiungere altri campi personalizzati e modificare qualsiasi altra informazione per personalizzare questo progetto.\n\nScopri come utilizzare questo modello al seguente link: https://asana.com/guide/examples/nonprofits/digital-fundraising-campaign\n\nInvia un feedback su questo modello: https://asa.na/templatesfeedback"
 "This project template is set up in List [...] [Template content f9a49be0d7a424ff4f82c321c71b4206]": null
 "This project template is set up in List [...] [Template content fa588900fcd4666ebb32639b96475161]": null
 "This project template is set up in List [...] [Template content fd8ef3ea6c8a30e5d51f0edbf0fd5555]": null
@@ -16035,7 +16037,7 @@
 "This story cannot be hearted.": null
 "This story cannot be liked.": null
 "This string <blink>really rocks</blink>, right?": null
-"This sub-goal contributes progress to its parent goal, so you cannot disconnect it.": null
+"This sub-goal contributes progress to its parent goal, so you cannot disconnect it.": "Questo sotto-obiettivo contribuisce al progresso del suo obiettivo principale, quindi non è possibile disconnetterlo."
 "This sub-goal must have a metric to add to automatic progress.": null
 "This sub-goal's metric is incompatible with the parent goal's.": null
 "This subgoal is the parent goal of the goal you're trying to [...]": null
@@ -16113,7 +16115,7 @@
 "This task was unmarked today": null
 "This task will appear in the assignee's My Tasks list.": null
 "This team contains goals you don't have access to. <a>Learn more</a>": null
-"This team does not have space for all of the members.": null
+"This team does not have space for all of the members.": "Questo team non ha spazio per tutti i membri."
 "This team has goals without time periods.": null
 "This team has more than {max} members. To see the full members [...]": null
 "This team has no members. [Request to] Join to become the first one!": null
@@ -16156,7 +16158,7 @@
 "This template is your jumping-off point to make [...] [Template content d1bba3795821eb0d4ea5cbae137d08be]": null
 "This template makes daily standups more efficient and [...] [Template content -720842378406726941]": null
 "This template makes daily standups more efficient and [...] [Template content 45d73e32c5edf9acb13fc0eb6ec23cdf]": null
-"This template uses Premium features.": null
+"This template uses Premium features.": "Questo modello utilizza le funzionalità Premium."
 "This template was converted from an older version of Project Templates. To [...]": null
 "This token has been deauthorized by an admin in one of your organizations.": null
 "This token has expired. Reset it and copy the new token into [...]": null
@@ -16172,7 +16174,7 @@
 "This user was removed from the organization [trigger]": null
 "This user was removed from the organization. Unassign or add a new assignee": null
 "This user was removed from the organization. Unassign or add a new assignee.": null
-"This version of the Asana app is missing some features. Update it [...]": null
+"This version of the Asana app is missing some features. Update it [...]": "In questa versione dell'app Asana mancano alcune funzionalità. Aggiornalo per visualizzare dettagli più accurati su questo obiettivo."
 "This video could not be transcribed": null
 "This view is private to only you. Adding teammates will allow them <link> [...]": null
 "This view is private to only you. Adding teammates will allow them to view, edit, <link> [...]": null
@@ -16208,7 +16210,7 @@
 "This will disable the ability to search content from Fabric apps from [...]": null
 "This will invalidate your current token and may cause API calls from [...]": null
 "This will make the read-only link inaccessible. If the project is made [...]": null
-"This will not copy installations, project activations, user authorizations, or client secrets <link> [...]": null
+"This will not copy installations, project activations, user authorizations, or client secrets <link> [...]": "Questo non copierà installazioni, attivazioni di progetti, autorizzazioni utente o segreti del cliente da{appName}. <link>Scopri di più</link>"
 "This will not impact you unless you edit your plan on or <a> [...]": null
 "This will not impact you unless you edit your plan on or [...]": null
 "This will only take a minute, and then you'll be able to [...]": null
@@ -16339,7 +16341,7 @@
 "Tip: You can change your default workspace where messages are sent in [...]": null
 "Tip: to make this a Task Template, click [...] [Template content 3523289be5a58d6ec5c863e8a479d64a]": null
 "Tip: to make this a Task Template, click [...] [Template content 4d977a47625a9da4ffbc441e9a897fc8]": null
-"Tip: {title}": null
+"Tip: {title}": "Suggerimento: {title}"
 "Tips [noun]": null
 "Tips [noun] [Template content a0d4cc0f54602c3f247c72f15a7d2dbf]": null
 "Tips and suggestions": null
@@ -16350,7 +16352,7 @@
 "Title for {projectName} Brief": null
 "Title of Template": null
 "Title of template": null
-"Title of template is required.": null
+"Title of template is required.": "Il titolo del modello è obbligatorio."
 "Title of the requested post": null
 "Title of update": null
 "Title: Topic: Goal: Stakeholders:   [Template content 5364678957341851486]": null
@@ -16390,7 +16392,7 @@
 "To add an email use the Asana web app.": null
 "To add {requestorHyperink} to this goal: 1. Go to {objectHyperlink} 2. Click {requestorHyperlink} [...]": null
 "To add {requestorHyperink} to this project template: 1. Go to {objectHyperlink} 2. In the template access section, [...]": null
-"To add {requestorHyperlink} to this Portfolio: 1. Go to {objectHyperlink} 2. Click the <b>Share</b> button at [...]": null
+"To add {requestorHyperlink} to this Portfolio: 1. Go to {objectHyperlink} 2. Click the <b>Share</b> button at [...]": "Per aggiungere {requestorHyperlink} a questo portfolio:\n\n1. Vai a\n {objectHyperlink}2. Fai clic sul</b> pulsante <b>Condividi nella parte superiore dello schermo\n3. Inserisci {requestorHyperlink} o il loro indirizzo e-mail\n\nInvieremo loro una notifica quando saranno stati aggiunti.\n\nSe non si desidera concedere l'accesso, è sufficiente completare questa attività."
 "To add {requestorHyperlink} to this conversation: 1. Go to {objectHyperlink} 2. Click the + at the bottom [...]": null
 "To add {requestorHyperlink} to this conversation: 1. Go to {objectHyperlink} 2. Click the + at the bottom [...] [collab]": null
 "To add {requestorHyperlink} to this goal: 1. Go to {objectHyperlink} 2. Click <b> [...]": null
@@ -16468,7 +16470,7 @@
 "To get a copy of your latest invoice, or to make changes [...]": null
 "To get a copy of your latest invoice, please contact your Asana authorized reseller.": null
 "To get going quickly, tell us what you would like to do first.": null
-"To get going quickly, tell us what you'd like to do first.": null
+"To get going quickly, tell us what you'd like to do first.": "Per iniziare rapidamente, dicci prima cosa vorresti fare."
 "To get started, Asana can help you set up your first Portfolio.": null
 "To get started, just verify your email address by visiting:": null
 "To get task-specific updates, add relevant stakeholders as [...] [Template content 781695004726069818]": null
@@ -16629,7 +16631,7 @@
 "Total time spent in {sectionName} by {variant}":
   "variants": null
 "Total time spent not in a section": null
-"Total time spent not in a section by {customGroupBy}": null
+"Total time spent not in a section by {customGroupBy}": "Tempo totale trascorso non in una sezione per {customGroupBy}"
 "Total time spent not in a section by {variant}": null
 "Total time to complete": null
 "Total time to complete by {customGroupBy}": null
@@ -16692,7 +16694,7 @@
 "Tracking & reporting [Template content 5822046355194614115]": null
 "Tracking & reporting [Template content b4d018f7c0d2d7659272457ce29f048d]": null
 "Training [noun] [Template content 6763050428030668866]": null
-"Training [noun] [Template content cf270e40d273f9e7fd7c3061729060c3]": null
+"Training [noun] [Template content cf270e40d273f9e7fd7c3061729060c3]": "Formazione"
 "Training audience [Template content 2773201752227445153]": null
 "Training webinars": null
 "Transcript for {topic}": null
@@ -16700,7 +16702,7 @@
 "Transcript is processing": null
 "Translate [noun] [Template content deccbe4e9083c3b5f7cd2632722765bb]": null
 "Translate copy": null
-"Translate copy [Template content 5f88dc43c8103a1e67d35886584b407a]": null
+"Translate copy [Template content 5f88dc43c8103a1e67d35886584b407a]": "Traduci copia"
 "Transportation [noun] [Template content 7908346220854481700]": null
 "Transportation [noun] [Template content a600971fdd23ea1f5685d7ee01d5f5c3]": null
 "Trash project snapshot": null
@@ -16776,7 +16778,7 @@
 "Try copying the entire link from your email and pasting it into [...]": null
 "Try for free": null
 "Try it": null
-"Try it free": null
+"Try it free": "Provalo gratis"
 "Try it now": null
 "Try it now [button]": null
 "Try it out": null
@@ -16802,7 +16804,7 @@
 "Trying to create a section? Use our new shortcut {shortcut}": null
 "Trying to reconnect. Changes will be synced once your connection is restored.": null
 "Tue": null
-"Tue [Tuesday]": null
+"Tue [Tuesday]": "Mar"
 "Tue [noun]": null
 "Tuesday": null
 "Tuesday Agenda [Template content 8854fe89c536153f224887f4ffbb0050]": null
@@ -16964,7 +16966,7 @@
 "Unknown Project": null
 "Unknown User": null
 "Unlimited activity logs": null
-"Unlimited file storage (100MB per file)": null
+"Unlimited file storage (100MB per file)": "Memoria file illimitata (100 MB per file)"
 "Unlimited free guests": null
 "Unlimited messages": null
 "Unlimited projects": null
@@ -16997,7 +16999,7 @@
 "Unnamed team": null
 "Unpin from Top": null
 "Unpin from top": null
-"Unread [notifications] only": null
+"Unread [notifications] only": "Solo non letti"
 "Unscheduled Tasks": null
 "Unscheduled [adj]": null
 "Unscheduled [noun] [Template content 5279667898416958101]": null
@@ -17010,7 +17012,7 @@
 "Unscheduled approvals by {variant}":
   "variants": null
 "Unscheduled milestones": null
-"Unscheduled milestones by {customGroupBy}": null
+"Unscheduled milestones by {customGroupBy}": "Traguardi non programmati per {customGroupBy}"
 "Unscheduled milestones by {grouping}": null
 "Unscheduled milestones by {variant}":
   "variants": null
@@ -17122,12 +17124,12 @@
 "Update several security controls in the admin console": null
 "Update status": null
 "Update tag": null
-"Update task": null
+"Update task": "Aggiorna attività"
 "Update tasks directly in Slack. Get Slack notifications anytime tasks are updated [...]": null
 "Update the blog": null
 "Update the project description with instructions for how [...] [Template content 3589459466943656630]": null
 "Update the project description with instructions for how [...] [Template content 54c79a64665de1fdd2737cd4368ba2a8]": null
-"Update this domain's time periods to match your Organization's annual operating rhythm [...]": null
+"Update this domain's time periods to match your Organization's annual operating rhythm [...]": "Aggiorna i periodi di tempo di questo dominio in base al ritmo operativo annuale della tua organizzazione (ad es. anno fiscale). La tua organizzazione può utilizzare i periodi di tempo per cose come gli obiettivi aziendali e del team."
 "Update this domain's time periods to match your Workspace's annual operating rhythm [...]": null
 "Update this goal's progress automatically with projects.": null
 "Update this goal's progress automatically with sub-goals.": null
@@ -17161,7 +17163,7 @@
 "Updated! [verb]": null
 "Updated! [verb] Workload [noun]": null
 "Updates in {domainName}": null
-"Updates need at least one section with a title. You can add [...]": null
+"Updates need at least one section with a title. You can add [...]": "Gli aggiornamenti richiedono almeno una sezione con un titolo. È possibile aggiungere una sezione utilizzando il pulsante più."
 "Updates needed to our Asana {variant} plan":
   "variants": null
 "Updates on my tasks": null
@@ -17324,7 +17326,7 @@
 "Use \"Do Not Disturb\" to silence notifications during [...] [Template content 1499149996998572525]": null
 "Use \"Do Not Disturb\" to silence notifications during [...] [Template content 1612250603600778469]": null
 "Use \"Do Not Disturb\" to silence notifications during [...] [Template content c3ff7604f7e99c1c499e83e7b74c1f91]": null
-"Use \"Time in section\" or \"Time in custom field\" to see how [...]": null
+"Use \"Time in section\" or \"Time in custom field\" to see how [...]": "Usa \"Tempo nella sezione\" o \"Tempo nel campo personalizzato\" per vedere quanto tempo impiegano le attività a essere completate all'interno dei flussi di lavoro."
 "Use @mentioning to reference existing tasks and projects [...] [Template content -1483785432219252144]": null
 "Use @mentioning to reference existing tasks and projects [...] [Template content c5f3c0fb91d4929100e5189b91b63da6]": null
 "Use Agency? [Template content b4a10f74a4724229baed52a332117cad]": null
@@ -17385,7 +17387,7 @@
 "Use Rules to automatically complete when their status [...] [Template content 162716590590683253]": null
 "Use Rules to automatically complete when their status [...] [Template content 18b632fd671ce5c032cb44a8700a50c0]": null
 "Use Rules to ensure tasks get routed to [...] [Template content 24d95b3c2054753875ab5ad0e471632a]": null
-"Use Rules to ensure tasks get routed to [...] [Template content 2911678563275229091]": null
+"Use Rules to ensure tasks get routed to [...] [Template content 2911678563275229091]": "Utilizza le regole per assicurarti che le attività vengano indirizzate alla persona o al progetto giusto in base allo stato o ad altri campi personalizzati."
 "Use Rules to ensure tasks get routed to [...] [Template content 545403626821113315]": null
 "Use Rules to multi-home tasks into relevant projects, [...] [Template content -5214875036451281760]": null
 "Use Rules to multi-home tasks into relevant projects, [...] [Template content -8766335120566982105]": null
@@ -17457,7 +17459,7 @@
 "Use start and due dates on each task [...] [Template content 936c10c7f4543e30044e192e8ee60b27]": null
 "Use start and due dates to show contract length. [Template content -6546241174162518625]": null
 "Use start and due dates to show contract length. [Template content 149dcf205aee34da1080e13a33d274f9]": null
-"Use start date if you know when your project will begin.": null
+"Use start date if you know when your project will begin.": "Usa la data di inizio se sai quando inizierà il tuo progetto."
 "Use sub-goals to automatically update this goal's progress.": null
 "Use subtasks to break up work into smaller parts or among different <b> [...]": null
 "Use task date and time": null
@@ -17504,19 +17506,19 @@
 "Use the task description to include relevant instructions [...] [Template content -136155442265015438]": null
 "Use the task description to include relevant instructions [...] [Template content 878a0c0c9da902924cd1502697c2765b]": null
 "Use the team goals tab to track and manage goals across teams [...]": null
-"Use the {icannLookupLink}. The registrar will be under Registrar Information after you [...]": null
+"Use the {icannLookupLink}. The registrar will be under Registrar Information after you [...]": "Utilizzare il tasto{icannLookupLink}. Il registrar sarà sotto Informazioni del registrar dopo aver inserito il nome di dominio."
 "Use this Task to determine the budget required [...] [Template content 2772328988979691637]": null
 "Use this Task to document your fundraising campaign [...] [Template content 3692464611681896212]": null
 "Use this Task to document your fundraising campaign [...] [Template content a95da4a3f9c5ea93968db9295a7d5dae]": null
 "Use this Task to help strategize building relationships [...] [Template content 8735719171137965581]": null
 "Use this Task to provide an overview of [...] [Template content -7830010718560583227]": null
 "Use this as an opportunity to review the [...] [Template content b9c6ce425c8003b35706d60f7cf8c1ea]": null
-"Use this as both a preview for this [...] [Template content 09921ca407e9dc221d632d32a08bb416]": null
+"Use this as both a preview for this [...] [Template content 09921ca407e9dc221d632d32a08bb416]": "Utilizzalo sia come anteprima per questo gruppo sia come un'opportunità per raccogliere e incorporare feedback nel tuo piano."
 "Use this comment section to collaborate with your team on this specific goal.": null
 "Use this dashboard to monitor the health and progress of your team's work.": null
 "Use this field to measure your team's workflow based on how long [...]": null
 "Use this form to create a new request, so the IT team [...]": null
-"Use this form to request new content. Please be as specific as [...]": null
+"Use this form to request new content. Please be as specific as [...]": "Utilizza questo modulo per richiedere nuovi contenuti. Ti preghiamo di essere il più specifico possibile: ci aiuta a risponderti in modo tempestivo!"
 "Use this form to submit a creative request so the team can [...]": null
 "Use this form to submit ideas for new posts on our social channels!": null
 "Use this form to submit work requests.": null
@@ -17558,7 +17560,7 @@
 "Use this template to build a sales strategy [...] [Template content 4661fb2bb6cbd66cac54bbbe1c0968de]": null
 "Use this template to build a sales strategy [...] [Template content 73014526474319437]": null
 "Use this template to centralize all IT requests in one place so [...]": null
-"Use this template to centralize all of your team's creative requests so [...]": null
+"Use this template to centralize all of your team's creative requests so [...]": "Utilizza questo modello per centralizzare tutte le richieste creative del tuo team in modo da avere un quadro chiaro del lavoro richiesto da altri team e organizzare il lavoro per priorità, data di scadenza e ambito del progetto."
 "Use this template to centralize all work requests and prioritize and assign [...]": null
 "Use this template to centralize your team's creative requests to get a [...]": null
 "Use this template to clarify goals, organize key [...] [Template content 1759398768037350483]": null
@@ -17647,7 +17649,7 @@
 "User restoration has failed for {reactivated_user_name}. {reactivated_user_name} will have no valid way [...]": null
 "User's teams": null
 "Users can click this button to access the Lookup and the Modal Form.": null
-"Users can click this button to add or create resources from tasks.": null
+"Users can click this button to add or create resources from tasks.": "Gli utenti possono fare clic su questo pulsante per aggiungere o creare risorse dalle attività."
 "Users will be asked to log in again after this amount of [...]": null
 "Users will be asked to log in again after this amount of time.": null
 "Using the app, scan the QR code or manually enter the following {code} [...]": null
@@ -17670,7 +17672,7 @@
 "Values must match drop-down options": null
 "Values must match multi-select options": null
 "Values must match single-select options": null
-"Vanuatu [proper noun]": null
+"Vanuatu [proper noun]": "Vanuatu"
 "Vatican City": null
 "Vatican City State (Holy See)": null
 "Vendor - Agency [Template content 5475933709927665839]": null
@@ -17796,7 +17798,7 @@
 "View apps and continue": null
 "View as calendar": null
 "View as list": null
-"View as tiles": null
+"View as tiles": "Visualizza come riquadri"
 "View change history": null
 "View chart": null
 "View comments": null
@@ -17839,7 +17841,7 @@
 "View message": null
 "View milestone in Asana": null
 "View more subtasks": null
-"View my apps": null
+"View my apps": "Visualizza le mie app"
 "View my deleted tasks & messages": null
 "View on Overview tab": null
 "View on Progress tab": null
@@ -17889,7 +17891,7 @@
 "View your tasks, share designs, and incorporate feedbackall from Creative Cloud.": null
 "View {assigneeName}'s My Tasks": null
 "View {count} Errors and Warnings": null
-"View {name}'s tasks": null
+"View {name}'s tasks": "Visualizza le{name} attività di"
 "View {projectName} on Timeline": null
 "View {team} overview": null
 "View: Calendar": null
@@ -17945,7 +17947,7 @@
 "Waiting to Review [Template content 5591112765178966489]": null
 "Waiting to Review [Template content df9d2f2cc561210dcfd91dca47be4270]": null
 "Waiting to Start [Template content 2165631402258291512]": null
-"Wake Island": null
+"Wake Island": "Isola di Wake"
 "Wallace Corp DevOps": null
 "Wallis and Futuna": null
 "Wallis and Futuna Islands": null
@@ -17969,7 +17971,7 @@
 "Watch [noun] [Template content f20658650d987d31063b593c05980397]": null
 "Watch tutorial videos": null
 "Watch work happen in real time": null
-"Ways to Use Asana": null
+"Ways to Use Asana": "Come usare Asana"
 "Ways to use Asana": null
 "We accept the following cards:": null
 "We apologize for interrupting your flow. Thank you for accommodating us as [...]": null
@@ -18067,7 +18069,7 @@
   "variants": null
 "We want to surface the most relevant work for you. <feedbackLink>Send feedback</feedbackLink>!": null
 "We were unable to attach the files due to insufficient permissions. Please [...]": null
-"We weren't able to change your default Asana domain. Please try again.": null
+"We weren't able to change your default Asana domain. Please try again.": "Non siamo riusciti a modificare il tuo dominio Asana predefinito. Riprova."
 "We will be focusing on teams and how they have come together [...]": null
 "We will be performing system maintenance...": null
 "We will be running our Season Marketing Campaign over the next quarter [...]": null
@@ -18089,7 +18091,7 @@
 "We'll let you know when you've been added to this task.": null
 "We'll meet every Wednesday at 3:30pm in room 301, or at this <span> [...]": null
 "We'll personalize Asana to help you get started.": null
-"We'll refer Asana users to this URL if they require more information [...]": null
+"We'll refer Asana users to this URL if they require more information [...]": "Inviteremo gli utenti Asana a questo URL se hanno bisogno di ulteriori informazioni sulla tua app."
 "We'll remind you again.": null
 "We'll remind you again. You can also <link>browse our short video tutorials</link> [...]": null
 "We'll remind you again. You can also explore our <link>help resources</link> for [...]": null
@@ -18099,7 +18101,7 @@
 "We'll use this info to suggest topics for your 1:1": null
 "We'll use this project to coordinate and manage [...] [Template content 1711f847614e14aa57c66ee7f784e65f]": null
 "We'll use this project to coordinate discussion topics [...] [Template content 9dbf3248b0061ff325f7d6203ca3523f]": null
-"We'll use this project to receive and triage [...] [Template content 849008877567190487]": null
+"We'll use this project to receive and triage [...] [Template content 849008877567190487]": "Utilizzeremo questo progetto per ricevere e valutare le richieste IT. Utilizza i campi Priorità e Avanzamento per tenere informato il team sulle attività che stai svolgendo."
 "We'll use this project to receive and triage [...] [Template content b14711dda01e413ed226690be8af28b6]": null
 "We'll use this project to run our team [...] [Template content -808217821052747392]": null
 "We'll use this project to run our team [...] [Template content 4271291626a968877c0aa8fd0efbe897]": null
@@ -18124,7 +18126,7 @@
 "We're giving this email a makeover! Soon, your summary email will have <link> [...]": null
 "We're giving this email a makeover! Soon, your task update email will <link> [...]": null
 "We're giving you complimentary access to Asana's most popular paid features. No [...]": null
-"We're going to be launching an amazing new community mobile app in [...]": null
+"We're going to be launching an amazing new community mobile app in [...]": "Nei prossimi mesi lanceremo una nuova fantastica app mobile per la community e vorremmo creare una pagina di destinazione in cui le persone possano saperne di più. Questa richiesta di sito web comporta una nuova pagina di destinazione e aggiornamenti ad alcune esistenti."
 "We're happy to work with student groups using Asana. <a>Learn more</a>": null
 "We're having some trouble with your billing information": null
 "We're having some trouble with your team's billing information": null
@@ -18161,7 +18163,7 @@
 "We've updated our Privacy Statement, which will be effective December 15, 2021. [...]": null
 "We've updated our plan sizes and prices. If you have questions, we're <a> [...]": null
 "Web Design Process": null
-"Web Design [Business] [Template content 04dd3ef2955e5081c5fe98088cabd0c9]": null
+"Web Design [Business] [Template content 04dd3ef2955e5081c5fe98088cabd0c9]": "Web Design [Business]"
 "Web Design [premium] [Template content 597d590870257df4c90b48db157064c2]": null
 "Web Production & Planning [Business] [Template content 7df2894dd9afb3590e6d0ef3ec5fac3d]": null
 "Web Production & Planning [Premium] [Template content dedc363db777151f534824952ea67aab]": null
@@ -18456,7 +18458,7 @@
   "variants": null
 "When your team @ mentions this piece of work, the reference is <link> [...]": null
 "When your team @ mentions this piece of work, the reference is added to the activity feed. <link>Learn more</link>.": null
-"When your to do is done, mark it complete. You might [...]": null
+"When your to do is done, mark it complete. You might [...]": "Quando hai finito, contrassegnalo come completato. Potresti persino vedere un <link>unicorno...</link>"
 "When your to do is done, mark it complete. You might even <link> [...]": null
 "When your trial ends on {trialEndDate}, your new {variant} total will be {totalPrice} [...]":
   "variants": null
@@ -18528,7 +18530,7 @@
 "Wire Transfer": null
 "Wireframe homepage": null
 "Wires & Brackets [Template content 4b3b130dd09ecd747ef2f3cfdd753c45]": null
-"With Any Value": null
+"With Any Value": "Con qualsiasi valore"
 "With Asana Premium you won't be restricted to the amount of team [...]": null
 "With Copy [Template content 4385068153125024686]": null
 "With Copy [Template content 85321fecd970c029541fff9f65f6ab6c]": null
@@ -18585,7 +18587,7 @@
 "Work due soon": null
 "Work email": null
 "Work health [category]": null
-"Work in the language you know best. Asana is now available (ko, sv, it)[...]": null
+"Work in the language you know best. Asana is now available (ko, sv, it)[...]": "Lavora nella lingua che conosci meglio. Asana è ora disponibile in coreano, svedese e italiano."
 "Work in the language you know best. Asana is now available in [...]": null
 "Work on big ideas, without the busywork.": null
 "Work requests, Logistics planning": null
@@ -18661,12 +18663,12 @@
 "Wufoo Domain": null
 "Wufoo Form": null
 "Wufoo [proper noun]": null
-"X-Large (1-2 weeks) [Template content 1800145241721851081]": null
+"X-Large (1-2 weeks) [Template content 1800145241721851081]": "X-Large (1-2 settimane)"
 "X-axis [noun]": null
 "X.509 certificate": null
 "XLarge [noun] [Template content -682754806216054197]": null
 "XLarge [noun] [Template content 7e3974f53d1c28e788066dbaf5377797]": null
-"XXX [CVV placeholder]": null
+"XXX [CVV placeholder]": "XXX"
 "XXXX XXXX XXXX XXXX [Credit card placeholder]": null
 "Y-axis [noun]": null
 "YY [noun]": null
@@ -18687,7 +18689,7 @@
 "Yes, this time": null
 "Yes. As of February 2019, we will apply state and local sales [...]": null
 "Yesterday": null
-"Yesterday [noun, adverb]": null
+"Yesterday [noun, adverb]": "Ieri"
 "Yesterday [noun]": null
 "Yeti Systems [Template content 2669730166632686733]": null
 "Yeti Systems [Template content b81ad98257e5f0e10ee548fbea645981]": null
@@ -18705,7 +18707,7 @@
 "You added {appName} to My Tasks": null
 "You added {appName} to {count} projects": null
 "You already have a 1:1 project with {name}": null
-"You already have a coupon on your account. <link>Contact sales</link> for help.": null
+"You already have a coupon on your account. <link>Contact sales</link> for help.": "Hai già un coupon sul tuo account. <link>Contatta il reparto vendite</link> per ricevere assistenza."
 "You already have a coupon on your account. Contact sales to adjust [...]": null
 "You already have an account with Asana. You can access Asana any [...]": null
 "You already liked {taskLink}. Do you want to remove your like?": null
@@ -18746,7 +18748,7 @@
 "You are currently viewing teams you are on. To see other teams, <link> [...]": null
 "You are currently viewing teams {username} is a member of. To see <link> [...]": null
 "You are currently viewing teams {username} is not a member of. To <link> [...]": null
-"You are downgrading to a Premium trial": null
+"You are downgrading to a Premium trial": "Stai passando a una versione di prova Premium"
 "You are eligible for Asana for Nonprofits!": null
 "You are joining {domainName} at Asana. <a>This doesn't look like my organization</a>.": null
 "You are joining {domainName} at Asana. If this doesn't look like your {url} [...]": null
@@ -18804,12 +18806,12 @@
   "variants": null
 "You aren't sharing work with the recipients": null
 "You aren't sharing work with {recipientName}": null
-"You assigned yourself a task on {absoluteDate}": null
+"You assigned yourself a task on {absoluteDate}": "Ti sei assegnato un compito il {absoluteDate}"
 "You assigned yourself a task {relativeDate}": null
 "You can <a>create a new project</a> in Asana": null
 "You can add a task to this list by sending an email to:": null
 "You can add other project members manually later.": null
-"You can add rules once project duplication is complete.": null
+"You can add rules once project duplication is complete.": "È possibile aggiungere regole una volta completata la duplicazione del progetto."
 "You can also add a message to an existing task in Asana [...]": null
 "You can also copy and paste the link to log in at: <br> [...]": null
 "You can also reply to add a comment": null
@@ -18820,14 +18822,14 @@
 "You can cc teammates to add them as task collaborators": null
 "You can cc teammates to add them as task followers": null
 "You can change the layout at any time.": null
-"You can change this later.": null
+"You can change this later.": "Puoi modificarlo in un secondo momento."
 "You can change this setting any time at `/asana settings`": null
 "You can click this link to see your tasks: {link}": null
 "You can collect requests in two ways: 1. [...] [Template content 2596922303494536947]": null
 "You can collect requests in two ways: 1. [...] [Template content e2ba060caf44795cb5bf80ce9b5ad809]": null
 "You can comment and link reference work, but can't edit anything in [...]": null
 "You can connect daily tasks to company strategy. Set your team's Goals.": null
-"You can connect daily tasks to key objectives. Set your team's Goals.": null
+"You can connect daily tasks to key objectives. Set your team's Goals.": "Puoi collegare le attività quotidiane agli obiettivi chiave. Imposta gli obiettivi del tuo team."
 "You can continue to Asana and create tasks for your to-dos, but [...]": null
 "You can continue to Asana to start experimenting by creating basic tasks. [...]": null
 "You can continue to access your Asana account.": null
@@ -18868,7 +18870,7 @@
 "You can now pay for your Asana subscription directly from your bank account": null
 "You can now see the project's tasks and conversations.": null
 "You can now see the project's tasks and messages.": null
-"You can now see the team's projects and conversations.": null
+"You can now see the team's projects and conversations.": "Ora puoi vedere i progetti e le conversazioni del team."
 "You can now see the team's projects and messages.": null
 "You can now see this team's projects and messages, and manage this [...]": null
 "You can now see this team's projects and messages, and manage this team's membership and settings.": null
@@ -18878,7 +18880,7 @@
 "You can now view Timeline on Portfolios to understand the sequence of [...]": null
 "You can only comment on one or more of the selected tasks.": null
 "You can only comment on this goal.": null
-"You can only comment on this project": null
+"You can only comment on this project": "Puoi solo commentare questo progetto"
 "You can only comment on this project.": null
 "You can only comment on this task.": null
 "You can only link meetings you are the owner of": null
@@ -18896,7 +18898,7 @@
 "You can send a message in this team by sending an email to:": null
 "You can send at most {maxNumInvites} invitations at this time.": null
 "You can set up a rule that will [...] [Template content -2351828529828677615]": null
-"You can set up a rule that will [...] [Template content 041bee9b7577916bfad26d9511c1a00a]": null
+"You can set up a rule that will [...] [Template content 041bee9b7577916bfad26d9511c1a00a]": "Puoi impostare una regola che aggiungerà automaticamente le richieste ai progetti del team appropriato in base al campo personalizzato \"Team\""
 "You can set up a rule that will [...] [Template content 3917200882482343825]": null
 "You can specify at most one of {before_name} or {after_name}.": null
 "You can start a conversation in this team by sending an email [...]": null
@@ -18911,7 +18913,7 @@
 "You can't delete this project right now as it's being converted to [...]": null
 "You can't delete this project right now as it's being created from [...]": null
 "You can't delete this project template right now as a project is [...]": null
-"You can't duplicate a question with name or email question under its branch": null
+"You can't duplicate a question with name or email question under its branch": "Non è possibile duplicare una domanda con nome o domanda e-mail sotto la sua filiale"
 "You can't edit this rule as a comment-only project member.": null
 "You can't invite this external guest due to admin policy.": null
 "You can't invite this person because the administrator of this account doesn't [...]": null
@@ -18942,7 +18944,7 @@
 "You cannot remove the Billing owner from their last team because they [...]": null
 "You cannot remove the final full team member from the team. Remove [...]": null
 "You cannot remove this member from their last team. If you want [...]": null
-"You cannot remove this team admin because you are not a team admin.": null
+"You cannot remove this team admin because you are not a team admin.": "Non puoi rimuovere questo amministratore del team perché non sei un amministratore del team."
 "You cannot remove yourself from this team. The billing owner of a [...]": null
 "You cannot save this layout as default with comment only permission": null
 "You cannot set `resource_subtype` on sections.": null
@@ -18959,7 +18961,7 @@
 "You completed this task:": null
 "You created 5 projects in the past month": null
 "You created quite a few projects this month": null
-"You currently have edit access to this template. If you remove yourself, [...]": null
+"You currently have edit access to this template. If you remove yourself, [...]": "Al momento hai accesso in modifica a questo modello. Se ti rimuovi, non potrai utilizzare, visualizzare o modificare il modello."
 "You currently have edit access to this template. If you remove yourself, you'll only [...]": null
 "You currently have editing access to this project, {projectName}. If you remove [...]": null
 "You currently have editing access to this project. If you remove yourself, [...]": null
@@ -18971,7 +18973,7 @@
 "You do not have access to the deleted project. Are you sure [...]": null
 "You do not have access to the deleted team. Are you sure [...]": null
 "You do not have access to the parent of this task.": null
-"You do not have access to this workspace.": null
+"You do not have access to this workspace.": "Non hai accesso a questo spazio di lavoro."
 "You do not have permission to create or share a read-only link.": null
 "You do not have permission to create or share links.": null
 "You do not have permission to create or share read-only links.": null
@@ -19041,7 +19043,7 @@
 "You have disabled biometric authentication for your organization": null
 "You have disabled cross-project reporting for your Organization.": null
 "You have disabled external link sharing for your Organization.": null
-"You have disabled link sharing for your Organization.": null
+"You have disabled link sharing for your Organization.": "Hai disabilitato la condivisione dei link per la tua organizzazione."
 "You have disabled read-only project view link sharing for your Organization.": null
 "You have disabled read-only project view link sharing for your organization.": null
 "You have disabled recorded videos for your organization": null
@@ -19070,14 +19072,14 @@
 "You have no invoices.": null
 "You have no open goals": null
 "You have no tasks assigned to others right now.": null
-"You have not been added to the team. If you think this [...]": null
+"You have not been added to the team. If you think this [...]": "Non sei stato aggiunto al team. Se ritieni che si tratti di un errore, contatta un amministratore del team."
 "You have published your announcement. It will be visible to all users [...]": null
 "You have reached the {max} item limit. If you have any questions, [...]": null
 "You have reassigned the billing owner. As a reminder, you can no [...]": null
 "You have reassigned the billing owner. Just a reminder: you will now [...]": null
 "You have received a request to {variant} from {requesterName} [...]":
   "variants": null
-"You have removed your announcement. It is no longer visible to members.": null
+"You have removed your announcement. It is no longer visible to members.": "Hai rimosso il tuo annuncio. Non è più visibile ai membri."
 "You have removed yourself from this task:": null
 "You have resent an invite to {memberName}.": null
 "You have restricted attachment permissions for your organization": null
@@ -19172,7 +19174,7 @@
 "You might be submitting too many requests or refreshing the form too [...]": null
 "You must add your work email to your Asana account before you [...]": null
 "You must be a full member of both teams to move a [...]": null
-"You must be a full member of {domainName} to upgrade the Organization.<br></br><a>Learn More</a>": null
+"You must be a full member of {domainName} to upgrade the Organization.<br></br><a>Learn More</a>": "Devi essere un membro a pieno titolo di {domainName} per aggiornare l'organizzazione.<br></br><a>Scopri di più</a>"
 "You must be a full member of {domainName} to upgrade the Workspace.<br></br><a>Learn More</a>": null
 "You must be a full member of {domainName} to upgrade the {teamName} <br> <a> [...]": null
 "You must be a full member of {domainName} to upgrade the {teamName} team.<br></br><a>Learn More</a>": null
@@ -19187,7 +19189,7 @@
 "You must enter your team's name exactly before deleting it.": null
 "You must give the application a name.": null
 "You must log in to Google with your {email} email to turn [...]": null
-"You must login to Google with an email address associated with this account": null
+"You must login to Google with an email address associated with this account": "Devi accedere a Google con un indirizzo email associato a questo account"
 "You must login to Google with {emailAddress}": null
 "You must login to Google with {email}": null
 "You must provide `due_at` when setting `start_at.": null
@@ -19205,7 +19207,7 @@
 "You need a dropdown field in this project in order to use rules.": null
 "You need to authenticate Asana for Slack before you can use it.": null
 "You need to log into Asana. If nothing happens, try disabling pop-up [...]": null
-"You need to update to the newest version of Asana.": null
+"You need to update to the newest version of Asana.": "Devi eseguire l'aggiornamento alla versione più recente di Asana."
 "You need to upgrade to restore Premium features.": null
 "You no longer have access to the project {visible_project_name} in the {project_domain_name} [...]": null
 "You no longer have access to this project": null
@@ -19280,7 +19282,7 @@
 "You will be charged {total} on an annual basis starting today. Your {renewalDate} credit [...]": null
 "You will be credited {price} for removing {numSeats} seats from your plan, {variant} {totalPrice} [...]":
   "variants": null
-"You will be immediately logged out of all sessions except this current browser.": null
+"You will be immediately logged out of all sessions except this current browser.": "Sarai immediatamente disconnesso da tutte le sessioni ad eccezione di questo browser corrente."
 "You will be notified about tasks you're assigned and following in \"{workspaceName}\". [...]": null
 "You will be notified about tasks you're assigned and following. This will [...]": null
 "You will be redirected in a few moments.": null
@@ -19357,7 +19359,7 @@
 "You'll be the only member of the project.": null
 "You'll get notifications about tasks from {botUserLink}.": null
 "You'll get notifications about tasks right here.": null
-"You'll get notifications for tasks you're assigned and following.": null
+"You'll get notifications for tasks you're assigned and following.": "Riceverai notifiche per le attività che ti sono state assegnate e per quelle che segui."
 "You'll get the option to select and invite teammates directly to your [...]": null
 "You'll get to see more information and be able to take quick actions.": null
 "You'll have to send a new email to one of the {variant} [...]":
@@ -19483,11 +19485,11 @@
 "You've added the maximum number of rules to {variant}.":
   "variants": null
 "You've added the maximum number of task templates per project": null
-"You've added the maximum number of task templates per project.": null
+"You've added the maximum number of task templates per project.": "Hai aggiunto il numero massimo di modelli di attività per progetto."
 "You've already added this action into the rule": null
 "You've already requested access": null
 "You've been added as a collaborator to this form and workflow. Make [...]": null
-"You've been added to": null
+"You've been added to": "Sei stato aggiunto a"
 "You've been added to this project.": null
 "You've been added to {team}": null
 "You've been invited to a team": null
@@ -19502,7 +19504,7 @@
 "You've disallowed notifications in your browser. You'll need to open your browser {url} [...]": null
 "You've had no new teammates join Asana in the last 30 days. <link> [...]": null
 "You've hit your team's 1,000 task limit": null
-"You've just created your first project.": null
+"You've just created your first project.": "Hai appena creato il tuo primo progetto."
 "You've lost access to Premium features like Custom Fields and private projects.": null
 "You've lost access to Premium features like custom fields and private projects.": null
 "You've reached the character limit.": null
@@ -19513,7 +19515,7 @@
 "You've reached the maximum number of dependencies per task": null
 "You've reached the maximum number of fields per project": null
 "You've reached the maximum number of fields shown in the project. [...]": null
-"You've reached the maximum number of fields shown in the task list. [...]": null
+"You've reached the maximum number of fields shown in the task list. [...]": "Hai raggiunto il numero massimo di campi visualizzati nell'elenco delle attività. Prova prima a nasconderne un po'."
 "You've reached the maximum number of options per drop-down field.": null
 "You've reached the maximum number of project roles roles per project template": null
 "You've reached the maximum number of projects or portfolios you can add [...]": null
@@ -19578,7 +19580,7 @@
 "Your Business data still exists and you can restore your Asana Business [...]": null
 "Your CSV contains too many rows. Only the first {count} will be imported.": null
 "Your CSV export of {fileName} is ready to download": null
-"Your CSV is being generated. You will get an email when it [...]": null
+"Your CSV is being generated. You will get an email when it [...]": "Il tuo CSV è in fase di generazione. Riceverai un'e-mail al termine."
 "Your Computer": null
 "Your Current Plan": null
 "Your Current Trial Plan": null
@@ -19587,7 +19589,7 @@
 "Your Insights are being calculated. Come back tomorrow to start learning your [...]": null
 "Your Organization can have no more than {count} members. Want to add [...]": null
 "Your Organization's Admin has disabled attachments.": null
-"Your Organization's Admin has disabled attachments. Please also update your app to [...]": null
+"Your Organization's Admin has disabled attachments. Please also update your app to [...]": "L'amministratore della tua organizzazione ha disabilitato gli allegati. Aggiorna anche l'app per ottenere la versione più recente."
 "Your Organization's Super Admins": null
 "Your PayPal funding source was declined. Please try again [...]": null
 "Your PayPal funding source was declined. Please try again to use an [...]": null
@@ -19643,7 +19645,7 @@
 "Your card type is not accepted. Please try another card.": null
 "Your changes are syncing.": null
 "Your choice here won't limit what you can do in Asana.": null
-"Your co-workers, partners, and customers won't be able to use your active [...]": null
+"Your co-workers, partners, and customers won't be able to use your active [...]": "I tuoi colleghi, partner e clienti non potranno utilizzare i moduli attivi per richiedere lavoro o condividere informazioni con il tuo team e tu non potrai creare nuovi moduli."
 "Your colleagues don't have any overdue tasks. Go team!": null
 "Your comment was added to {taskLink}": null
 "Your company name": null
@@ -19716,7 +19718,7 @@
 "Your organization requires two-factor authentication. You will need to finish sign-up from [...]": null
 "Your organization's first Super Admin will need to prove ownership...": null
 "Your organization's first Super Admin will need to prove ownership... [link: contact support]": null
-"Your organization's first Super Admin will need to prove ownership... [link: start here]": null
+"Your organization's first Super Admin will need to prove ownership... [link: start here]": "Il primo amministratore avanzato della tua organizzazione dovrà dimostrare la proprietà del tuo dominio email. Per le istruzioni di verifica, <link>inizia da qui</link>."
 "Your password has been reset. Create a new password now.": null
 "Your password has been successfully changed": null
 "Your password has changed. Please enter your current password.": null
@@ -19726,10 +19728,10 @@
 "Your payment confirmation will be sent to the email associated with this account": null
 "Your payment failed. Please pay the invoice now or your team will [...]": null
 "Your payment failed. Please update your billing information in your PayPal account.": null
-"Your payment failed. Please update your billing information or your team will [...]": null
+"Your payment failed. Please update your billing information or your team will [...]": "Pagamento non riuscito. Aggiorna i tuoi dati di fatturazione o il tuo team perderà l'accesso alle funzionalità Premium."
 "Your payment method was successfully updated": null
 "Your photo": null
-"Your plan": null
+"Your plan": "Il tuo piano"
 "Your plan has been updated! A confirmation has been emailed to you": null
 "Your plan is now updated": null
 "Your plan is now updated.": null
@@ -19756,7 +19758,7 @@
 "Your project is updating to add switching between lists and boards.": null
 "Your project is updating to add switching between lists and boards. During [...]": null
 "Your reactivated account will continue to be subject to our <link>subscriber terms.</link>": null
-"Your recorded videos will be deleted. They will no longer be accessible [...]": null
+"Your recorded videos will be deleted. They will no longer be accessible [...]": "I tuoi video registrati verranno eliminati. Non saranno più accessibili a te."
 "Your report has been received. Our team will review it as soon [...]": null
 "Your request for access has been sent to the owner": null
 "Your request for access has been sent to the owner.": null
@@ -19794,7 +19796,7 @@
 "Your shared work with the recipients": null
 "Your shared work with {recipientName}": null
 "Your submission has been received": null
-"Your submission to <a>{formName}</a> has been received": null
+"Your submission to <a>{formName}</a> has been received": "Il tuo invio a <a>{formName}</a> è stato ricevuto"
 "Your submission to {formName} has been received. View submission in Asana {submissionTaskUrl}": null
 "Your subscription has already been cancelled.": null
 "Your subscription has expired": null
@@ -19813,9 +19815,9 @@
 "Your tasks for {date_of_summary}": null
 "Your tasks will be scheduled according to your project start or end date.": null
 "Your tax information has been successfully updated.": null
-"Your team currently has {numMembers} members, and is approaching its user limit {memberLimit} [...]": null
-"Your team currently has {numMembers} members, and is at its user limit {memberLimit} [...]": null
-"Your team currently has {numMembers} members, and is over its user limit {memberLimit} [...]": null
+"Your team currently has {numMembers} members, and is approaching its user limit {memberLimit} [...]": "Il tuo team ha attualmente {numMembers} membri e si sta avvicinando al limite di utenti di{memberLimit}."
+"Your team currently has {numMembers} members, and is at its user limit {memberLimit} [...]": "Il tuo team ha attualmente {numMembers} membri ed è al limite di utenti di{memberLimit}."
+"Your team currently has {numMembers} members, and is over its user limit {memberLimit} [...]": "Il tuo team ha attualmente {numMembers} membri e ha superato il limite di utenti di{memberLimit}."
 "Your team has access to the {variant} features you need to help [...]":
   "variants": null
 "Your team has opted into our new Inbox experience beta.": null
@@ -19904,7 +19906,7 @@
 "Your {groupName} Team is over its limit! You currently have {numMembers} members, {memberLimit} [...]": null
 "Your {groupName} Workspace is about to outgrow your plan of {memberLimit} members! {numMembers} [...]": null
 "Your {groupName} Workspace is at its limit! You currently have {numMembers} members, {memberLimit} [...]": null
-"Your {groupName} Workspace is over its limit! You currently have {numMembers} members, {memberLimit} [...]": null
+"Your {groupName} Workspace is over its limit! You currently have {numMembers} members, {memberLimit} [...]": "Il tuo {groupName} spazio di lavoro ha superato il limite! Al momento hai {numMembers} membri, il che significa che hai superato il limite di{memberLimit}."
 "Your {taxName} number": null
 "Your {taxName} number has been successfully updated.": null
 "Your {taxName} number is {vatId}": null
@@ -19979,11 +19981,11 @@
 "[App Intake Announcement Modal Premium+ Users image URL]": null
 "[App Intake Article link]": null
 "[Approvals pulse image URL]": null
-"[Approver] Move asset to the appropriate column [Template content -3065744507381273528]": null
+"[Approver] Move asset to the appropriate column [Template content -3065744507381273528]": "[Approvatore] Sposta l'asset nella colonna appropriata"
 "[Approver] Move asset to the appropriate column [Template content 1b1dc5da2810efe4bd863ed6e8ff3f85]": null
 "[Approver] Re-assign task to task creator to action [...] [Template content -4623265268068737535]": null
 "[Approver] Re-assign task to task creator to action [...] [Template content 9b6f8a064ce10b0b0660d694cdedc336]": null
-"[Approver] Review asset and leave feedback in the [...] [Template content -5759626272299689591]": null
+"[Approver] Review asset and leave feedback in the [...] [Template content -5759626272299689591]": "[Approvatore] Rivedi la risorsa e lascia un feedback nella sezione commenti"
 "[Approver] Review asset and leave feedback in the [...] [Template content 0d63ce417ce197a34254f9bcbf3daf3e]": null
 "[Approver] Update \"Approval stage\" Custom Field [Template content 1836248924461303773]": null
 "[Approver] Update \"Approval stage\" Custom Field [Template content dc079a873a8a1872fc38a3c68a561cbb]": null
@@ -20083,7 +20085,7 @@
 "[EXAMPLE TASK] - Campaign Brief [Template content 8551641880486948267]": null
 "[EXAMPLE TASK] - Campaign Brief [Template content fcf6e9d8141431ae0c1d4fafcc98b2d6]": null
 "[EXAMPLE TASK] - Can users navigate the new [...] [Template content -8785205656974755050]": null
-"[EXAMPLE TASK] - Can users navigate the new [...] [Template content cecf386d5041d8162db95b5507c08ae9]": null
+"[EXAMPLE TASK] - Can users navigate the new [...] [Template content cecf386d5041d8162db95b5507c08ae9]": "[ATTIVITÀ DI ESEMPIO] - Gli utenti possono navigare nella nuova interfaccia senza confusione?"
 "[EXAMPLE TASK] - Contenta CMS [Template content -418052492699896480]": null
 "[EXAMPLE TASK] - Contenta CMS [Template content 495b345dd7cb2c9041f2ab004d579cb1]": null
 "[EXAMPLE TASK] - Create content for customers [Template content -1434399823214581986]": null
@@ -20122,7 +20124,7 @@
 "[EXAMPLE TASK] - Map team structure [Template content 6588724613484148491]": null
 "[EXAMPLE TASK] - New mobile app [Template content 3737522094742607232]": null
 "[EXAMPLE TASK] - New mobile app [Template content af6bb3d9ae3a709647109a68128a4a73]": null
-"[EXAMPLE TASK] - Perform market research [Template content 2262323706735173742]": null
+"[EXAMPLE TASK] - Perform market research [Template content 2262323706735173742]": "[ATTIVITÀ DI ESEMPIO] - Eseguire ricerche di mercato"
 "[EXAMPLE TASK] - Perform market research [Template content 77b7aed844d06392f57edd4729bbb4f2]": null
 "[EXAMPLE TASK] - Post event recap blog [Template content -2786822101671050235]": null
 "[EXAMPLE TASK] - Post event recap blog [Template content 4b1d8f9844712ee71fa218f35f17020b]": null
@@ -20153,7 +20155,7 @@
 "[EXAMPLE TASK] - Upgrade payment options [Template content 3876181721775749058]": null
 "[EXAMPLE TASK] - Upgrade payment options [Template content ae46e6c49389e7d035ce15601083721b]": null
 "[EXAMPLE TASK] - User community launch [Template content -550153517742617381]": null
-"[EXAMPLE TASK] - User community launch [Template content 887e749a4845d705c9f6f29810746da6]": null
+"[EXAMPLE TASK] - User community launch [Template content 887e749a4845d705c9f6f29810746da6]": "[ATTIVITÀ DI ESEMPIO] - Lancio della community di utenti"
 "[EXAMPLE TASK] 5:00pm Caterer arrival [Template content -3513419561141154129]": null
 "[EXAMPLE TASK] 5:00pm Caterer arrival [Template content bedbd546b34f14d02172fbc06f2af397]": null
 "[EXAMPLE TASK] Accessibility Updates [Template content -2097408791605027959]": null
@@ -20179,7 +20181,7 @@
 "[EXAMPLE TASK] Bella Cassidy [Template content 8aecd53fc9e3b317c2503bb77e46e3cc]": null
 "[EXAMPLE TASK] Best Practices: Managing and mentoring your team [Template content 1225370895802139342]": null
 "[EXAMPLE TASK] Best Practices: Managing and mentoring your team [Template content da7e8186e24b84a48c046b08593809a6]": null
-"[EXAMPLE TASK] Blog post announcing new features [Template content 84f639d34447bf94191eeb8cc1a49966]": null
+"[EXAMPLE TASK] Blog post announcing new features [Template content 84f639d34447bf94191eeb8cc1a49966]": "[ATTIVITÀ DI ESEMPIO] Post sul blog che annuncia nuove funzionalità"
 "[EXAMPLE TASK] Blog post announcing new funding [Template content 1586617472248055861]": null
 "[EXAMPLE TASK] Blog post announcing new funding [Template content 5096676c3c47c9772672f3f0860f6f7e]": null
 "[EXAMPLE TASK] Break down spec and cost each story [Template content -2385567256632918869]": null
@@ -20188,7 +20190,7 @@
 "[EXAMPLE TASK] Bring design exploration to crit and [...] [Template content 509a1841cdaf519361187da7e4599cb1]": null
 "[EXAMPLE TASK] Broken monitor [Template content 06bcc0bae162976df0dbf25cb29cfb6f]": null
 "[EXAMPLE TASK] Broken monitor [Template content 8097580740928168693]": null
-"[EXAMPLE TASK] Budget finalization [Template content -7186841943118792680]": null
+"[EXAMPLE TASK] Budget finalization [Template content -7186841943118792680]": "[ATTIVITÀ DI ESEMPIO] Finalizzazione del budget"
 "[EXAMPLE TASK] Budget finalization [Template content 06060c5b5c6cadb42002da581a75e9d2]": null
 "[EXAMPLE TASK] Budget overview [Template content 2287220676214080685]": null
 "[EXAMPLE TASK] Budget overview [Template content eac72c057d6a3ddbbd2e6c331bb9a40f]": null
@@ -20217,9 +20219,9 @@
 "[EXAMPLE TASK] Communicate project results [Template content e46ae49118dc2dc60cf04cdc6dcfaa4d]": null
 "[EXAMPLE TASK] Company Revenue Report [Template content -3595519531906107195]": null
 "[EXAMPLE TASK] Company Revenue Report [Template content 4b47bbd08876e6038ca9302cff583198]": null
-"[EXAMPLE TASK] Company guidelines [Template content 1498657328133959358]": null
+"[EXAMPLE TASK] Company guidelines [Template content 1498657328133959358]": "[ATTIVITÀ DI ESEMPIO] Linee guida aziendali"
 "[EXAMPLE TASK] Company guidelines [Template content cf3f2ddac56f5ba6f8758e9ac170eadc]": null
-"[EXAMPLE TASK] Competitor analysis and exploration [Template content 3864779216763522189]": null
+"[EXAMPLE TASK] Competitor analysis and exploration [Template content 3864779216763522189]": "[ATTIVITÀ DI ESEMPIO] Analisi ed esplorazione della concorrenza"
 "[EXAMPLE TASK] Competitor analysis and exploration [Template content 97e023ade3dd80b15358973105c7c125]": null
 "[EXAMPLE TASK] Complete benefits selection [Template content -8039430644797957268]": null
 "[EXAMPLE TASK] Complete benefits selection [Template content 2fd97029cbb9ee5fbae98bfe94041d29]": null
@@ -20272,7 +20274,7 @@
 "[EXAMPLE TASK] Decide if we are ready to [...] [Template content 73c539286f98a934cb2ffd407d56456e]": null
 "[EXAMPLE TASK] Decide target timeline for RTO [Template content b756201e563973d461e66501144d6293]": null
 "[EXAMPLE TASK] Decide who is returning in Phase [...] [Template content 6dec7eaaf7c78b3769b4d975b2cda8b5]": null
-"[EXAMPLE TASK] Define bill of materials for campaign [Template content -1304087603555261067]": null
+"[EXAMPLE TASK] Define bill of materials for campaign [Template content -1304087603555261067]": "[ATTIVITÀ DI ESEMPIO] Definire la distinta base per la campagna"
 "[EXAMPLE TASK] Define bill of materials for campaign [Template content 57f3f600798a6130b317fac2c5190bcc]": null
 "[EXAMPLE TASK] Define budget and resource plan [Template content 9f88e6e705f1d92494a046ca6626b3a5]": null
 "[EXAMPLE TASK] Define policies and procedures [Template content abeab0ad9f8b656b1e4bbc617ba1cd8b]": null
@@ -20284,7 +20286,7 @@
 "[EXAMPLE TASK] Designs in progress [Template content 2cc4a5652abcef03376b7b72fbac47b0]": null
 "[EXAMPLE TASK] Desk item order for Sydney Odegard [Template content -4398749752169210061]": null
 "[EXAMPLE TASK] Desk item order for Sydney Odegard [Template content b07c64417168dec3d8204e67b0b8dff1]": null
-"[EXAMPLE TASK] Develop RTO interest survey [Template content 5c0ec95c32372e5c93f4896676b64866]": null
+"[EXAMPLE TASK] Develop RTO interest survey [Template content 5c0ec95c32372e5c93f4896676b64866]": "[ATTIVITÀ DI ESEMPIO] Sviluppare sondaggio di interesse RTO"
 "[EXAMPLE TASK] DigitalIdeation [Template content -6013357209671053786]": null
 "[EXAMPLE TASK] DigitalIdeation [Template content 4176a64a835719bfc713ca5a4f1f8a26]": null
 "[EXAMPLE TASK] Dinner + Reception [Template content 1980325237383243476]": null
@@ -20306,7 +20308,7 @@
 "[EXAMPLE TASK] Explore additional benefits and perks [Template content fa383a4e52a2accfc1e1ee166f912e8d]": null
 "[EXAMPLE TASK] Feedback on design team presentation [Template content 6f72bcf650306d2077bfe7002bc26819]": null
 "[EXAMPLE TASK] Feedback on last Friday's design team presentation [Template content 5ed8cefecea54dd5b4d90c19a33fb05b]": null
-"[EXAMPLE TASK] Feedback on last Friday's design team presentation [Template content 6518611251584759446]": null
+"[EXAMPLE TASK] Feedback on last Friday's design team presentation [Template content 6518611251584759446]": "[ATTIVITÀ DI ESEMPIO] Feedback sulla presentazione del team di progettazione dello scorso venerdì"
 "[EXAMPLE TASK] Figure out who is managing check-in [Template content -4400834654867735751]": null
 "[EXAMPLE TASK] Figure out who is managing check-in [Template content c21b6aa444ca31177a296662820f7950]": null
 "[EXAMPLE TASK] File cabinet for Zaine Benso [Template content -1325297109831737437]": null
@@ -20434,7 +20436,7 @@
 "[EXAMPLE TASK] Narwhal Inc. [Template content 3651712844124048083]": null
 "[EXAMPLE TASK] Narwhal Inc. [Template content ddfd9e3a959aa8949ea27d119f6460de]": null
 "[EXAMPLE TASK] Narwhal convert to 3 year contract [Template content -56982844802605877]": null
-"[EXAMPLE TASK] Narwhal convert to 3 year contract [Template content 08f200d2eab36d41820f1e3ab8a23399]": null
+"[EXAMPLE TASK] Narwhal convert to 3 year contract [Template content 08f200d2eab36d41820f1e3ab8a23399]": "[ATTIVITÀ DI ESEMPIO] Narwhal si converte in un contratto di 3 anni"
 "[EXAMPLE TASK] Navigation updates [Template content -2384946061446554564]": null
 "[EXAMPLE TASK] Navigation updates [Template content 153904e59f2b9de844ebbdad8356e846]": null
 "[EXAMPLE TASK] New Chair Nominations [Template content -7091040910958620265]": null
@@ -20448,7 +20450,7 @@
 "[EXAMPLE TASK] New analytics tools for campaign planning [Template content 00f9129d4f1888a08fa169569e778c4c]": null
 "[EXAMPLE TASK] New components for homepage [Template content -4677234241311437572]": null
 "[EXAMPLE TASK] New components for homepage [Template content 6a4395d8b3d21ea6f9b6db19da1e7970]": null
-"[EXAMPLE TASK] New customer email series [Template content 236cd0d6d32f99f9fb3ee88061e70276]": null
+"[EXAMPLE TASK] New customer email series [Template content 236cd0d6d32f99f9fb3ee88061e70276]": "[ATTIVITÀ DI ESEMPIO] Nuova serie di e-mail dei clienti"
 "[EXAMPLE TASK] New customer email series [Template content 6120353753440786594]": null
 "[EXAMPLE TASK] New header image for Facebook [Template content 4473064682636943342]": null
 "[EXAMPLE TASK] New header image for Facebook [Template content 793ec242082b8a042a9e40de058f2b51]": null
@@ -20464,7 +20466,7 @@
 "[EXAMPLE TASK] New office tour video [Template content 83c722611b3128407e2bd91ee631836a]": null
 "[EXAMPLE TASK] Next Board Meeting [Template content 783666927501163436]": null
 "[EXAMPLE TASK] Next Board Meeting [Template content a0f46cd31fad51093f3fb1169e7191bf]": null
-"[EXAMPLE TASK] Notify your manager if you will [...] [Template content 6421984839555892214]": null
+"[EXAMPLE TASK] Notify your manager if you will [...] [Template content 6421984839555892214]": "[ATTIVITÀ DI ESEMPIO] Avvisa il tuo manager se rimarrai offline per un lungo periodo di tempo"
 "[EXAMPLE TASK] Notify your manager if you will [...] [Template content 77bf7c1c886b7bdd7bf5d0637a2664a6]": null
 "[EXAMPLE TASK] OKRs and quarterly goals [Template content 6473891745158075983]": null
 "[EXAMPLE TASK] OKRs and quarterly goals [Template content a325ea1b1f3ad20088bea71124a15be4]": null
@@ -20472,8 +20474,8 @@
 "[EXAMPLE TASK] Office map [Template content 8363889d42b77cbadde345b87db080b1]": null
 "[EXAMPLE TASK] Onboarding and team contact information [Template content -964530075304216956]": null
 "[EXAMPLE TASK] Onboarding and team contact information [Template content 50980d7536a1f27182af8c2b83de6c2a]": null
-"[EXAMPLE TASK] Onboarding kick off call with customer [...] [Template content -2261462089896625454]": null
-"[EXAMPLE TASK] Onboarding kick off call with customer [...] [Template content 3be719cc098f95948843e05ef9dfb6a3]": null
+"[EXAMPLE TASK] Onboarding kick off call with customer [...] [Template content -2261462089896625454]": "[ATTIVITÀ DI ESEMPIO] L'onboarding dà il via alla chiamata con il cliente e le parti interessate"
+"[EXAMPLE TASK] Onboarding kick off call with customer [...] [Template content 3be719cc098f95948843e05ef9dfb6a3]": "[ATTIVITÀ DI ESEMPIO] L'onboarding dà il via alla chiamata con il cliente e le parti interessate"
 "[EXAMPLE TASK] OnePassword access [Template content -6960880570379458341]": null
 "[EXAMPLE TASK] OnePassword access [Template content 119b684b886345a07e22059be5278ef8]": null
 "[EXAMPLE TASK] Ongoing project and campaign links [Template content -2482151318900145528]": null
@@ -20503,7 +20505,7 @@
 "[EXAMPLE TASK] Presentation: Forecasting New Trends [Template content -5939018417839240639]": null
 "[EXAMPLE TASK] Presentation: Forecasting New Trends [Template content 0ee3e4a84811079023b05879d64e0c03]": null
 "[EXAMPLE TASK] Preview Reunion Week at All-Hands Meeting [...] [Template content 2641db6385fea74f810e4702e092b340]": null
-"[EXAMPLE TASK] Print final RSVP list [Template content 3537834003154122339]": null
+"[EXAMPLE TASK] Print final RSVP list [Template content 3537834003154122339]": "[ATTIVITÀ DI ESEMPIO] Stampa elenco RSVP finale"
 "[EXAMPLE TASK] Print final RSVP list [Template content 7b34232a211b8f78ab6e7f993193dde4]": null
 "[EXAMPLE TASK] Priority projects [Template content -6181686060454226935]": null
 "[EXAMPLE TASK] Priority projects [Template content 0d8d26ba49579ebee0405b9f2ba16f42]": null
@@ -20584,7 +20586,7 @@
 "[EXAMPLE TASK] Share event details with PR team [Template content 7687407044075337002]": null
 "[EXAMPLE TASK] Share event details with PR team [Template content e0cc3a0cc5cfd1cb4d3b20c12a6402a0]": null
 "[EXAMPLE TASK] Share feedback with executive committee [Template content 2586449992656482222]": null
-"[EXAMPLE TASK] Share implementation plan & schedule [Template content 1999294779815755389]": null
+"[EXAMPLE TASK] Share implementation plan & schedule [Template content 1999294779815755389]": "[ATTIVITÀ DI ESEMPIO] Condividi il piano e il programma di implementazione"
 "[EXAMPLE TASK] Share implementation plan & schedule [Template content 211c0e3a8104b47181e02649db8c6b1f]": null
 "[EXAMPLE TASK] Share key learnings with broader design team [Template content -396275156230554471]": null
 "[EXAMPLE TASK] Share key learnings with broader design team [Template content 2d517cd7876df3d146228993b685898d]": null
@@ -20646,7 +20648,7 @@
 "[EXAMPLE TASK] Team Rainbow [Template content 928dafa3e2c08df11cb6f6b948a7afa4]": null
 "[EXAMPLE TASK] Team calendar refresh [Template content -4045749212454121155]": null
 "[EXAMPLE TASK] Team calendar refresh [Template content f5695b7924ddd4b86ae98b00c6008e34]": null
-"[EXAMPLE TASK] Team meeting cadence [Template content 8449447829552406931]": null
+"[EXAMPLE TASK] Team meeting cadence [Template content 8449447829552406931]": "[ATTIVITÀ DI ESEMPIO] Frequenza delle riunioni del team"
 "[EXAMPLE TASK] Team meeting cadence [Template content f1fe8322b8227f020b8b25b518ba95f1]": null
 "[EXAMPLE TASK] Team's working hours [Template content 2038624978953359079]": null
 "[EXAMPLE TASK] Team's working hours [Template content b8651c823259b0a38765a47641e16146]": null
@@ -20665,7 +20667,7 @@
 "[EXAMPLE TASK] Update action logging [Template content 1135283674666214787]": null
 "[EXAMPLE TASK] Update action logging [Template content 705ddd835b63c3af402dec4bee1f9fca]": null
 "[EXAMPLE TASK] Update copy & design on careers page [Template content -1554551492011886857]": null
-"[EXAMPLE TASK] Update copy & design on careers page [Template content c7d23a0084ecade605d13ac4ee37957c]": null
+"[EXAMPLE TASK] Update copy & design on careers page [Template content c7d23a0084ecade605d13ac4ee37957c]": "[ATTIVITÀ DI ESEMPIO] Aggiornare copia e design nella pagina delle carriere"
 "[EXAMPLE TASK] Update copy on homepage [Template content -1403190088428720210]": null
 "[EXAMPLE TASK] Update copy on homepage [Template content 3d050788abe0e31f40e913dd3172d089]": null
 "[EXAMPLE TASK] Update objectives based on feedback [Template content 150a6636e9bf2913045c09f822e0d0f0]": null
@@ -20684,7 +20686,7 @@
 "[EXAMPLE TASK] Video conferencing doesn't work in second [...] [Template content 073261e7172eb980a2f61975758b34e8]": null
 "[EXAMPLE TASK] Video conferencing doesn't work in second [...] [Template content 3248574148405440698]": null
 "[EXAMPLE TASK] Voiceover for YouTube video [Template content -5871334050237947702]": null
-"[EXAMPLE TASK] Voiceover for YouTube video [Template content 083555fe613ee15fbeffbf92c11bb670]": null
+"[EXAMPLE TASK] Voiceover for YouTube video [Template content 083555fe613ee15fbeffbf92c11bb670]": "[ATTIVITÀ DI ESEMPIO] Voiceover per video YouTube"
 "[EXAMPLE TASK] Waseem Rennie [Template content -3967580089557351080]": null
 "[EXAMPLE TASK] Waseem Rennie [Template content 8b62142b05536c11625c64c9e4cadf0c]": null
 "[EXAMPLE TASK] Website redesign [Template content -8696632512617117554]": null
@@ -20736,7 +20738,7 @@
 "[Example] Create event agenda and outline [Template content 14ef42e164f56f2841b7b60306d5f09c]": null
 "[Example] Create onboarding project for new hire [Template content 6e83ddea7f3e47219fc72cc007f03ffc]": null
 "[Example] Creative brainstorming (recording) [Template content d83a445b62ad51f9918374ee07c0a2a2]": null
-"[Example] Design new home page assets [Template content 4e01adb9542148f427074371e8a44eeb]": null
+"[Example] Design new home page assets [Template content 4e01adb9542148f427074371e8a44eeb]": "[Esempio] Progettare nuove risorse per la home page"
 "[Example] Design web assets [Template content abe81621c94764e047c191bfa5ca845c]": null
 "[Example] Dig into April numbers and prepare findings [...] [Template content dcf3f3c87ab95663f6a307780cf787db]": null
 "[Example] Draft day-of press release [Template content 85f8e77fef04a1884a23474aaf0173eb]": null
@@ -20795,7 +20797,7 @@
 "[Example] Yeti systems renewal [Template content 29eb9a879d2f481540835d2cd4f0e872]": null
 "[F_P_B_UPTIERING_PORTFOLIOS_EDUCATION_VIDEO]": null
 "[Final Reminder] Your Asana account will be deleted": null
-"[Final reminder] Your Asana account will be deleted on {deletionDate}": null
+"[Final reminder] Your Asana account will be deleted on {deletionDate}": "[Promemoria finale] Il tuo account Asana verrà eliminato il {deletionDate}"
 "[Flow Announcement Modal Premium+ Users image URL]": null
 "[Forms Announcement Modal Premium+ Users image URL]": null
 "[Forms Entry Point Wistia Code V2]": null
@@ -20923,7 +20925,7 @@
   "variants": null
 "[Someone] added a collaborator": null
 "[Someone] added a follower": null
-"[Someone] added a goal or project to this goal's progress rollup": null
+"[Someone] added a goal or project to this goal's progress rollup": "ha aggiunto un obiettivo o un progetto al riepilogo dei progressi di questo obiettivo"
 "[Someone] added an attachment.": null
 "[Someone] added feedback to a private attachment": null
 "[Someone] added feedback to {attachmentUrl}": null
@@ -20936,7 +20938,7 @@
 "[Someone] added to list": null
 "[Someone] added to {listName}": null
 "[Someone] added you as a collaborator": null
-"[Someone] added you as a follower": null
+"[Someone] added you as a follower": "ti ha aggiunto come follower"
 "[Someone] added you as a follower.": null
 "[Someone] added you as a member": null
 "[Someone] added you as a member of {goal}": null
@@ -20968,7 +20970,7 @@
 "[Someone] awarded you the {badgeName} badge.": null
 "[Someone] awarded you the {badgeName} badge. {badgeText}": null
 "[Someone] changed the date range to {dateRangeDescription}": null
-"[Someone] changed the date range to {dateRange}": null
+"[Someone] changed the date range to {dateRange}": "ha modificato l'intervallo di date in {dateRange}"
 "[Someone] changed the date range to {dateRange}.": null
 "[Someone] changed the description": null
 "[Someone] changed the due date on <link>{taskName}</link> to {dueDate}.": null
@@ -20977,16 +20979,16 @@
 "[Someone] changed the due date on another task to {dueDate}.": null
 "[Someone] changed the due date on another task to {dueDate}. Since you're [...]": null
 "[Someone] changed the due date on {taskLink} to {dueDate}. Since you're waiting [...]": null
-"[Someone] changed the due date on {task} to {date}": null
+"[Someone] changed the due date on {task} to {date}": "ha modificato la data di scadenza {task} in {date}"
 "[Someone] changed the due date on {task} to {dueDate}": null
 "[Someone] changed the due date to {date}": null
-"[Someone] changed the due date to {date} and removed the start date": null
+"[Someone] changed the due date to {date} and removed the start date": "ha modificato la data di scadenza {date} e rimosso la data di inizio"
 "[Someone] changed the due date to {dueDateDescription}": null
 "[Someone] changed the due date to {dueDateDescription} and cleared the start date": null
 "[Someone] changed the due date to {dueDateDescription} and removed the start date": null
 "[Someone] changed the due date to {dueDate} and removed the start date.": null
 "[Someone] changed the due date to {dueDate}.": null
-"[Someone] changed the initial value from {old_initial} to {new_initial}": null
+"[Someone] changed the initial value from {old_initial} to {new_initial}": "ha modificato il valore iniziale da {old_initial} a {new_initial}"
 "[Someone] changed the initial value from {old_initial} to {new_initial} and the target {old_target} {new_target} [...]": null
 "[Someone] changed the measurement type to milestones complete": null
 "[Someone] changed the measurement type to numeric": null
@@ -21029,7 +21031,7 @@
 "[Someone] changed the time period to {new_time_period} and date range to {new_date_range}.": null
 "[Someone] changed the time period to {new_time_period} and due date to {due_date}": null
 "[Someone] changed the time period to {new_time_period} and removed the date range": null
-"[Someone] changed the time period to {new_time_period} and removed the due date": null
+"[Someone] changed the time period to {new_time_period} and removed the due date": "ha modificato il periodo di tempo {new_time_period} e rimosso la data di scadenza"
 "[Someone] changed the time period to {new_time_period}.": null
 "[Someone] changed the time period to {timePeriod}": null
 "[Someone] changed the time period to {timePeriod} and changed the due date {date} [...]": null
@@ -21079,7 +21081,7 @@
 "[Someone] completed this task": null
 "[Someone] completed this task.": null
 "[Someone] completed {task}": null
-"[Someone] connected {goal_name} as a parent goal": null
+"[Someone] connected {goal_name} as a parent goal": "connesso {goal_name} come obiettivo principale"
 "[Someone] connected {goal_name} as a sub-goal": null
 "[Someone] connected {goal_name} as a sub-goal and added it to goal progress": null
 "[Someone] created task": null
@@ -21117,7 +21119,7 @@
 "[Someone] left a {comment}": null
 "[Someone] liked this conversation": null
 "[Someone] liked this goal": null
-"[Someone] liked this message": null
+"[Someone] liked this message": "piace questo messaggio"
 "[Someone] liked this status update": null
 "[Someone] liked this task": null
 "[Someone] liked your goal": null
@@ -21140,8 +21142,8 @@
 "[Someone] made {user} the owner of {dashboard}": null
 "[Someone] made {user} the project owner of this project": null
 "[Someone] marked <link>{taskName}</link> as a duplicate of this.": null
-"[Someone] marked <link>{taskName}</link> as dependent on this task.": null
-"[Someone] marked <link>{taskName}</link> as no longer dependent on this task.": null
+"[Someone] marked <link>{taskName}</link> as dependent on this task.": "contrassegnato <link>{taskName}</link> come dipendente da questa attività."
+"[Someone] marked <link>{taskName}</link> as no longer dependent on this task.": "contrassegnato <link>{taskName}</link> come non più dipendente da questa attività."
 "[Someone] marked <link>{taskName}</link> incomplete.": null
 "[Someone] marked [the task] incomplete": null
 "[Someone] marked [this task for] today": null
@@ -21174,7 +21176,7 @@
 "[Someone] marked this request as approved.": null
 "[Someone] marked this request as changes requested": null
 "[Someone] marked this request as changes requested.": null
-"[Someone] marked this request as pending approval": null
+"[Someone] marked this request as pending approval": "ha contrassegnato questa richiesta come in attesa di approvazione"
 "[Someone] marked this request as rejected": null
 "[Someone] marked this request as rejected.": null
 "[Someone] marked this request rejected.": null
@@ -21206,7 +21208,7 @@
 "[Someone] marked {task} incomplete": null
 "[Someone] mentioned this goal in a message: {mentioning_object_link}": null
 "[Someone] mentioned this goal in a task: {mentioning_object_link}": null
-"[Someone] mentioned this goal in an update: {mentioning_object_link}": null
+"[Someone] mentioned this goal in an update: {mentioning_object_link}": "ha menzionato questo obiettivo in un aggiornamento: {mentioning_object_link}"
 "[Someone] mentioned this goal in another goal: {mentioning_object_link}": null
 "[Someone] mentioned this in a goal: {mentioning_object_link}": null
 "[Someone] mentioned this in a message: {mentioning_object_link}": null
@@ -21223,7 +21225,7 @@
 "[Someone] mentioned this task in a message: {mentioning_object_link}": null
 "[Someone] mentioned this task in a message: {message_link}": null
 "[Someone] mentioned this task in a message: {objectUrl}": null
-"[Someone] mentioned this task in an update: {mentioning_object_link}": null
+"[Someone] mentioned this task in an update: {mentioning_object_link}": "ha menzionato questa attività in un aggiornamento: {mentioning_object_link}"
 "[Someone] mentioned this task in another task: {mentioning_object_link}": null
 "[Someone] mentioned this update in a goal: {mentioning_object_link}": null
 "[Someone] mentioned this update in a message: {mentioning_object_link}": null
@@ -21309,7 +21311,7 @@
 "[Someone] set the status to {new_status}": null
 "[Someone] set the target to {new_target}.": null
 "[Someone] set the target value to {new_target}": null
-"[Someone] set the team to a private team": null
+"[Someone] set the team to a private team": "impostare il team su un team privato"
 "[Someone] set the team to {new_team}": null
 "[Someone] set the time period to {new_time_period}": null
 "[Someone] set the time period to {new_time_period} and date range to {date_range}": null
@@ -21358,7 +21360,7 @@
 "[Someone] shared {domain_dashboard} with you": null
 "[Someone] shared {domain_dashboard} with {user}": null
 "[Someone] shared {portfolio}": null
-"[Someone] shared {portfolio} with you": null
+"[Someone] shared {portfolio} with you": "condiviso {portfolio} con te"
 "[Someone] shared {portfolio} with {user}": null
 "[Someone] shared {project}": null
 "[Someone] shared {project} with you": null
@@ -21400,7 +21402,7 @@
 "[Status V1 image URL]": null
 "[Status V1 video URL]": null
 "[Stride] Client Account Management Blueprint - Web Version": null
-"[TASK TEMPLATE] Blog [Template content 6f4ed651378affb7a7a5360a9b643c4b]": null
+"[TASK TEMPLATE] Blog [Template content 6f4ed651378affb7a7a5360a9b643c4b]": "[MODELLO DI ATTIVITÀ] Blog"
 "[TASK TEMPLATE] Candidate Name [Template content 87726729d9d996298cfcbcd4a067f907]": null
 "[TASK TEMPLATE] Creative Piece [Pre-Production Stage] [Template content e21995b2b3ac17fefc506be0de2daf64]": null
 "[TASK TEMPLATE] Email [Template content 1844d58acebac0eb45df245cf341af16]": null
@@ -21421,7 +21423,7 @@
 "[Task] removed from a private list": null
 "[Task] removed from list": null
 "[Task] removed from {optListName}": null
-"[Task] unmarked today": null
+"[Task] unmarked today": "non contrassegnato oggi"
 "[Team] Selected": null
 "[Teams Automation Image URL]": null
 "[Teams Channel Notification Image URL]": null
@@ -21498,7 +21500,7 @@
 "[measure] Time in Custom Field": null
 "[measure] Time in section": null
 "[measure] Time to complete": null
-"[no value set]": null
+"[no value set]": "[nessun valore impostato]"
 "[no value]": null
 "[org admin console launch animation link]": null
 "[org admin console launch image fallback link]": null
@@ -21511,7 +21513,9 @@
 "[someone] added feedback to {lockMiniIcon} private image": null
 "[someone] appreciates your hard work": null
 "[task is] Completed": null
-"[task1 and] {count} more": null
+"[task1 and] {count} more":
+  "count_one": "{count} altro"
+  "count_other": "{count} altro"
 "[tasks completed over] all time": null
 "[tasks completed over] the last month": null
 "[tasks completed over] the last three months": null
@@ -21559,7 +21563,7 @@
 "added subtask to task {taskName}": null
 "added the company description": null
 "added the description": null
-"added the name \"{task_name}\"": null
+"added the name \"{task_name}\"": "ha aggiunto il nome \"{task_name}\""
 "added to list": null
 "added to {taskList}": null
 "after {date}": null
@@ -21623,7 +21627,7 @@
 "closed as duplicate": null
 "coins [icon]": null
 "collaborator [noun]": null
-"collaborators [noun]": null
+"collaborators [noun]": "collaboratori"
 "column [noun]": null
 "columns [noun]": null
 "comment [noun]": null
@@ -21687,7 +21691,7 @@
 "e.g. My Service Account": null
 "e.g. Set a due date for an upcoming commitment": null
 "e.g. {projectName}": null
-"e.g. {taskName}": null
+"e.g. {taskName}": "es: {taskName}"
 "e.g., Hours, Cost, Number of User Requests": null
 "e.g., Phone Number, Address, URL": null
 "e.g., Priority, Stage, Status": null
@@ -21709,7 +21713,7 @@
 "finish at": null
 "finish date": null
 "finish on": null
-"follower [noun]": null
+"follower [noun]": "follower"
 "followers [noun]": null
 "for one year, then {formattedUndiscountedPrice}": null
 "for {count} days": null
@@ -21749,7 +21753,7 @@
 "https://blog.asana.com/2022/02/simplify-cross-team-flow [URL]": null
 "https://blog.asana.com/2022/06/impact?utm_medium=ipc&utm_source=asana_inproduct&utm_campaign=inspire_and_impact": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/0ba4870d06c3cf378aee55d887ec8e55bfdd4f77/milestones_launch_modal_en.mp4": null
-"https://d3ki9tyy5l5ruj.cloudfront.net/obj/125614f1c8b4966394494b7a10fe4d0e2f6e9f42/WKFL23_IPC_PAID_HOME_480_X_320_EN.png [URL. To be translated by Workflow Experience team]": null
+"https://d3ki9tyy5l5ruj.cloudfront.net/obj/125614f1c8b4966394494b7a10fe4d0e2f6e9f42/WKFL23_IPC_PAID_HOME_480_X_320_EN.png [URL. To be translated by Workflow Experience team]": "https://d3ki9tyy5l5ruj.cloudfront.net/obj/125614f1c8b4966394494b7a10fe4d0e2f6e9f42/WKFL23_IPC_PAID_HOME_480_X_320_EN.png"
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/31d373074deef1d8c63a1c68f05dcc107b70c2d9/OWR21_Web_Product_Animation_Dashboards_560x372_EN-GB.mp4 [Asset URL]": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/31d373074deef1d8c63a1c68f05dcc107b70c2d9/OWR21_Web_Product_Animation_Dashboards_560x372_EN-GB.png [Asset URL]": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/331121616f25f1204331f84abe7e3751bade1cb3/ipc-goals-960x640-en.png": null
@@ -21759,7 +21763,7 @@
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/489d1773fd18d2c1fe8c4b023b64ec670aff1cae/CAROUSEL_MODAL_GOALS_HERO_EMIM-goals-hero-1200x724-EN.mp4": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/492b5ae8990c7dfd0f9a4d327e1016e89a5903ed/Asana_Scale_Primary_450x320_EN.png [URL to image. To be translated by IPC team]": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/4b69dc1d34fa434d0621ed9ab644fa1c1536ecb6/CAROUSEL_MODAL_FOR_WEEKLY_FOCUS_EMIM23_IPC_FOCUS_1200x724_EN.png": null
-"https://d3ki9tyy5l5ruj.cloudfront.net/obj/53107dff764a932a3580a4e787f904a64400ea7c/portfolios-EN@2x.png": null
+"https://d3ki9tyy5l5ruj.cloudfront.net/obj/53107dff764a932a3580a4e787f904a64400ea7c/portfolios-EN@2x.png": "https://d3ki9tyy5l5ruj.cloudfront.net/obj/53107dff764a932a3580a4e787f904a64400ea7c/portfolios-EN@2x.png"
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/5a26fb8d28c7f435784009f677cfa8793e7f0bae/COMPACT_MODAL_GOALS_HERO_EMIM_goals-hero-960x640-EN.mp4": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/7c99164c66b6995b23cdcdee43f7e51037cb0e97/Asana_Scale_2FA_450x320_EN-2x.png [URL to image. To be translated by IPC team]": null
 "https://d3ki9tyy5l5ruj.cloudfront.net/obj/8ccfb55c3b1997f27bb41cfc4512fe0ca47b1288/Proofing Modal_EN@2x.png": null
@@ -21779,11 +21783,11 @@
 "incomplete task": null
 "indigo [color]": null
 "initial: {initialValue}": null
-"initial_number_value and target_number_value must be provided if progress_source is manual or external.": null
+"initial_number_value and target_number_value must be provided if progress_source is manual or external.": "initial_number_value e target_number_value devono essere forniti se progress_source è manuale o esterno."
 "initial_number_value and target_number_value must be provided if progress_source is manual.": null
 "insert_before and insert_after are currently only supported when adding a subgoal.": null
 "is not a member of this Asana Organization or Workspace.": null
-"is now a project. The original task has been closed.": null
+"is now a project. The original task has been closed.": "è ormai un progetto. L'attività originale è stata chiusa."
 "its collaborator": null
 "its collaborators": null
 "its follower": null
@@ -21825,7 +21829,7 @@
 "monthly [adj]": null
 "mountain flag [icon]": null
 "moved [verb]": null
-"moved from {from_section_name} to {to_section_name}{project_name}": null
+"moved from {from_section_name} to {to_section_name}{project_name}": "spostato da {from_section_name} a {to_section_name}{project_name}"
 "moved into {section_name}{project_name}": null
 "moved out of {section_name}{project_name}": null
 "moved this Task": null
@@ -21886,7 +21890,7 @@
 "portfolios [noun]": null
 "precision value must be between 0 and 6 inclusive.": null
 "presentation [icon]": null
-"progress_contribution_weight must be either 0 or 1.": null
+"progress_contribution_weight must be either 0 or 1.": "progress_contribution_weight deve essere 0 o 1."
 "progress_source must be manual if current_number_value, initial_number_value, or target_number_value value are provided.": null
 "progress_source must be manual or external if current_number_value, initial_number_value, or target_number_value value [...]": null
 "project": null
@@ -22001,11 +22005,11 @@
 "unknown email address": null
 "unmarked today": null
 "updated on {date}": null
-"upgrading [verb]": null
+"upgrading [verb]": "potenziamento"
 "view rest of comment": null
 "view rest of comment in Asana.": null
 "weekly [adj]": null
-"weeks [noun]": null
+"weeks [noun]": "settimane"
 "when billed annually": null
 "with no due date": null
 "within the last {count} {variant}[time unit]s":
@@ -22048,16 +22052,16 @@
 "{Someone} completed this milestone. Like to show your recognition!": null
 "{Someone} completed this task": null
 "{Someone} completed this task. Like to show your recognition!": null
-"{Someone} liked that you completed this task": null
+"{Someone} liked that you completed this task": "{Someone} mi piace che tu abbia completato questa attività"
 "{Someone} liked this goal": null
-"{Someone} liked this task": null
+"{Someone} liked this task": "{Someone} piace questa attività"
 "{Someone} liked your attachment": null
 "{Someone} liked your comment": null
 "{Someone} liked your conversation": null
 "{Someone} liked your goal": null
 "{Someone} liked your message": null
 "{Someone} liked your status update": null
-"{Someone} liked {objectName}": null
+"{Someone} liked {objectName}": "{Someone} mi piace {objectName}"
 "{Someone} made you the owner of this goal": null
 "{Someone} made {user} the owner of this goal": null
 "{Someone} marked this milestone complete": null
@@ -22102,7 +22106,7 @@
 "{actorName} added a status update": null
 "{actorName} added an attachment": null
 "{actorName} added an attachment to this task.": null
-"{actorName} added an attachment.": null
+"{actorName} added an attachment.": "{actorName} ha aggiunto un allegato."
 "{actorName} added feedback to a private attachment": null
 "{actorName} added feedback to {attachmentUrl}": null
 "{actorName} added feedback to {attachmentUrl} (thumbnail pending)": null
@@ -22127,7 +22131,7 @@
 "{actorName} added {count} tasks to this {potType}.": null
 "{actorName} added {duration} to actual time": null
 "{actorName} added {duration} to actual time for {date}": null
-"{actorName} added {followerName} as a follower": null
+"{actorName} added {followerName} as a follower": "{actorName} aggiunto {followerName} come follower"
 "{actorName} added {goal_name} to the progress rollup": null
 "{actorName} added {groupName} as a collaborator": null
 "{actorName} added {portfolio_name} to References": null
@@ -22172,7 +22176,7 @@
 "{actorName} changed the due date to {dueDateDescription}.": null
 "{actorName} changed the initial value from {old_initial} to {new_initial}": null
 "{actorName} changed the initial value from {old_initial} to {new_initial} and the target {old_target} {new_target} [...]": null
-"{actorName} changed the measurement type to milestones complete": null
+"{actorName} changed the measurement type to milestones complete": "{actorName} ha modificato il tipo di misurazione in milestone complete"
 "{actorName} changed the measurement type to numeric": null
 "{actorName} changed the measurement type to percent": null
 "{actorName} changed the measurement type to tasks complete": null
@@ -22196,7 +22200,7 @@
 "{actorName} changed the status from {old_status} to {new_status}": null
 "{actorName} changed the status to {newValue}.": null
 "{actorName} changed the status to {new_status}": null
-"{actorName} changed the target from {oldTargetValueDisplay} to {newTargetValueDisplay}.": null
+"{actorName} changed the target from {oldTargetValueDisplay} to {newTargetValueDisplay}.": "{actorName} ha modificato l'obiettivo da {oldTargetValueDisplay} a {newTargetValueDisplay}."
 "{actorName} changed the target from {oldTargetValue} to {newTargetValue}.": null
 "{actorName} changed the target from {old_target} to {new_target}.": null
 "{actorName} changed the target value from {old_target} to {new_target}": null
@@ -22280,10 +22284,10 @@
 "{actorName} invited {user} to a team": null
 "{actorName} left a <a>comment</a>": null
 "{actorName} left a {comment}": null
-"{actorName} liked that you approved this request": null
+"{actorName} liked that you approved this request": "{actorName} mi piace che tu abbia approvato questa richiesta"
 "{actorName} liked that you completed this task": null
 "{actorName} liked that you marked this request as pending approval": null
-"{actorName} liked that you rejected this request": null
+"{actorName} liked that you rejected this request": "{actorName} mi piace che tu abbia rifiutato questa richiesta"
 "{actorName} liked that you requested changes": null
 "{actorName} liked this conversation": null
 "{actorName} liked this goal": null
@@ -22411,7 +22415,7 @@
 "{actorName} removed [the task] from {taskList}": null
 "{actorName} removed another task as a duplicate": null
 "{actorName} removed the company description": null
-"{actorName} removed the date range": null
+"{actorName} removed the date range": "{actorName} ha rimosso l'intervallo di date"
 "{actorName} removed the date range.": null
 "{actorName} removed the description": null
 "{actorName} removed the due date": null
@@ -22486,7 +22490,7 @@
 "{actorName} shared a dashboard": null
 "{actorName} shared a dashboard with you": null
 "{actorName} shared a dashboard with you.": null
-"{actorName} shared a dashboard with {user}": null
+"{actorName} shared a dashboard with {user}": "{actorName} ha condiviso una dashboard con {user}"
 "{actorName} shared a goal with you.": null
 "{actorName} shared a portfolio": null
 "{actorName} shared a portfolio with you": null
@@ -22498,7 +22502,7 @@
 "{actorName} shared a project with {user}": null
 "{actorName} shared {dashboard}": null
 "{actorName} shared {dashboard} with you": null
-"{actorName} shared {dashboard} with {user}": null
+"{actorName} shared {dashboard} with {user}": "{actorName} condiviso {dashboard} con {user}"
 "{actorName} shared {portfolio}": null
 "{actorName} shared {portfolio} with you": null
 "{actorName} shared {portfolio} with {user}": null
@@ -22517,15 +22521,15 @@
 "{actorName} unassigned this task from you.": null
 "{actorName} unlinked a goal, project, or portfolio from this goal": null
 "{actorName} unmarked [this task for] today": null
-"{actorName} unmarked this as an approval request": null
+"{actorName} unmarked this as an approval request": "{actorName} non contrassegnato come richiesta di approvazione"
 "{actorName} unmarked this task as a milestone": null
 "{actorName} updated their actual time from {oldDate} to {newDate}": null
 "{actorName} updated their actual time from {oldDuration} on {oldDate} to {newDuration} on {newDate}": null
 "{actorName} updated their actual time from {oldDuration} to {newDuration}": null
-"{actorName} updated {entryCreator}'s actual time": null
+"{actorName} updated {entryCreator}'s actual time": "tempo {entryCreator} effettivo{actorName} aggiornato"
 "{actorName} updated {entryCreator}'s actual time from {oldDate} to {newDate}": null
-"{actorName} updated {entryCreator}'s actual time from {oldDuration} on {oldDate} to {newDuration} on {newDate}": null
-"{actorName} updated {entryCreator}'s actual time from {oldDuration} to {newDuration}": null
+"{actorName} updated {entryCreator}'s actual time from {oldDuration} on {oldDate} to {newDuration} on {newDate}": "tempo {entryCreator} effettivo{actorName} aggiornato da {oldDuration} il {oldDate} a {newDuration} il {newDate}"
+"{actorName} updated {entryCreator}'s actual time from {oldDuration} to {newDuration}": "tempo {entryCreator} effettivo di{actorName} aggiornamento da {oldDuration} a {newDuration}"
 "{actor} added you as a follower.": null
 "{actor} liked this {variant}.":
   "variants": null
@@ -22629,7 +22633,9 @@
 "{count} approvals completed": null
 "{count} approvals overdue": null
 "{count} approvals upcoming": null
-"{count} approvals {progressStatusSelector}": null
+"{count} approvals {progressStatusSelector}":
+  "count_one": "{count} approvazione {progressStatusSelector}"
+  "count_other": "{count} approvazioni {progressStatusSelector}"
 "{count} attachments": null
 "{count} cards selected": null
 "{count} categories": null
@@ -22692,7 +22698,9 @@
 "{count} hours before task is due ": null
 "{count} incomplete": null
 "{count} incomplete milestones": null
-"{count} incomplete tasks": null
+"{count} incomplete tasks":
+  "count_one": "attività {count} non completata"
+  "count_other": "attività {count} non completate"
 "{count} items": null
 "{count} items deleted": null
 "{count} items selected": null
@@ -22725,7 +22733,9 @@
 "{count} minutes before task is due": null
 "{count} minutes before task is due ": null
 "{count} months": null
-"{count} more": null
+"{count} more":
+  "count_one": "{count} altro"
+  "count_other": "{count} altro"
 "{count} more characters": null
 "{count} more comments": null
 "{count} new comments on {name}": null
@@ -22784,12 +22794,16 @@
 "{count} tasks were marked as an Approval.": null
 "{count} tasks were marked as an approval request.": null
 "{count} tasks were marked as as Milestones.": null
-"{count} tasks were marked as as milestones.": null
+"{count} tasks were marked as as milestones.":
+  "count_one": "{count} l'attività è stata contrassegnata come traguardo."
+  "count_other": "{count} le attività sono state contrassegnate come traguardi."
 "{count} tasks were marked as milestones.": null
 "{count} tasks were successfully imported to {projectLink}": null
 "{count} tasks {progressStatusSelector}": null
 "{count} teams were added to {division}": null
-"{count} template tasks were marked as an approval request.": null
+"{count} template tasks were marked as an approval request.":
+  "count_one": "l'attività{count} del modello è stata contrassegnata come richiesta di approvazione."
+  "count_other": "le attività{count} del modello sono state contrassegnate come richiesta di approvazione."
 "{count} template tasks were marked as as Milestones.": null
 "{count} template tasks were marked as as milestones.": null
 "{count} template tasks were marked as milestones.": null
@@ -22818,7 +22832,9 @@
 "{count}ms": null
 "{count}s": null
 "{count}wk": null
-"{count}yr": null
+"{count}yr":
+  "count_one": "{count}yr"
+  "count_other": "{count}yr"
 "{count}{listOfValues} are not valid choices.": null
 "{couponCode} - Coupon does not apply to this plan": null
 "{couponCode} - Coupon does not apply to this plan. <link>Contact sales</link> for help.": null
@@ -22844,16 +22860,16 @@
 "{creatorName} changed the status from {oldValue} to {newValue}": null
 "{creatorName} changed the status from {oldValue} to {newValue}.": null
 "{creatorName} changed the status to {newValue}": null
-"{creatorName} completed the task you were waiting on": null
+"{creatorName} completed the task you were waiting on": "{creatorName} ha completato l'attività che stavi aspettando"
 "{creatorName} is waiting for your reply": null
 "{creatorName} made you the owner of this goal": null
-"{creatorName} made you the owner of this goal.": null
+"{creatorName} made you the owner of this goal.": "ti {creatorName} ha reso il proprietario di questo obiettivo."
 "{creatorName} mentioned you": null
 "{creatorName} reassigned [the task] to {assigneeName}": null
 "{creatorName} removed you as the owner of this goal": null
 "{creatorName} removed you as the owner of this goal.": null
 "{creatorName} sent you a message": null
-"{creatorName} sent you a message.": null
+"{creatorName} sent you a message.": "ti {creatorName} ha inviato un messaggio."
 "{creatorName} shared a dashboard with you": null
 "{creatorText}: {text}": null
 "{creators} added {count} tasks": null
@@ -22875,7 +22891,7 @@
 "{currentTier}, {tierPrice} per seat per month": null
 "{currentTier}, {tierPrice} per seat per month, Current plan": null
 "{customFieldName} begins with \"{text}\"": null
-"{customFieldName} by {grouping}": null
+"{customFieldName} by {grouping}": "{customFieldName} di {grouping}"
 "{customFieldName} cleared": null
 "{customFieldName} cleared ": null
 "{customFieldName} contains \"{text}\"": null
@@ -22889,7 +22905,7 @@
 "{customFieldName} is less than {maxValue}": null
 "{customFieldName} set": null
 "{customFieldName} set to all of {customFieldList}": null
-"{customFieldName} set to all of {customFieldList} ->": null
+"{customFieldName} set to all of {customFieldList} ->": "{customFieldName} impostato su tutti {customFieldList} →"
 "{customFieldName} set to all {count} options": null
 "{customFieldName} set to all {count} people": null
 "{customFieldName} set to any of {count} options": null
@@ -23021,7 +23037,9 @@
 "{groupName} is using {count} seats in a free plan.": null
 "{groupName} is using {count} seats in a trial plan.": null
 "{groupName} is using {count} seats in a {currentSeats} seat plan.": null
-"{groupSize} of {count} members invited.": null
+"{groupSize} of {count} members invited.":
+  "count_one": "{groupSize} del {count} membro invitato."
+  "count_other": "{groupSize} dei {count} membri invitati."
 "{hearters} <others>and {number} others</others>": null
 "{hours}h {minutes_as_str}m [abbreviation for hours and minutes]": null
 "{hours}hr": null
@@ -23033,8 +23051,8 @@
 "{inviterName} invited you to join the {teamName} team": null
 "{inviterName} invited you to join {orgName}": null
 "{inviter} added you to Asana. Start collaborating with your team.": null
-"{inviter} added you to {team}": null
-"{inviter} added you to {team} Team. Welcome to the team!": null
+"{inviter} added you to {team}": "ti {inviter} ha aggiunto a \"{team}\""
+"{inviter} added you to {team} Team. Welcome to the team!": "ti {inviter} ha aggiunto al {team} team. Benvenuto nel team!"
 "{inviter} added you to {team} team": null
 "{inviter} invited you to join <link>{domain}</link>": null
 "{inviter} invited you to join <link>{team}</link>": null
@@ -23086,7 +23104,7 @@
 "{listOfNames}... <div>all liked this</div>": null
 "{listOfNames}<div>and {count} others...</div>": null
 "{localTime} local time": null
-"{localizedDateString} at {localizedTimeString}": null
+"{localizedDateString} at {localizedTimeString}": "{localizedDateString} a {localizedTimeString}"
 "{localizedDateString} {localizedTimeString}": null
 "{localizedDateString} {variant} {localizedTimeString}":
   "variants": null
@@ -23189,7 +23207,7 @@
 "{name} was removed from {parent}.": null
 "{name} was removed.": null
 "{name} will be added as a member of the {teamName} team.": null
-"{name} will be assigned a copy.": null
+"{name} will be assigned a copy.": "{name} verrà assegnata una copia."
 "{name} will be immediately logged out Asana and will not be required [...]": null
 "{name} will be immediately logged out of Asana.": null
 "{name} will be immediately logged out of Asana. They will be prompted [...]": null
@@ -23199,7 +23217,7 @@
 "{name} will be removed from {division} but will be able to request {domain} [...]": null
 "{name} will be removed from {domain}. All of {name}'s tasks will be [...]": null
 "{name} will ne notified": null
-"{name} will no longer be able to access {domain}": null
+"{name} will no longer be able to access {domain}": "non {name} sarà più in grado di accedere {domain}"
 "{name}'s First Team": null
 "{name}'s Portfolio": null
 "{name}'s Previously Assigned Tasks": null
@@ -23250,7 +23268,7 @@
 "{numPeople} people will be assigned a duplicate.": null
 "{numSeats} seats billed {variant}":
   "variants": null
-"{numTasks} tasks assigned to {assigneeNameLink}": null
+"{numTasks} tasks assigned to {assigneeNameLink}": "{numTasks} compiti assegnati a {assigneeNameLink}"
 "{numTasks} tasks assigned to {assigneeNameLink} and rescheduled": null
 "{numTasks} tasks moved": null
 "{numTasks} tasks moved to {sectionName}": null
@@ -23295,7 +23313,7 @@
 "{partialName}... [noun]": null
 "{partyEmoji} Congratulations, you've created your first project!": null
 "{partyEmoji} You started your first project": null
-"{paymentCardType} ending in {paymentCardLastDigits}": null
+"{paymentCardType} ending in {paymentCardLastDigits}": "{paymentCardType} che termina con {paymentCardLastDigits}"
 "{pencilEmoji} Create a first task [Template content Team Lead Mobile NUX]": null
 "{pencilEmoji} Create a task for yourself [Template content Invited IC Mobile NUX]": null
 "{pencilEmoji} Create your first task [Template content Team Lead Mobile NUX]": null
@@ -23304,7 +23322,7 @@
 "{percentage}%": null
 "{percentage}% complete": null
 "{plain_email} is not a member of {domain_name}.": null
-"{plain_email} is not a recognized address.": null
+"{plain_email} is not a recognized address.": "non {plain_email} è un indirizzo riconosciuto."
 "{planName} (canceled - {count} days remain)": null
 "{planName} (canceled)": null
 "{planTitle} (canceled)": null
@@ -23325,7 +23343,7 @@
 "{price} / seat / month after trial for {variant}, then {undiscountedPrice}":
   "variants": null
 "{price} / seat / month for 12 months": null
-"{price} / seat / month for one year, then {undiscountedPrice}": null
+"{price} / seat / month for one year, then {undiscountedPrice}": "{price} / posto / mese per un anno, poi {undiscountedPrice}"
 "{price} / seat / month for {variant}, then {undiscountedPrice}":
   "variants": null
 "{price} / user / month for 12 months": null
@@ -23357,11 +23375,11 @@
 "{projectMemberNames} and {numOtherMembers} others": null
 "{projectMemberNames} and {projectMemberName}": null
 "{projectName} -- Project Brief": null
-"{projectName} Brief": null
+"{projectName} Brief": "{projectName} Brief"
 "{projectName} Project Brief": null
 "{projectName} has been marked as complete.": null
 "{projectName} is being created": null
-"{projectName} is being saved as a <link>project template</link>.": null
+"{projectName} is being saved as a <link>project template</link>.": "{projectName} viene salvato come modello di <link>progetto</link>."
 "{projectName} is complete": null
 "{projectName} not updated, total number of Custom Fields must be less than {maxNumberOfCustomFieldsOnProject}.": null
 "{projectName} not updated, total number of custom fields must be less than {maxNumberOfCustomFieldsOnProject}.": null
@@ -23431,7 +23449,7 @@
 "{taskName} is starting now": null
 "{taskName} was created successfully.": null
 "{taskName} was marked as a Milestone.": null
-"{taskName} was marked as a milestone.": null
+"{taskName} was marked as a milestone.": "{taskName} è stato contrassegnato come traguardo."
 "{taskName} was marked as an Approval.": null
 "{taskName} was marked as an approval request.": null
 "{taskName} will be removed from Zoom and deleted in Asana.": null
@@ -23495,7 +23513,7 @@
 "{userName1}, {userName2}, and {userName3} liked {variant}":
   "variants": null
 "{userNameOrEmail} is already a billing owner for the {divisionName} division. Please select <a> [...]": null
-"{userName} canceled their request to join {teamName}.": null
+"{userName} canceled their request to join {teamName}.": "{userName} ha annullato la sua richiesta di iscrizione {teamName}."
 "{userName} deleted {projectTemplateName}": null
 "{userName} has been added to {teamName}.": null
 "{userName} hasn't accepted your invitation to join {teamName}": null
@@ -23510,7 +23528,7 @@
 "{userName} was removed from the org.": null
 "{userName} was removed from the team.": null
 "{userName} was removed from {groupName}.": null
-"{userName} will be added to <teamNameWrapper>{teamName}</teamNameWrapper> once approved by a team admin": null
+"{userName} will be added to <teamNameWrapper>{teamName}</teamNameWrapper> once approved by a team admin": "{userName} verrà aggiunto a <teamNameWrapper>{teamName}</teamNameWrapper> una volta approvato da un amministratore del team"
 "{userName} will be assigned a copy.": null
 "{userName} will be assigned a duplicate.": null
 "{userName} will not be added to {teamName}.": null
