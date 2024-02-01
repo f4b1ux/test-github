@@ -119,17 +119,9 @@
       count_one: <div>You</div> {listOfNames} … and {count} other all {heart} this
       count_other: <div>You</div> {listOfNames} … and {count} others all {heart} this
 'On':
-  value: "On"
+  value: on
 'off':
-  value: "off"
-"test":
-  value: "Test"
-"test2":
-  value: "hello world0"
-"Test3":
-  value: "My name is mr. wolf"
-"test 4":
-  value: "hello friend"
+  value: off
 '{variant} can add, edit, and delete content or customize the project. [collab]':
   author: kiranrao
   locations:
@@ -140,9 +132,9 @@
     Task followers: Task followers can add, edit, and delete content or customize the project.
     The team: The team can add, edit, and delete content or customize the project.
     _default: '{variant} can add, edit, and delete content or customize the project'
-"test 11":
-  value: "hi friend!"
-"test 19":
-  value: "this is a test"
-"test 20":
-  value: "This is a new test!"
+'yes':
+  value: yes
+'no':
+  value: no
+'numbers':
+  value: 10
