@@ -1,0 +1,18 @@
+{
+  "src/yaml/it-IT/test2.yml": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "src/yaml/es-ES/test2.yml": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ]
+}
