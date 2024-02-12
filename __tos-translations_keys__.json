@@ -23281,7 +23281,6 @@
     "{wave} Nested and with newlines: [...]",
     "{wavingEmoji} <STRONG>Welcome to My Tasks!</STRONG>My Tasks shows all tasks assigned to you {smilingWithSunglassesEmoji} <LI> <OL> <UL> {pointingEmoji} [...]",
     "{weeks}wk",
-    "{workflowKitName} is being added to the project.",
     "{workflowKitName} was added successfully.",
     "{workflowKitName} was deleted.",
     "{workflowKitName} was removed from this project.",
