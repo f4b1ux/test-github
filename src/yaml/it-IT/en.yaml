@@ -23772,7 +23772,7 @@
 "{wave} Nested and with newlines: [...]": null
 "{wavingEmoji} <STRONG>Welcome to My Tasks!</STRONG>My Tasks shows all tasks assigned to you {smilingWithSunglassesEmoji} <LI> <OL> <UL> {pointingEmoji} [...]": null
 "{weeks}wk": null
-"{workflowKitName} is being added to the project.": null
+"{workflowKitName} is being added to the project.": "{workflowKitName} viene aggiunto al progetto."
 "{workflowKitName} was added successfully.": null
 "{workflowKitName} was deleted.": null
 "{workflowKitName} was removed from this project.": null
