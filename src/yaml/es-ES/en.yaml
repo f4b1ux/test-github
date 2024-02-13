@@ -23774,7 +23774,7 @@
 "{weeks}wk": null
 "{workflowKitName} is being added to the project.": null
 "{workflowKitName} was added successfully.": null
-"{workflowKitName} was deleted.": null
+"{workflowKitName} was deleted.": "{workflowKitName} se eliminó."
 "{workflowKitName} was removed from this project.": null
 "{years}yr": null
 "{you} have a task starting {startDate}.": null
