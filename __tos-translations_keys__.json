@@ -46572,7 +46572,6 @@
     "{weeks}wk",
     "{workflowKitName} is being added to the project.",
     "{workflowKitName} was added successfully.",
-    "{workflowKitName} was deleted.",
     "{workflowKitName} was removed from this project.",
     "{years}yr",
     "{you} have a task starting {startDate}."
