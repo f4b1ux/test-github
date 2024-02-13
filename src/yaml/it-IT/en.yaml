@@ -23770,7 +23770,7 @@
 "{warningIcon} You can only add {maximumNumber} members at a time": null
 "{waveEmoji} Hi {userName}! You're receiving this because you're the owner of these [...]": null
 "{wave} Nested and with newlines: [...]": null
-"{wavingEmoji} <STRONG>Welcome to My Tasks!</STRONG>My Tasks shows all tasks assigned to you {smilingWithSunglassesEmoji} <LI> <OL> <UL> {pointingEmoji} [...]": null
+"{wavingEmoji} <STRONG>Welcome to My Tasks!</STRONG>My Tasks shows all tasks assigned to you {smilingWithSunglassesEmoji} <LI> <OL> <UL> {pointingEmoji} [...]": "{wavingEmoji} <STRONG>Benvenuto in I miei compiti!</STRONG>\n\nMy Tasks mostra tutte le attività assegnate in uno spazio di pianificazione personale. Usa Le mie attività per:<UL><LI>Pianificare e organizzare le attività con le sezioni</LI><LI>Monitorare e gestire le cose da fare</LI><LI>Ordinare le attività per data di scadenza, progetti o priorità\n</LI></UL>{pointingEmoji} <STRONG>Provalo!</STRONG><OL><LI>Aggiungi una delle tue cose da fare con \"Aggiungi attività\"</LI><LI>Dai una data di scadenza all'attività</LI><LI> Quindi, completa questa attività!</LI></OL>\n\n{smilingWithSunglassesEmoji} <STRONG>Suggerimento: le</STRONG> attività che crei in Le mie attività sono private. Ciò significa che solo tu puoi vederli."
 "{weeks}wk": null
 "{workflowKitName} is being added to the project.": null
 "{workflowKitName} was added successfully.": null
