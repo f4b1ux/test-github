@@ -1,0 +1,8 @@
+{
+  "src/yaml/it-IT/test2.yaml": [
+    "key"
+  ],
+  "src/yaml/es-ES/test2.yaml": [
+    "key"
+  ]
+}
